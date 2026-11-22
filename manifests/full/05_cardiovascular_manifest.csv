@@ -1,0 +1,677 @@
+object,source_type,collection_path,vertices,triangles
+(Deep branch of transverse cervical artery).l,CURVE,5: Cardiovascular system,4356,8640
+(Deep branch of transverse cervical artery).r,CURVE,5: Cardiovascular system,4356,8640
+(Superficial branch of transverse cervical artery).l,CURVE,5: Cardiovascular system,1596,3168
+(Superficial branch of transverse cervical artery).r,CURVE,5: Cardiovascular system,1596,3168
+(Ulnar recurrent artery).l,CURVE,5: Cardiovascular system,300,576
+(Ulnar recurrent artery).r,CURVE,5: Cardiovascular system,300,576
+????????,CURVE,5: Cardiovascular system,10440,20736
+?x.l,CURVE,5: Cardiovascular system,1884,3744
+?x.r,CURVE,5: Cardiovascular system,1884,3744
+Abdominal aorta,CURVE,5: Cardiovascular system,1020,2016
+Accessory branch of middle meningeal artery.l,CURVE,5: Cardiovascular system,732,1440
+Accessory branch of middle meningeal artery.r,CURVE,5: Cardiovascular system,732,1440
+Accessory hemi-azygos vein,CURVE,5: Cardiovascular system,2748,5472
+Angular artery.l,CURVE,5: Cardiovascular system,5988,11808
+Angular artery.r,CURVE,5: Cardiovascular system,5988,11808
+Angular vein.l,CURVE,5: Cardiovascular system,2184,4320
+Angular vein.r,CURVE,5: Cardiovascular system,2184,4320
+Anterior basal segmental artery of left lung,CURVE,5: Cardiovascular system,2796,5472
+Anterior basal segmental artery of right lung,CURVE,5: Cardiovascular system,1632,3168
+Anterior branch of renal artery.l,CURVE,5: Cardiovascular system,444,864
+Anterior branch of renal artery.r,CURVE,5: Cardiovascular system,588,1152
+Anterior cerebral artery.l,CURVE,5: Cardiovascular system,444,864
+Anterior cerebral artery.r,CURVE,5: Cardiovascular system,444,864
+Anterior circumflex humeral artery.l,CURVE,5: Cardiovascular system,1320,2592
+Anterior circumflex humeral artery.r,CURVE,5: Cardiovascular system,1320,2592
+Anterior circumflex humeral vein.l,CURVE,5: Cardiovascular system,1896,3744
+Anterior circumflex humeral vein.r,CURVE,5: Cardiovascular system,1896,3744
+Anterior communicating artery,MESH,5: Cardiovascular system,55,106
+Anterior deep temporal artery.l,CURVE,5: Cardiovascular system,2052,4032
+Anterior deep temporal artery.r,CURVE,5: Cardiovascular system,2052,4032
+Anterior division of internal iliac artery.l,CURVE,5: Cardiovascular system,156,288
+Anterior division of internal iliac artery.r,CURVE,5: Cardiovascular system,156,288
+Anterior division of retromandibular vein.l,CURVE,5: Cardiovascular system,300,576
+Anterior division of retromandibular vein.r,CURVE,5: Cardiovascular system,300,576
+Anterior ethmoidal artery.l,CURVE,5: Cardiovascular system,1884,3744
+Anterior ethmoidal artery.r,CURVE,5: Cardiovascular system,1884,3744
+Anterior inferior cerebellar artery.l,CURVE,5: Cardiovascular system,2316,4608
+Anterior inferior cerebellar artery.r,CURVE,5: Cardiovascular system,2316,4608
+Anterior inferior pancreaticoduodenal artery,CURVE,5: Cardiovascular system,4500,8928
+Anterior intercavernous sinus,CURVE,5: Cardiovascular system,300,576
+Anterior interventricular artery,CURVE,5: Cardiovascular system,5832,11520
+Anterior jugular vein.l,CURVE,5: Cardiovascular system,876,1728
+Anterior jugular vein.r,CURVE,5: Cardiovascular system,876,1728
+Anterior papillary muscle of right ventricle,MESH,5: Cardiovascular system,774,1544
+Anterior segmental artery of left lung,CURVE,5: Cardiovascular system,3528,6912
+Anterior segmental artery of right lung,CURVE,5: Cardiovascular system,2976,5760
+Anterior semilunar leaflet of pulmonary valve,MESH,5: Cardiovascular system,1275,2546
+Anterior septal branches of anterior ethmoidal artery.l,CURVE,5: Cardiovascular system,1452,2880
+Anterior septal branches of anterior ethmoidal artery.r,CURVE,5: Cardiovascular system,1452,2880
+Anterior spinal artery.l,CURVE,5: Cardiovascular system,876,1728
+Anterior spinal artery.r,CURVE,5: Cardiovascular system,876,1728
+Anterior temporal branch.l,CURVE,5: Cardiovascular system,5232,10368
+Anterior temporal branch.r,CURVE,5: Cardiovascular system,5232,10368
+Anterior tibial artery.l,CURVE,5: Cardiovascular system,2172,4320
+Anterior tibial artery.r,CURVE,5: Cardiovascular system,2172,4320
+Anterior tibial veins.l,CURVE,5: Cardiovascular system,2316,4608
+Anterior tibial veins.r,CURVE,5: Cardiovascular system,2316,4608
+Anterior vein of left lung,CURVE,5: Cardiovascular system,1476,2880
+Anterior vein of right lung,CURVE,5: Cardiovascular system,1176,2304
+Aortic arch,CURVE,5: Cardiovascular system,300,576
+Apical segmental artery of left lung,CURVE,5: Cardiovascular system,1920,3744
+Apical segmental artery of right lung,CURVE,5: Cardiovascular system,4740,9216
+Apical vein of right lung,CURVE,5: Cardiovascular system,2940,5760
+Apicoposterior vein of left lung,CURVE,5: Cardiovascular system,7200,14112
+Appendicular artery,CURVE,5: Cardiovascular system,2508,4896
+Arcuate artery.l,CURVE,5: Cardiovascular system,732,1440
+Arcuate artery.r,CURVE,5: Cardiovascular system,732,1440
+Artery of central sulcus.l,CURVE,5: Cardiovascular system,2316,4608
+Artery of central sulcus.r,CURVE,5: Cardiovascular system,2316,4608
+Artery of precentral sulcus.l,CURVE,5: Cardiovascular system,6288,12384
+Artery of precentral sulcus.r,CURVE,5: Cardiovascular system,6288,12384
+Artery of pterygoid canal.l,CURVE,5: Cardiovascular system,732,1440
+Artery of pterygoid canal.r,CURVE,5: Cardiovascular system,732,1440
+Ascending aorta,CURVE,5: Cardiovascular system,300,576
+Ascending branch of left colic artery,CURVE,5: Cardiovascular system,876,1728
+Ascending pharyngeal artery.l,CURVE,5: Cardiovascular system,3060,6048
+Ascending pharyngeal artery.r,CURVE,5: Cardiovascular system,3060,6048
+Axillary artery.l,CURVE,5: Cardiovascular system,588,1152
+Axillary artery.r,CURVE,5: Cardiovascular system,588,1152
+Axillary vein.l,CURVE,5: Cardiovascular system,876,1728
+Axillary vein.r,CURVE,5: Cardiovascular system,876,1728
+Azygos vein,CURVE,5: Cardiovascular system,2748,5472
+Basilar artery,CURVE,5: Cardiovascular system,444,864
+Basilar venous plexus,MESH,5: Cardiovascular system,1830,3512
+Basilic vein.l,CURVE,5: Cardiovascular system,2172,4320
+Basilic vein.r,CURVE,5: Cardiovascular system,2172,4320
+Bifurcation of pulmonary trunk,CURVE,5: Cardiovascular system,600,1152
+Brachial artery.l,CURVE,5: Cardiovascular system,1452,2880
+Brachial artery.r,CURVE,5: Cardiovascular system,1452,2880
+Brachial veins.l,CURVE,5: Cardiovascular system,1164,2304
+Brachial veins.r,CURVE,5: Cardiovascular system,1164,2304
+Brachiocephalic trunk,CURVE,5: Cardiovascular system,300,576
+Branch to angular gyrus.l,CURVE,5: Cardiovascular system,444,864
+Branch to angular gyrus.r,CURVE,5: Cardiovascular system,444,864
+Buccal artery.l,CURVE,5: Cardiovascular system,732,1440
+Buccal artery.r,CURVE,5: Cardiovascular system,732,1440
+Calcaneal branches of fibular artery.l,CURVE,5: Cardiovascular system,300,576
+Calcaneal branches of fibular artery.r,CURVE,5: Cardiovascular system,300,576
+Calcaneal branches of posterior tibial artery.l,CURVE,5: Cardiovascular system,444,864
+Calcaneal branches of posterior tibial artery.r,CURVE,5: Cardiovascular system,444,864
+Callosomarginal artery.l,CURVE,5: Cardiovascular system,7560,14976
+Callosomarginal artery.r,CURVE,5: Cardiovascular system,7560,14976
+Cavernous sinus.l,MESH,5: Cardiovascular system,330,608
+Cavernous sinus.r,MESH,5: Cardiovascular system,330,608
+Central retinal artery.l,CURVE,5: Cardiovascular system,104616,207360
+Central retinal artery.r,CURVE,5: Cardiovascular system,104616,207360
+Cephalic vein.l,CURVE,5: Cardiovascular system,3468,6912
+Cephalic vein.r,CURVE,5: Cardiovascular system,3468,6912
+Circumflex artery of heart,CURVE,5: Cardiovascular system,8280,16416
+Circumflex scapular artery.l,CURVE,5: Cardiovascular system,588,1152
+Circumflex scapular artery.r,CURVE,5: Cardiovascular system,588,1152
+Circumflex scapular vein.l,CURVE,5: Cardiovascular system,732,1440
+Circumflex scapular vein.r,CURVE,5: Cardiovascular system,732,1440
+Coeliac trunk,CURVE,5: Cardiovascular system,300,576
+Colic branch of ileocolic artery,CURVE,5: Cardiovascular system,1452,2880
+Common facial vein.l,CURVE,5: Cardiovascular system,300,576
+Common facial vein.r,CURVE,5: Cardiovascular system,300,576
+Common hepatic artery,CURVE,5: Cardiovascular system,300,576
+Common iliac artery.l,CURVE,5: Cardiovascular system,156,288
+Common iliac artery.r,CURVE,5: Cardiovascular system,300,576
+Common iliac vein.l,CURVE,5: Cardiovascular system,300,576
+Common iliac vein.r,CURVE,5: Cardiovascular system,156,288
+Common interosseous artery.l,CURVE,5: Cardiovascular system,156,288
+Common interosseous artery.r,CURVE,5: Cardiovascular system,156,288
+Common palmar digital arteries.l,CURVE,5: Cardiovascular system,1632,3168
+Common palmar digital arteries.r,CURVE,5: Cardiovascular system,1632,3168
+Common plantar digital arteries.l,CURVE,5: Cardiovascular system,1488,2880
+Common plantar digital arteries.r,CURVE,5: Cardiovascular system,1488,2880
+Coronary sinus,CURVE,5: Cardiovascular system,732,1440
+Costocervical trunk.l,CURVE,5: Cardiovascular system,156,288
+Costocervical trunk.r,CURVE,5: Cardiovascular system,156,288
+Deep artery of penis.l,CURVE,5: Cardiovascular system,1596,3168
+Deep artery of penis.r,CURVE,5: Cardiovascular system,1596,3168
+Deep brachial artery.l,CURVE,5: Cardiovascular system,444,864
+Deep brachial artery.r,CURVE,5: Cardiovascular system,444,864
+Deep cervical artery.l,CURVE,5: Cardiovascular system,1596,3168
+Deep cervical artery.r,CURVE,5: Cardiovascular system,1596,3168
+Deep dorsal vein of penis,CURVE,5: Cardiovascular system,2184,4320
+Deep external pudendal artery.l,CURVE,5: Cardiovascular system,588,1152
+Deep external pudendal artery.r,CURVE,5: Cardiovascular system,588,1152
+Deep femoral artery.l,CURVE,5: Cardiovascular system,1164,2304
+Deep femoral artery.r,CURVE,5: Cardiovascular system,1164,2304
+Deep femoral vein.l,CURVE,5: Cardiovascular system,1596,3168
+Deep femoral vein.r,CURVE,5: Cardiovascular system,1596,3168
+Deep palmar arch.l,CURVE,5: Cardiovascular system,1164,2304
+Deep palmar arch.r,CURVE,5: Cardiovascular system,1164,2304
+Deep plantar artery.l,CURVE,5: Cardiovascular system,588,1152
+Deep plantar artery.r,CURVE,5: Cardiovascular system,588,1152
+Deep venous palmar arch.l,CURVE,5: Cardiovascular system,2460,4896
+Deep venous palmar arch.r,CURVE,5: Cardiovascular system,2460,4896
+Descending branch of lateral circumflex femoral artery.l,CURVE,5: Cardiovascular system,1164,2304
+Descending branch of left colic artery,CURVE,5: Cardiovascular system,1464,2880
+Descending palatine artery.l,CURVE,5: Cardiovascular system,1740,3456
+Descending palatine artery.r,CURVE,5: Cardiovascular system,1740,3456
+Distal lateral striate branches.l,CURVE,5: Cardiovascular system,4716,9216
+Distal lateral striate branches.r,CURVE,5: Cardiovascular system,4716,9216
+Dorsal artery of penis.l,CURVE,5: Cardiovascular system,5916,11520
+Dorsal artery of penis.r,CURVE,5: Cardiovascular system,5916,11520
+Dorsal carpal anastomosis.l,CURVE,5: Cardiovascular system,300,576
+Dorsal carpal anastomosis.r,CURVE,5: Cardiovascular system,300,576
+Dorsal carpal branch of ulnar artery.l,CURVE,5: Cardiovascular system,876,1728
+Dorsal carpal branch of ulnar artery.r,CURVE,5: Cardiovascular system,876,1728
+Dorsal digital arteries of foot.l,CURVE,5: Cardiovascular system,9600,19008
+Dorsal digital arteries of foot.r,CURVE,5: Cardiovascular system,9600,19008
+Dorsal digital arteries of hand.l,CURVE,5: Cardiovascular system,7584,14976
+Dorsal digital arteries of hand.r,CURVE,5: Cardiovascular system,7584,14976
+Dorsal digital veins of foot.l,CURVE,5: Cardiovascular system,8448,16704
+Dorsal digital veins of foot.r,CURVE,5: Cardiovascular system,8448,16704
+Dorsal digital veins of hand.l,CURVE,5: Cardiovascular system,9324,18432
+Dorsal digital veins of hand.r,CURVE,5: Cardiovascular system,9324,18432
+Dorsal metacarpal arteries.l,CURVE,5: Cardiovascular system,2940,5760
+Dorsal metacarpal arteries.r,CURVE,5: Cardiovascular system,2940,5760
+Dorsal metatarsal arteries.l,CURVE,5: Cardiovascular system,2064,4032
+Dorsal metatarsal arteries.r,CURVE,5: Cardiovascular system,2064,4032
+Dorsal metatarsal veins.l,CURVE,5: Cardiovascular system,2652,5184
+Dorsal metatarsal veins.r,CURVE,5: Cardiovascular system,2652,5184
+Dorsal venous arch of foot.l,CURVE,5: Cardiovascular system,1164,2304
+Dorsal venous arch of foot.r,CURVE,5: Cardiovascular system,1164,2304
+Dorsal venous network of hand.l,CURVE,5: Cardiovascular system,1308,2592
+Dorsal venous network of hand.r,CURVE,5: Cardiovascular system,1308,2592
+Dorsalis pedis artery.l,CURVE,5: Cardiovascular system,732,1440
+Dorsalis pedis artery.r,CURVE,5: Cardiovascular system,732,1440
+External carotid artery.l,CURVE,5: Cardiovascular system,876,1728
+External carotid artery.r,CURVE,5: Cardiovascular system,876,1728
+External iliac artery.l,CURVE,5: Cardiovascular system,444,864
+External iliac artery.r,CURVE,5: Cardiovascular system,444,864
+External iliac vein.l,CURVE,5: Cardiovascular system,300,576
+External iliac vein.r,CURVE,5: Cardiovascular system,300,576
+External jugular vein.l,CURVE,5: Cardiovascular system,1020,2016
+External jugular vein.r,CURVE,5: Cardiovascular system,1020,2016
+External pudendal veins.l,CURVE,5: Cardiovascular system,1608,3168
+External pudendal veins.r,CURVE,5: Cardiovascular system,1608,3168
+Facial artery.l,CURVE,5: Cardiovascular system,1308,2592
+Facial artery.r,CURVE,5: Cardiovascular system,1308,2592
+Facial vein.l,CURVE,5: Cardiovascular system,1740,3456
+Facial vein.r,CURVE,5: Cardiovascular system,1740,3456
+Femoral artery.l,CURVE,5: Cardiovascular system,2172,4320
+Femoral artery.r,CURVE,5: Cardiovascular system,2172,4320
+Femoral vein.l,CURVE,5: Cardiovascular system,2028,4032
+Femoral vein.r,CURVE,5: Cardiovascular system,2028,4032
+Fibular artery.l,CURVE,5: Cardiovascular system,3228,6336
+Fibular artery.r,CURVE,5: Cardiovascular system,3228,6336
+Fibular veins.l,CURVE,5: Cardiovascular system,1452,2880
+Fibular veins.r,CURVE,5: Cardiovascular system,1452,2880
+First posterior intercostal artery.l,CURVE,5: Cardiovascular system,1308,2592
+First posterior intercostal artery.r,CURVE,5: Cardiovascular system,1596,3168
+Frontal branch of superficial temporal artery.l,CURVE,5: Cardiovascular system,2316,4608
+Frontal branch of superficial temporal artery.r,CURVE,5: Cardiovascular system,2316,4608
+Frontal branches of callosomarginal artery.l,CURVE,5: Cardiovascular system,1020,2016
+Frontal branches of callosomarginal artery.r,CURVE,5: Cardiovascular system,1020,2016
+Gastroduodenal artery,CURVE,5: Cardiovascular system,444,864
+Genicular veins.l,CURVE,5: Cardiovascular system,5088,10080
+Genicular veins.r,CURVE,5: Cardiovascular system,5088,10080
+Great cardiac vein,CURVE,5: Cardiovascular system,7440,14688
+Great saphenous vein.l,CURVE,5: Cardiovascular system,4200,8352
+Great saphenous vein.r,CURVE,5: Cardiovascular system,4200,8352
+Greater palatine artery.l,CURVE,5: Cardiovascular system,1020,2016
+Greater palatine artery.r,CURVE,5: Cardiovascular system,1020,2016
+Hemi-azygos vein,CURVE,5: Cardiovascular system,1740,3456
+Hepatic portal vein,CURVE,5: Cardiovascular system,300,576
+Hepatic veins,CURVE,5: Cardiovascular system,312,576
+Ileal branch of ileocolic artery,CURVE,5: Cardiovascular system,300,576
+Ileocolic artery,CURVE,5: Cardiovascular system,444,864
+Iliacus branch of iliolumbar artery.l,CURVE,5: Cardiovascular system,1596,3168
+Iliacus branch of iliolumbar artery.r,CURVE,5: Cardiovascular system,1596,3168
+Iliolumbar artery.l,CURVE,5: Cardiovascular system,300,576
+Iliolumbar artery.r,CURVE,5: Cardiovascular system,300,576
+Iliolumbar vein.l,CURVE,5: Cardiovascular system,1740,3456
+Iliolumbar vein.r,CURVE,5: Cardiovascular system,1740,3456
+Inferior alveolar artery.l,CURVE,5: Cardiovascular system,2604,5184
+Inferior alveolar artery.r,CURVE,5: Cardiovascular system,2604,5184
+Inferior basal vein of left lung,CURVE,5: Cardiovascular system,2496,4896
+Inferior basal vein of right lung,CURVE,5: Cardiovascular system,4572,8928
+Inferior epigastric vein.l,CURVE,5: Cardiovascular system,1452,2880
+Inferior epigastric vein.r,CURVE,5: Cardiovascular system,1452,2880
+Inferior gluteal artery.l,CURVE,5: Cardiovascular system,1908,3744
+Inferior gluteal artery.r,CURVE,5: Cardiovascular system,1908,3744
+Inferior gluteal veins.l,CURVE,5: Cardiovascular system,2208,4320
+Inferior gluteal veins.r,CURVE,5: Cardiovascular system,2208,4320
+Inferior labial artery.l,CURVE,5: Cardiovascular system,1164,2304
+Inferior labial artery.r,CURVE,5: Cardiovascular system,1164,2304
+Inferior labial veins.l,CURVE,5: Cardiovascular system,3060,6048
+Inferior labial veins.r,CURVE,5: Cardiovascular system,3060,6048
+Inferior lateral genicular artery.l,CURVE,5: Cardiovascular system,1164,2304
+Inferior lateral genicular artery.r,CURVE,5: Cardiovascular system,1164,2304
+Inferior leaflet of right atrioventricular valve,MESH,5: Cardiovascular system,4912,9852
+Inferior lingular artery of left lung,CURVE,5: Cardiovascular system,1608,3168
+Inferior lingular vein of left lung,CURVE,5: Cardiovascular system,1320,2592
+Inferior lobar artery of right lung,CURVE,5: Cardiovascular system,300,576
+Inferior medial genicular artery.l,CURVE,5: Cardiovascular system,1020,2016
+Inferior medial genicular artery.r,CURVE,5: Cardiovascular system,1020,2016
+Inferior mesenteric artery,CURVE,5: Cardiovascular system,876,1728
+Inferior mesenteric vein,CURVE,5: Cardiovascular system,1020,2016
+Inferior ophthalmic vein.l,CURVE,5: Cardiovascular system,444,864
+Inferior ophthalmic vein.r,CURVE,5: Cardiovascular system,444,864
+Inferior pancreaticoduodenal artery,CURVE,5: Cardiovascular system,300,576
+Inferior papillary muscle of left ventricle,MESH,5: Cardiovascular system,782,1560
+Inferior papillary muscle of right ventricle,MESH,5: Cardiovascular system,547,1090
+Inferior petrosal sinus.l,CURVE,5: Cardiovascular system,876,1728
+Inferior petrosal sinus.r,CURVE,5: Cardiovascular system,876,1728
+Inferior phrenic artery,CURVE,5: Cardiovascular system,2028,4032
+Inferior sagittal sinus,CURVE,5: Cardiovascular system,1740,3456
+Inferior suprarenal artery.l,CURVE,5: Cardiovascular system,2508,4896
+Inferior suprarenal artery.r,CURVE,5: Cardiovascular system,2064,4032
+Inferior thyroid artery.l,CURVE,5: Cardiovascular system,744,1440
+Inferior thyroid artery.r,CURVE,5: Cardiovascular system,744,1440
+Inferior ulnar collateral artery.l,CURVE,5: Cardiovascular system,732,1440
+Inferior ulnar collateral artery.r,CURVE,5: Cardiovascular system,732,1440
+Inferior vein of left ventricle,CURVE,5: Cardiovascular system,5952,11808
+Inferior vein of left ventricle (//Posterior ''),CURVE,5: Cardiovascular system,11184,22176
+Inferior vena cava (abdominal part),CURVE,5: Cardiovascular system,300,576
+Inferior vena cava (thoracic part),CURVE,5: Cardiovascular system,444,864
+Infra-orbital artery.l,CURVE,5: Cardiovascular system,588,1152
+Infra-orbital artery.r,CURVE,5: Cardiovascular system,588,1152
+Insular branches of middle cerebral artery (M2).r,CURVE,5: Cardiovascular system,888,1728
+Insular branches of middle cerebral artery (M2-segment).l,CURVE,5: Cardiovascular system,888,1728
+Intercapitular veins of foot.l,CURVE,5: Cardiovascular system,3984,7776
+Intercapitular veins of foot.r,CURVE,5: Cardiovascular system,3984,7776
+Internal carotid artery.l,CURVE,5: Cardiovascular system,1452,2880
+Internal carotid artery.r,CURVE,5: Cardiovascular system,1452,2880
+Internal iliac artery.l,CURVE,5: Cardiovascular system,300,576
+Internal iliac artery.r,CURVE,5: Cardiovascular system,300,576
+Internal iliac vein.l,CURVE,5: Cardiovascular system,300,576
+Internal iliac vein.r,CURVE,5: Cardiovascular system,300,576
+Internal jugular vein.l,CURVE,5: Cardiovascular system,1740,3456
+Internal jugular vein.r,CURVE,5: Cardiovascular system,1740,3456
+Internal pudendal artery.l,CURVE,5: Cardiovascular system,1020,2016
+Internal pudendal artery.r,CURVE,5: Cardiovascular system,1020,2016
+Internal pudendal vein.l,CURVE,5: Cardiovascular system,1740,3456
+Internal pudendal vein.r,CURVE,5: Cardiovascular system,1740,3456
+Internal thoracic artery.l,CURVE,5: Cardiovascular system,1308,2592
+Internal thoracic artery.r,CURVE,5: Cardiovascular system,1308,2592
+Internal thoracic veins.l,CURVE,5: Cardiovascular system,1740,3456
+Internal thoracic veins.r,CURVE,5: Cardiovascular system,1740,3456
+Intrarenal arteries of left kidney,CURVE,5: Cardiovascular system,8304,16416
+Intrarenal arteries of right kidney,CURVE,5: Cardiovascular system,10380,20448
+Intrarenal veins of left kidney,CURVE,5: Cardiovascular system,11544,22752
+Intrarenal veins of right kidney,CURVE,5: Cardiovascular system,14448,28512
+Lacrimal artery.l,CURVE,5: Cardiovascular system,2196,4320
+Lacrimal artery.r,CURVE,5: Cardiovascular system,2196,4320
+Lateral basal segmental artery of left lung,CURVE,5: Cardiovascular system,2940,5760
+Lateral basal segmental artery of right lung,CURVE,5: Cardiovascular system,1476,2880
+Lateral circumflex femoral artery.l,CURVE,5: Cardiovascular system,1464,2880
+Lateral circumflex femoral artery.r,CURVE,5: Cardiovascular system,1464,2880
+Lateral circumflex femoral veins.l,CURVE,5: Cardiovascular system,1608,3168
+Lateral circumflex femoral veins.r,CURVE,5: Cardiovascular system,1608,3168
+Lateral frontobasal artery.l,CURVE,5: Cardiovascular system,2904,5760
+Lateral frontobasal artery.r,CURVE,5: Cardiovascular system,2904,5760
+Lateral occipital artery.l,CURVE,5: Cardiovascular system,2172,4320
+Lateral occipital artery.r,CURVE,5: Cardiovascular system,2172,4320
+Lateral plantar artery.l,CURVE,5: Cardiovascular system,444,864
+Lateral plantar artery.r,CURVE,5: Cardiovascular system,444,864
+Lateral plantar veins.l,CURVE,5: Cardiovascular system,588,1152
+Lateral plantar veins.r,CURVE,5: Cardiovascular system,588,1152
+Lateral pontine branches of basilar artery.l,CURVE,5: Cardiovascular system,1752,3456
+Lateral pontine branches of basilar artery.r,CURVE,5: Cardiovascular system,1752,3456
+Lateral sacral veins.l,CURVE,5: Cardiovascular system,732,1440
+Lateral sacral veins.r,CURVE,5: Cardiovascular system,732,1440
+Lateral segmental artery of right lung,CURVE,5: Cardiovascular system,1776,3456
+Lateral tarsal artery.l,CURVE,5: Cardiovascular system,588,1152
+Lateral tarsal artery.r,CURVE,5: Cardiovascular system,588,1152
+Lateral thoracic artery.l,CURVE,5: Cardiovascular system,1464,2880
+Lateral thoracic artery.r,CURVE,5: Cardiovascular system,1464,2880
+Lateral thoracic vein.l,CURVE,5: Cardiovascular system,5100,10080
+Lateral thoracic vein.r,CURVE,5: Cardiovascular system,5100,10080
+Lateral vein of right lung,CURVE,5: Cardiovascular system,2364,4608
+Left ascending lumbar vein,CURVE,5: Cardiovascular system,2460,4896
+Left atrium,MESH,5: Cardiovascular system,2609,5105
+Left colic artery,CURVE,5: Cardiovascular system,444,864
+Left common carotid artery,CURVE,5: Cardiovascular system,588,1152
+Left coronary artery,CURVE,5: Cardiovascular system,300,576
+Left coronary leaflet,MESH,5: Cardiovascular system,459,914
+Left gastric artery,CURVE,5: Cardiovascular system,744,1440
+Left gastro-omental vein,CURVE,5: Cardiovascular system,1308,2592
+Left inferior pulmonary vein,CURVE,5: Cardiovascular system,456,864
+Left pulmonary artery,CURVE,5: Cardiovascular system,1020,2016
+Left renal artery,CURVE,5: Cardiovascular system,156,288
+Left renal vein,CURVE,5: Cardiovascular system,732,1440
+Left semilunar leaflet of pulmonary valve,MESH,5: Cardiovascular system,998,1992
+Left subclavian artery,CURVE,5: Cardiovascular system,588,1152
+Left subclavian vein,CURVE,5: Cardiovascular system,588,1152
+Left subcostal vein,CURVE,5: Cardiovascular system,1884,3744
+Left superior intercostal vein,CURVE,5: Cardiovascular system,25608,50976
+Left superior pulmonary vein,CURVE,5: Cardiovascular system,468,864
+Left testicular artery,CURVE,5: Cardiovascular system,4476,8928
+Left testicular vein,CURVE,5: Cardiovascular system,4908,9792
+Left ventricle,MESH,5: Cardiovascular system,2856,5532
+Lingual vein.l,CURVE,5: Cardiovascular system,588,1152
+Lingual vein.r,CURVE,5: Cardiovascular system,588,1152
+Lingular vein of left lung,CURVE,5: Cardiovascular system,312,576
+Lumbar arteries.r,CURVE,5: Cardiovascular system,5952,11808
+Lumbar branch of iliolumbar artery.l,CURVE,5: Cardiovascular system,1332,2592
+Lumbar branch of iliolumbar artery.r,CURVE,5: Cardiovascular system,1332,2592
+Lumbar veins.l,CURVE,5: Cardiovascular system,2928,5760
+Lumbar veins.r,CURVE,5: Cardiovascular system,7392,14688
+Marginal artery,CURVE,5: Cardiovascular system,4812,9504
+Maxillary artery.l,CURVE,5: Cardiovascular system,4860,9504
+Maxillary artery.r,CURVE,5: Cardiovascular system,4860,9504
+Maxillary veins.l,CURVE,5: Cardiovascular system,1452,2880
+Maxillary veins.r,CURVE,5: Cardiovascular system,1452,2880
+Medial basal segmental artery of left lung,CURVE,5: Cardiovascular system,1032,2016
+Medial basal segmental artery of right lung,CURVE,5: Cardiovascular system,744,1440
+Medial circumflex femoral artery.l,CURVE,5: Cardiovascular system,1596,3168
+Medial circumflex femoral artery.r,CURVE,5: Cardiovascular system,1596,3168
+Medial circumflex femoral veins.l,CURVE,5: Cardiovascular system,1740,3456
+Medial circumflex femoral veins.r,CURVE,5: Cardiovascular system,1740,3456
+Medial occipital artery.l,CURVE,5: Cardiovascular system,2604,5184
+Medial occipital artery.r,CURVE,5: Cardiovascular system,2604,5184
+Medial plantar artery.l,CURVE,5: Cardiovascular system,732,1440
+Medial plantar artery.r,CURVE,5: Cardiovascular system,732,1440
+Medial plantar veins.l,CURVE,5: Cardiovascular system,1164,2304
+Medial plantar veins.r,CURVE,5: Cardiovascular system,1164,2304
+Medial pontine branches of basilar artery.l,CURVE,5: Cardiovascular system,1176,2304
+Medial pontine branches of basilar artery.r,CURVE,5: Cardiovascular system,1176,2304
+Medial segmental artery of right lung,CURVE,5: Cardiovascular system,1764,3456
+Medial vein of right lung,CURVE,5: Cardiovascular system,1620,3168
+Median antebrachial vein.l,CURVE,5: Cardiovascular system,2628,5184
+Median antebrachial vein.r,CURVE,5: Cardiovascular system,2628,5184
+Median cubital vein.l,CURVE,5: Cardiovascular system,888,1728
+Median cubital vein.r,CURVE,5: Cardiovascular system,888,1728
+Median sacral artery,CURVE,5: Cardiovascular system,1452,2880
+Mental branch of inferior alveolar artery.l,CURVE,5: Cardiovascular system,600,1152
+Mental branch of inferior alveolar artery.r,CURVE,5: Cardiovascular system,600,1152
+Middle cerebral artery (M1-segment).l,CURVE,5: Cardiovascular system,732,1440
+Middle cerebral artery (M1-segment).r,CURVE,5: Cardiovascular system,732,1440
+Middle cerebral artery (M3 segment).l,CURVE,5: Cardiovascular system,1884,3744
+Middle cerebral artery (M3-segment).r,CURVE,5: Cardiovascular system,1884,3744
+Middle colic artery,CURVE,5: Cardiovascular system,1176,2304
+Middle collateral artery.l,CURVE,5: Cardiovascular system,444,864
+Middle collateral artery.r,CURVE,5: Cardiovascular system,444,864
+Middle genicular artery.l,CURVE,5: Cardiovascular system,2508,4896
+Middle genicular artery.r,CURVE,5: Cardiovascular system,2508,4896
+Middle lobar artery of right lung,CURVE,5: Cardiovascular system,156,288
+Middle meningeal artery.l,CURVE,5: Cardiovascular system,732,1440
+Middle meningeal artery.r,CURVE,5: Cardiovascular system,732,1440
+Musculophrenic artery.l,CURVE,5: Cardiovascular system,1740,3456
+Musculophrenic artery.r,CURVE,5: Cardiovascular system,1740,3456
+Musculophrenic veins.l,CURVE,5: Cardiovascular system,1308,2592
+Musculophrenic veins.r,CURVE,5: Cardiovascular system,1308,2592
+Mylohyoid branch of inferior alveolar artery.l,CURVE,5: Cardiovascular system,1620,3168
+Mylohyoid branch of inferior alveolar artery.r,CURVE,5: Cardiovascular system,1620,3168
+Non-coronary leaflet,MESH,5: Cardiovascular system,160,316
+Obturator artery.l,CURVE,5: Cardiovascular system,876,1728
+Obturator artery.r,CURVE,5: Cardiovascular system,876,1728
+Occipital artery.l,CURVE,5: Cardiovascular system,6876,13536
+Occipital artery.r,CURVE,5: Cardiovascular system,6876,13536
+Occipital sinus,CURVE,5: Cardiovascular system,588,1152
+Occipital vein.l,CURVE,5: Cardiovascular system,2616,5184
+Occipital vein.r,CURVE,5: Cardiovascular system,2616,5184
+Ophthalmic artery.l,CURVE,5: Cardiovascular system,876,1728
+Ophthalmic artery.r,CURVE,5: Cardiovascular system,876,1728
+Orbitofrontal branches of anterior cerebral artery.l,CURVE,5: Cardiovascular system,2328,4608
+Orbitofrontal branches of anterior cerebral artery.r,CURVE,5: Cardiovascular system,2328,4608
+Palmar carpal branch of radial artery.l,CURVE,5: Cardiovascular system,300,576
+Palmar carpal branch of radial artery.r,CURVE,5: Cardiovascular system,300,576
+Palmar digital veins.l,CURVE,5: Cardiovascular system,14412,28512
+Palmar digital veins.r,CURVE,5: Cardiovascular system,14412,28512
+Parietal branches of middle cerebral artery.l,CURVE,5: Cardiovascular system,2040,4032
+Parietal branches of middle cerebral artery.r,CURVE,5: Cardiovascular system,2040,4032
+Parieto-occipital artery.l,CURVE,5: Cardiovascular system,4212,8352
+Parieto-occipital artery.r,CURVE,5: Cardiovascular system,4212,8352
+Patellar anastomosis.l,CURVE,5: Cardiovascular system,4812,9504
+Patellar anastomosis.r,CURVE,5: Cardiovascular system,4812,9504
+Pectoral branches of thoraco-acromial artery.l,CURVE,5: Cardiovascular system,876,1728
+Pectoral branches of thoraco-acromial artery.r,CURVE,5: Cardiovascular system,876,1728
+Perforating branches of plantar metatarsal arteries.l,CURVE,5: Cardiovascular system,1536,2880
+Perforating branches of plantar metatarsal arteries.r,CURVE,5: Cardiovascular system,1536,2880
+Perforating veins.l,CURVE,5: Cardiovascular system,1200,2304
+Perforating veins.r,CURVE,5: Cardiovascular system,1200,2304
+Pericallosal artery.l,CURVE,5: Cardiovascular system,16260,32256
+Pericallosal artery.r,CURVE,5: Cardiovascular system,16260,32256
+Plantar arch.l,CURVE,5: Cardiovascular system,1164,2304
+Plantar arch.r,CURVE,5: Cardiovascular system,1164,2304
+Plantar digital veins.l,CURVE,5: Cardiovascular system,12792,25344
+Plantar digital veins.r,CURVE,5: Cardiovascular system,12792,25344
+Plantar venous arch.l,CURVE,5: Cardiovascular system,876,1728
+Plantar venous arch.r,CURVE,5: Cardiovascular system,876,1728
+Popliteal artery.l,CURVE,5: Cardiovascular system,1020,2016
+Popliteal artery.r,CURVE,5: Cardiovascular system,1020,2016
+Popliteal vein.l,CURVE,5: Cardiovascular system,1020,2016
+Popliteal vein.r,CURVE,5: Cardiovascular system,1020,2016
+Postcentral arterial branch.r,CURVE,5: Cardiovascular system,2472,4896
+Posterior auricular vein.l,CURVE,5: Cardiovascular system,1020,2016
+Posterior auricular vein.r,CURVE,5: Cardiovascular system,1020,2016
+Posterior basal segmental artery of left lung,CURVE,5: Cardiovascular system,3084,6048
+Posterior basal segmental artery of right lung,CURVE,5: Cardiovascular system,1032,2016
+Posterior branch of renal artery.l,CURVE,5: Cardiovascular system,444,864
+Posterior branch of renal artery.r,CURVE,5: Cardiovascular system,876,1728
+Posterior cerebral artery.l,CURVE,5: Cardiovascular system,16992,33696
+Posterior cerebral artery.r,CURVE,5: Cardiovascular system,16992,33696
+Posterior circumflex humeral artery.l,CURVE,5: Cardiovascular system,588,1152
+Posterior circumflex humeral artery.r,CURVE,5: Cardiovascular system,588,1152
+Posterior communicating artery.l,CURVE,5: Cardiovascular system,444,864
+Posterior communicating artery.r,CURVE,5: Cardiovascular system,444,864
+Posterior deep temporal artery.l,CURVE,5: Cardiovascular system,1908,3744
+Posterior deep temporal artery.r,CURVE,5: Cardiovascular system,1908,3744
+Posterior division of internal iliac artery.l,CURVE,5: Cardiovascular system,156,288
+Posterior division of internal iliac artery.r,CURVE,5: Cardiovascular system,156,288
+Posterior division of retromandibular vein.l,CURVE,5: Cardiovascular system,300,576
+Posterior division of retromandibular vein.r,CURVE,5: Cardiovascular system,300,576
+Posterior ethmoidal artery.l,CURVE,5: Cardiovascular system,300,576
+Posterior ethmoidal artery.r,CURVE,5: Cardiovascular system,300,576
+Posterior inferior cerebellar artery.l,CURVE,5: Cardiovascular system,19020,37728
+Posterior inferior cerebellar artery.r,CURVE,5: Cardiovascular system,19020,37728
+Posterior leaflet of left atrioventricular valve,MESH,5: Cardiovascular system,3798,7640
+Posterior segmental artery of left lung,CURVE,5: Cardiovascular system,2364,4608
+Posterior segmental artery of right lung,CURVE,5: Cardiovascular system,1332,2592
+Posterior septal branches of sphenopalatine artery.l,CURVE,5: Cardiovascular system,2028,4032
+Posterior septal branches of sphenopalatine artery.r,CURVE,5: Cardiovascular system,2028,4032
+Posterior superior alveolar artery.l,CURVE,5: Cardiovascular system,1308,2592
+Posterior superior alveolar artery.r,CURVE,5: Cardiovascular system,1308,2592
+Posterior tibial artery.l,CURVE,5: Cardiovascular system,2028,4032
+Posterior tibial artery.r,CURVE,5: Cardiovascular system,2028,4032
+Proper hepatic artery,CURVE,5: Cardiovascular system,2196,4320
+Pulmonary trunk,MESH,5: Cardiovascular system,138,230
+Radial artery.l,CURVE,5: Cardiovascular system,1596,3168
+Radial artery.r,CURVE,5: Cardiovascular system,1596,3168
+Radial collateral artery.l,CURVE,5: Cardiovascular system,1308,2592
+Radial collateral artery.r,CURVE,5: Cardiovascular system,1308,2592
+Descending branch of lateral circumflex femoral artery,CURVE,5: Cardiovascular system,1164,2304
+Left brachiocephalic vein,CURVE,5: Cardiovascular system,444,864
+Middle cardiac vein,CURVE,5: Cardiovascular system,16140,31968
+Middle colic vein,CURVE,5: Cardiovascular system,2772,5472
+Posterior circumflex humeral vein.l,CURVE,5: Cardiovascular system,1020,2016
+Posterior circumflex humeral vein.r,CURVE,5: Cardiovascular system,1020,2016
+Right colic artery,CURVE,5: Cardiovascular system,1608,3168
+Right common carotid artery,CURVE,5: Cardiovascular system,444,864
+Right coronary artery,CURVE,5: Cardiovascular system,13704,27072
+Right pulmonary artery,CURVE,5: Cardiovascular system,300,576
+Right subclavian artery,CURVE,5: Cardiovascular system,444,864
+Second posterior intercostal artery.l,CURVE,5: Cardiovascular system,2460,4896
+Second posterior intercostal artery.r,CURVE,5: Cardiovascular system,2460,4896
+Septal branches of anterior interventricular artery,CURVE,5: Cardiovascular system,3528,6912
+Septal papillary muscle of right ventricle,MESH,5: Cardiovascular system,424,844
+Inferior epigastric artery.l,CURVE,5: Cardiovascular system,1452,2880
+Inferior epigastric artery.r,CURVE,5: Cardiovascular system,1452,2880
+Long posterior ciliary arteries.l,CURVE,5: Cardiovascular system,2196,4320
+Long posterior ciliary arteries.r,CURVE,5: Cardiovascular system,2196,4320
+Lumbar arteries.l,CURVE,5: Cardiovascular system,5376,10656
+Palmar metacarpal arteries.l,CURVE,5: Cardiovascular system,2208,4320
+Palmar metacarpal arteries.r,CURVE,5: Cardiovascular system,2208,4320
+Perforating femoral arteries.l,CURVE,5: Cardiovascular system,1200,2304
+Perforating femoral arteries.r,CURVE,5: Cardiovascular system,1200,2304
+Plantar metatarsal arteries.l,CURVE,5: Cardiovascular system,2928,5760
+Plantar metatarsal arteries.r,CURVE,5: Cardiovascular system,2928,5760
+Plantar metatarsal veins.l,CURVE,5: Cardiovascular system,4368,8640
+Plantar metatarsal veins.r,CURVE,5: Cardiovascular system,4368,8640
+Postcentral arterial branch.l,CURVE,5: Cardiovascular system,2472,4896
+Posterior intercavernous sinus,CURVE,5: Cardiovascular system,732,1440
+Posterior intercostal arteries.l,CURVE,5: Cardiovascular system,21852,43488
+Posterior intercostal arteries.r,CURVE,5: Cardiovascular system,25020,49824
+Posterior interosseous artery.l,CURVE,5: Cardiovascular system,588,1152
+Posterior interosseous artery.r,CURVE,5: Cardiovascular system,588,1152
+Posterior lateral nasal branches of sphenopalatine artery..l,CURVE,5: Cardiovascular system,7812,15552
+Posterior lateral nasal branches of sphenopalatine artery..r,CURVE,5: Cardiovascular system,7812,15552
+Posterior parietal artery.l,CURVE,5: Cardiovascular system,4656,9216
+Posterior parietal artery.r,CURVE,5: Cardiovascular system,4656,9216
+Posterior temporal branch.l,CURVE,5: Cardiovascular system,2184,4320
+Posterior temporal branch.r,CURVE,5: Cardiovascular system,2184,4320
+Posterior tibial veins.l,CURVE,5: Cardiovascular system,2460,4896
+Posterior tibial veins.r,CURVE,5: Cardiovascular system,2460,4896
+Posterior vein of right lung,CURVE,5: Cardiovascular system,3696,7200
+Prefrontal artery.l,CURVE,5: Cardiovascular system,3192,6336
+Prefrontal artery.r,CURVE,5: Cardiovascular system,3192,6336
+Proper palmar digital arteries.l,CURVE,5: Cardiovascular system,15672,31104
+Proper palmar digital arteries.r,CURVE,5: Cardiovascular system,15672,31104
+Proper plantar digital arteries.l,CURVE,5: Cardiovascular system,8748,17280
+Proper plantar digital arteries.r,CURVE,5: Cardiovascular system,8748,17280
+Proximal lateral striate branches.l,CURVE,5: Cardiovascular system,3960,7776
+Proximal lateral striate branches.r,CURVE,5: Cardiovascular system,3960,7776
+Radial veins.l,CURVE,5: Cardiovascular system,1164,2304
+Radial veins.r,CURVE,5: Cardiovascular system,1164,2304
+Recurrent interosseous artery.l,CURVE,5: Cardiovascular system,876,1728
+Recurrent interosseous artery.r,CURVE,5: Cardiovascular system,876,1728
+Retromandibular vein.l,CURVE,5: Cardiovascular system,300,576
+Retromandibular vein.r,CURVE,5: Cardiovascular system,300,576
+Right ascending lumbar vein,CURVE,5: Cardiovascular system,4224,8352
+Right atrium,MESH,5: Cardiovascular system,2878,5641
+Right brachiocephalic vein,CURVE,5: Cardiovascular system,300,576
+Right colic vein,CURVE,5: Cardiovascular system,2916,5760
+Right coronary leaflet,MESH,5: Cardiovascular system,461,918
+Right gastro-omental vein,CURVE,5: Cardiovascular system,3336,6624
+Right inferior pulmonary vein,CURVE,5: Cardiovascular system,312,576
+Right inferolateral branch of right coronary artery,CURVE,5: Cardiovascular system,9312,18432
+Right renal artery,CURVE,5: Cardiovascular system,444,864
+Right renal vein,CURVE,5: Cardiovascular system,444,864
+Right semilunar leaflet of pulmonary valve,MESH,5: Cardiovascular system,1372,2735
+Right subclavian vein,CURVE,5: Cardiovascular system,444,864
+Right subcostal vein,CURVE,5: Cardiovascular system,2172,4320
+Right superior intercostal vein,CURVE,5: Cardiovascular system,31524,62784
+Right superior phrenic vein,CURVE,5: Cardiovascular system,5388,10656
+Right superior pulmonary vein,CURVE,5: Cardiovascular system,876,1728
+Right testicular artery.r,CURVE,5: Cardiovascular system,5052,10080
+Right testicular vein,CURVE,5: Cardiovascular system,4908,9792
+Right ventricle,MESH,5: Cardiovascular system,2850,5533
+Septal branches of posterior ethmoidal artery.l,CURVE,5: Cardiovascular system,1452,2880
+Septal branches of posterior ethmoidal artery.r,CURVE,5: Cardiovascular system,1452,2880
+Septal leaflet of right atrioventricular valve,MESH,5: Cardiovascular system,4506,9040
+Short posterior ciliary arteries.l,CURVE,5: Cardiovascular system,1320,2592
+Short posterior ciliary arteries.r,CURVE,5: Cardiovascular system,1320,2592
+Sigmoid arteries,CURVE,5: Cardiovascular system,4524,8928
+Sigmoid sinus.l,CURVE,5: Cardiovascular system,444,864
+Sigmoid sinus.r,CURVE,5: Cardiovascular system,444,864
+Sigmoid veins,CURVE,5: Cardiovascular system,4524,8928
+Small saphenous vein.l,CURVE,5: Cardiovascular system,2892,5760
+Small saphenous vein.r,CURVE,5: Cardiovascular system,2892,5760
+Spinal branch of iliolumbar artery.l,CURVE,5: Cardiovascular system,156,288
+Spinal branch of iliolumbar artery.r,CURVE,5: Cardiovascular system,156,288
+Splenic artery,CURVE,5: Cardiovascular system,4404,8640
+Splenic vein,CURVE,5: Cardiovascular system,4836,9504
+Straight sinus,CURVE,5: Cardiovascular system,1164,2304
+Subcostal artery.l,CURVE,5: Cardiovascular system,2460,4896
+Subcostal artery.r,CURVE,5: Cardiovascular system,2460,4896
+Submental artery.l,CURVE,5: Cardiovascular system,2196,4320
+Submental artery.r,CURVE,5: Cardiovascular system,2196,4320
+Submental vein.l,CURVE,5: Cardiovascular system,1164,2304
+Submental vein.r,CURVE,5: Cardiovascular system,1164,2304
+Subscapular artery.l,CURVE,5: Cardiovascular system,156,288
+Subscapular artery.r,CURVE,5: Cardiovascular system,156,288
+Subscapular vein.l,CURVE,5: Cardiovascular system,888,1728
+Subscapular vein.r,CURVE,5: Cardiovascular system,888,1728
+Superficial branch of medial plantar artery.l,CURVE,5: Cardiovascular system,1020,2016
+Superficial branch of medial plantar artery.r,CURVE,5: Cardiovascular system,1020,2016
+Superficial dorsal veins of penis,CURVE,5: Cardiovascular system,1164,2304
+Superficial epigastric artery.l,CURVE,5: Cardiovascular system,2040,4032
+Superficial epigastric artery.r,CURVE,5: Cardiovascular system,2040,4032
+Superficial epigastric vein.l,CURVE,5: Cardiovascular system,3648,7200
+Superficial epigastric vein.r,CURVE,5: Cardiovascular system,3648,7200
+Superficial external pudendal artery.l,CURVE,5: Cardiovascular system,1896,3744
+Superficial external pudendal artery.r,CURVE,5: Cardiovascular system,1896,3744
+Superficial palmar arch.l,CURVE,5: Cardiovascular system,1452,2880
+Superficial palmar arch.r,CURVE,5: Cardiovascular system,1452,2880
+Superficial temporal artery.l,CURVE,5: Cardiovascular system,13272,26208
+Superficial temporal artery.r,CURVE,5: Cardiovascular system,13272,26208
+Superficial temporal veins.l,CURVE,5: Cardiovascular system,1752,3456
+Superficial temporal veins.r,CURVE,5: Cardiovascular system,1752,3456
+Superficial venous palmar arch.l,CURVE,5: Cardiovascular system,2172,4320
+Superficial venous palmar arch.r,CURVE,5: Cardiovascular system,2172,4320
+Superior anorectal artery,CURVE,5: Cardiovascular system,1164,2304
+Superior basal vein of left lung,CURVE,5: Cardiovascular system,2352,4608
+Superior basal vein of right lung,CURVE,5: Cardiovascular system,3528,6912
+Superior cerebellar artery.l,CURVE,5: Cardiovascular system,5520,10944
+Superior cerebellar artery.r,CURVE,5: Cardiovascular system,5520,10944
+Superior epigastric artery.l,CURVE,5: Cardiovascular system,1464,2880
+Superior epigastric artery.r,CURVE,5: Cardiovascular system,1464,2880
+Superior epigastric veins.l,CURVE,5: Cardiovascular system,876,1728
+Superior epigastric veins.r,CURVE,5: Cardiovascular system,876,1728
+Superior gluteal artery.l,CURVE,5: Cardiovascular system,2256,4320
+Superior gluteal artery.r,CURVE,5: Cardiovascular system,2256,4320
+Superior gluteal veins.l,CURVE,5: Cardiovascular system,2256,4320
+Superior gluteal veins.r,CURVE,5: Cardiovascular system,2256,4320
+Superior labial artery.l,CURVE,5: Cardiovascular system,588,1152
+Superior labial artery.r,CURVE,5: Cardiovascular system,588,1152
+Superior labial vein.l,CURVE,5: Cardiovascular system,588,1152
+Superior labial vein.r,CURVE,5: Cardiovascular system,588,1152
+Superior lateral genicular artery.l,CURVE,5: Cardiovascular system,876,1728
+Superior lateral genicular artery.r,CURVE,5: Cardiovascular system,876,1728
+Superior lingular artery of left lung,CURVE,5: Cardiovascular system,2052,4032
+Superior lingular vein of left lung,CURVE,5: Cardiovascular system,1032,2016
+Superior lobar artery of right lung,CURVE,5: Cardiovascular system,156,288
+Superior medial genicular artery.l,CURVE,5: Cardiovascular system,2484,4896
+Superior medial genicular artery.r,CURVE,5: Cardiovascular system,2484,4896
+Superior mesenteric artery,CURVE,5: Cardiovascular system,6288,12384
+Superior mesenteric vein,CURVE,5: Cardiovascular system,2892,5760
+Superior ophthalmic vein.l,CURVE,5: Cardiovascular system,588,1152
+Superior ophthalmic vein.r,CURVE,5: Cardiovascular system,588,1152
+Superior petrosal sinus.l,CURVE,5: Cardiovascular system,876,1728
+Superior petrosal sinus.r,CURVE,5: Cardiovascular system,876,1728
+Superior phrenic arteries,CURVE,5: Cardiovascular system,7140,14112
+Superior sagittal sinus,CURVE,5: Cardiovascular system,3180,6336
+Superior segmental artery of left lung,CURVE,5: Cardiovascular system,2064,4032
+Superior segmental artery of right lung,CURVE,5: Cardiovascular system,4140,8064
+Superior thyroid vein.l,CURVE,5: Cardiovascular system,588,1152
+Superior thyroid vein.r,CURVE,5: Cardiovascular system,588,1152
+Superior ulnar collateral artery.l,CURVE,5: Cardiovascular system,876,1728
+Superior ulnar collateral artery.r,CURVE,5: Cardiovascular system,876,1728
+Superior vein of left lung,CURVE,5: Cardiovascular system,4428,8640
+Superior vein of right lung,CURVE,5: Cardiovascular system,3684,7200
+Superior vena cava,CURVE,5: Cardiovascular system,156,288
+Supra-orbital artery.l,CURVE,5: Cardiovascular system,4200,8352
+Supra-orbital artery.r,CURVE,5: Cardiovascular system,4200,8352
+Suprascapular artery.l,CURVE,5: Cardiovascular system,1608,3168
+Suprascapular artery.r,CURVE,5: Cardiovascular system,1608,3168
+Suprascapular vein.l,CURVE,5: Cardiovascular system,1308,2592
+Suprascapular vein.r,CURVE,5: Cardiovascular system,1308,2592
+Supratrochlear artery.l,CURVE,5: Cardiovascular system,2928,5760
+Supratrochlear artery.r,CURVE,5: Cardiovascular system,2928,5760
+Supreme intercostal artery.l,CURVE,5: Cardiovascular system,300,576
+Supreme intercostal artery.r,CURVE,5: Cardiovascular system,300,576
+Temporal branches of middle cerebral artery.l,CURVE,5: Cardiovascular system,2616,5184
+Temporal branches of middle cerebral artery.r,CURVE,5: Cardiovascular system,2616,5184
+Temporo-occipital branch.l,CURVE,5: Cardiovascular system,4212,8352
+Temporo-occipital branch.r,CURVE,5: Cardiovascular system,4212,8352
+Thoracic aorta,CURVE,5: Cardiovascular system,444,864
+Thoraco-acromial artery.l,CURVE,5: Cardiovascular system,156,288
+Thoraco-acromial artery.r,CURVE,5: Cardiovascular system,156,288
+Thoracodorsal artery.l,CURVE,5: Cardiovascular system,732,1440
+Thoracodorsal artery.r,CURVE,5: Cardiovascular system,732,1440
+Thoracodorsal vein.l,CURVE,5: Cardiovascular system,1020,2016
+Thoracodorsal vein.r,CURVE,5: Cardiovascular system,1020,2016
+Thyrocervical trunk.l,CURVE,5: Cardiovascular system,156,288
+Thyrocervical trunk.r,CURVE,5: Cardiovascular system,156,288
+Transverse cervical artery.l,CURVE,5: Cardiovascular system,1620,3168
+Transverse cervical artery.r,CURVE,5: Cardiovascular system,1620,3168
+Transverse facial artery.l,CURVE,5: Cardiovascular system,2028,4032
+Transverse facial artery.r,CURVE,5: Cardiovascular system,2028,4032
+Transverse sinus.l,CURVE,5: Cardiovascular system,1020,2016
+Transverse sinus.r,CURVE,5: Cardiovascular system,1020,2016
+Ulnar artery.l,CURVE,5: Cardiovascular system,1020,2016
+Ulnar artery.r,CURVE,5: Cardiovascular system,1020,2016
+Ulnar veins.l,CURVE,5: Cardiovascular system,1308,2592
+Ulnar veins.r,CURVE,5: Cardiovascular system,1308,2592
+Vertebral artery.l,CURVE,5: Cardiovascular system,2460,4896
+Vertebral artery.r,CURVE,5: Cardiovascular system,2460,4896
+Vertebral vein.l,CURVE,5: Cardiovascular system,1740,3456
+Vertebral vein.r,CURVE,5: Cardiovascular system,1740,3456

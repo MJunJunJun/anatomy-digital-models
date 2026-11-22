@@ -1,0 +1,685 @@
+object,source_type,collection_path,vertices,triangles
+(Abdominal part of pectoralis major muscle).l,MESH,4: Muscular system,190,376
+(Abdominal part of pectoralis major muscle).r,MESH,4: Muscular system,190,376
+(Adductor minimus).l,MESH,4: Muscular system,120,236
+(Adductor minimus).r,MESH,4: Muscular system,120,236
+(Iliopectineal bursa).l,MESH,4: Muscular system,46,88
+(Iliopectineal bursa).r,MESH,4: Muscular system,46,88
+(Opponens digiti minimi muscle of foot).l,MESH,4: Muscular system,120,236
+(Opponens digiti minimi muscle of foot).r,MESH,4: Muscular system,120,236
+Abductor digiti minimi of foot.l,MESH,4: Muscular system,160,320
+Abductor digiti minimi of foot.r,MESH,4: Muscular system,160,320
+Abductor digiti minimi of hand.l,MESH,4: Muscular system,84,168
+Abductor digiti minimi of hand.r,MESH,4: Muscular system,84,168
+Abductor hallucis.l,MESH,4: Muscular system,211,422
+Abductor hallucis.r,MESH,4: Muscular system,211,422
+Abductor pollicis brevis.l,MESH,4: Muscular system,78,156
+Abductor pollicis brevis.r,MESH,4: Muscular system,78,156
+Abductor pollicis longus.l,MESH,4: Muscular system,309,614
+Abductor pollicis longus.r,MESH,4: Muscular system,309,614
+Acromial part of deltoid muscle.l,MESH,4: Muscular system,370,740
+Acromial part of deltoid muscle.r,MESH,4: Muscular system,370,740
+Adductor brevis.l,MESH,4: Muscular system,264,532
+Adductor brevis.r,MESH,4: Muscular system,264,532
+Adductor longus.l,MESH,4: Muscular system,462,928
+Adductor longus.r,MESH,4: Muscular system,462,928
+Adductor magnus.l,MESH,4: Muscular system,1024,2048
+Adductor magnus.r,MESH,4: Muscular system,1024,2048
+Anconeus muscle.l,MESH,4: Muscular system,182,360
+Anconeus muscle.r,MESH,4: Muscular system,182,360
+Anserine bursa.l,MESH,4: Muscular system,40,76
+Anserine bursa.r,MESH,4: Muscular system,40,76
+Antebrachial fascia.l,MESH,4: Muscular system,589,1115
+Antebrachial fascia.r,MESH,4: Muscular system,590,1115
+Anterior belly of digastric muscle.l,MESH,4: Muscular system,51,98
+Anterior belly of digastric muscle.r,MESH,4: Muscular system,51,98
+Anterior intermuscular septum of leg.l,MESH,4: Muscular system,147,208
+Anterior intermuscular septum of leg.r,MESH,4: Muscular system,147,208
+Anterior layer of thoracolumbar fascia.l,MESH,4: Muscular system,115,176
+Anterior layer of thoracolumbar fascia.r,MESH,4: Muscular system,115,176
+Ary-epiglottic part of oblique arytenoid muscle.l,MESH,4: Muscular system,129,254
+Ary-epiglottic part of oblique arytenoid muscle.r,MESH,4: Muscular system,129,254
+Ascending part of trapezius muscle.l,MESH,4: Muscular system,574,1148
+Ascending part of trapezius muscle.r,MESH,4: Muscular system,574,1148
+Bicipitoradial bursa.l,MESH,4: Muscular system,46,88
+Bicipitoradial bursa.r,MESH,4: Muscular system,46,88
+Brachial fascia.l,MESH,4: Muscular system,430,754
+Brachial fascia.r,MESH,4: Muscular system,429,753
+Brachialis muscle.l,MESH,4: Muscular system,436,868
+Brachialis muscle.r,MESH,4: Muscular system,436,868
+Brachioradialis muscle.l,MESH,4: Muscular system,916,1828
+Brachioradialis muscle.r,MESH,4: Muscular system,916,1828
+Bucinator.l,MESH,4: Muscular system,112,220
+Bucinator.r,MESH,4: Muscular system,112,220
+Bursa of piriformis muscle.l,MESH,4: Muscular system,46,88
+Bursa of piriformis muscle.r,MESH,4: Muscular system,46,88
+Calcaneal tendon.l,MESH,4: Muscular system,550,1094
+Calcaneal tendon.r,MESH,4: Muscular system,550,1094
+Clavicular head of pectoralis major muscle.l,MESH,4: Muscular system,106,212
+Clavicular head of pectoralis major muscle.r,MESH,4: Muscular system,106,212
+Clavicular part of deltoid muscle.l,MESH,4: Muscular system,364,724
+Clavicular part of deltoid muscle.r,MESH,4: Muscular system,364,724
+Clavipectoral fascia.l,MESH,4: Muscular system,174,319
+Clavipectoral fascia.r,MESH,4: Muscular system,174,319
+Coccygeus muscle.l,MESH,4: Muscular system,133,258
+Coccygeus muscle.r,MESH,4: Muscular system,133,258
+Common flexor tendon sheath.l,MESH,4: Muscular system,117,215
+Common flexor tendon sheath.r,MESH,4: Muscular system,119,216
+Common tendinous ring.l,MESH,4: Muscular system,45,90
+Common tendinous ring.r,MESH,4: Muscular system,45,90
+Common tendon sheath of fibularis muscles.l,MESH,4: Muscular system,50,96
+Common tendon sheath of fibularis muscles.r,MESH,4: Muscular system,50,96
+Coracobrachial bursa.l,MESH,4: Muscular system,46,88
+Coracobrachial bursa.r,MESH,4: Muscular system,46,88
+Coracobrachialis muscle.l,MESH,4: Muscular system,147,290
+Coracobrachialis muscle.r,MESH,4: Muscular system,147,290
+Corrugator supercilii.l,MESH,4: Muscular system,141,278
+Corrugator supercilii.r,MESH,4: Muscular system,141,278
+Cruciform part of fibrous sheath of digit of hand.l,MESH,4: Muscular system,163,290
+Cruciform part of fibrous sheath of digit of hand.r,MESH,4: Muscular system,163,290
+Crural fascia.l,MESH,4: Muscular system,1498,2718
+Crural fascia.r,MESH,4: Muscular system,1498,2717
+Deep head of flexor pollicis brevis.l,MESH,4: Muscular system,91,186
+Deep head of flexor pollicis brevis.r,MESH,4: Muscular system,91,186
+Deep head of pronator teres.l,MESH,4: Muscular system,141,278
+Deep head of pronator teres.r,MESH,4: Muscular system,141,278
+Deep infrapatellar bursa.l,MESH,4: Muscular system,126,248
+Deep infrapatellar bursa.r,MESH,4: Muscular system,126,248
+Deep part of masseter.l,MESH,4: Muscular system,124,248
+Deep part of masseter.r,MESH,4: Muscular system,124,248
+Deltoid fascia.l,MESH,4: Muscular system,482,885
+Deltoid fascia.r,MESH,4: Muscular system,482,884
+Depressor anguli oris.l,MESH,4: Muscular system,76,148
+Depressor anguli oris.r,MESH,4: Muscular system,76,148
+Depressor labii inferioris.l,MESH,4: Muscular system,106,208
+Depressor labii inferioris.r,MESH,4: Muscular system,106,208
+Depressor septi nasi.l,MESH,4: Muscular system,140,276
+Depressor septi nasi.r,MESH,4: Muscular system,140,276
+Descending part of trapezius muscle.l,MESH,4: Muscular system,841,1690
+Descending part of trapezius muscle.r,MESH,4: Muscular system,841,1690
+Diaphragm,MESH,4: Muscular system,1199,2398
+Diaphragmatic fascia,MESH,4: Muscular system,649,1176
+Dorsal fascia of hand.l,MESH,4: Muscular system,248,360
+Dorsal fascia of hand.r,MESH,4: Muscular system,247,361
+Dorsal interossei muscles of foot.l,MESH,4: Muscular system,245,486
+Dorsal interossei muscles of foot.r,MESH,4: Muscular system,245,486
+Dorsal interossei muscles of hand.l,MESH,4: Muscular system,178,340
+Dorsal interossei muscles of hand.r,MESH,4: Muscular system,178,340
+Dorsal parts of lateral intertransversarii lumborum muscles.l,MESH,4: Muscular system,92,180
+Dorsal parts of lateral intertransversarii lumborum muscles.r,MESH,4: Muscular system,92,180
+Epicranial aponeurosis.l,MESH,4: Muscular system,2510,5028
+Epicranial aponeurosis.r,MESH,4: Muscular system,2510,5028
+Extensor carpi radialis brevis.l,MESH,4: Muscular system,394,784
+Extensor carpi radialis brevis.r,MESH,4: Muscular system,394,784
+Extensor carpi radialis longus.l,MESH,4: Muscular system,467,926
+Extensor carpi radialis longus.r,MESH,4: Muscular system,467,926
+Extensor digiti minimi.l,MESH,4: Muscular system,271,538
+Extensor digiti minimi.r,MESH,4: Muscular system,271,538
+Extensor digitorum brevis.l,MESH,4: Muscular system,402,796
+Extensor digitorum brevis.r,MESH,4: Muscular system,402,796
+Extensor digitorum longus.l,MESH,4: Muscular system,399,794
+Extensor digitorum longus.r,MESH,4: Muscular system,399,794
+Extensor digitorum.l,MESH,4: Muscular system,797,1602
+Extensor digitorum.r,MESH,4: Muscular system,797,1602
+Extensor hallucis brevis.l,MESH,4: Muscular system,141,278
+Extensor hallucis brevis.r,MESH,4: Muscular system,141,278
+Extensor hallucis longus.l,MESH,4: Muscular system,297,590
+Extensor hallucis longus.r,MESH,4: Muscular system,297,590
+Extensor indicis.l,MESH,4: Muscular system,144,284
+Extensor indicis.r,MESH,4: Muscular system,144,284
+Extensor pollicis brevis.l,MESH,4: Muscular system,149,294
+Extensor pollicis brevis.r,MESH,4: Muscular system,149,294
+Extensor pollicis longus.l,MESH,4: Muscular system,202,400
+Extensor pollicis longus.r,MESH,4: Muscular system,202,400
+Extensor retinaculum of wrist.l,MESH,4: Muscular system,48,92
+Extensor retinaculum of wrist.r,MESH,4: Muscular system,48,92
+External abdominal oblique muscle.l,MESH,4: Muscular system,3702,7404
+External abdominal oblique muscle.r,MESH,4: Muscular system,3702,7404
+External anal sphincter.l,MESH,4: Muscular system,103,202
+External anal sphincter.r,MESH,4: Muscular system,103,202
+External intercostal muscles.l,MESH,4: Muscular system,5134,10351
+External intercostal muscles.r,MESH,4: Muscular system,5134,10351
+Fascia lata.l,MESH,4: Muscular system,1792,3226
+Fascia lata.r,MESH,4: Muscular system,1792,3225
+Fibularis brevis muscle.l,MESH,4: Muscular system,430,860
+Fibularis brevis muscle.r,MESH,4: Muscular system,430,860
+Fibularis longus muscle.l,MESH,4: Muscular system,668,1380
+Fibularis longus muscle.r,MESH,4: Muscular system,668,1380
+Fibularis tertius muscle.l,MESH,4: Muscular system,74,146
+Fibularis tertius muscle.r,MESH,4: Muscular system,74,146
+Flexor carpi radialis.l,MESH,4: Muscular system,210,416
+Flexor carpi radialis.r,MESH,4: Muscular system,210,416
+Flexor digiti minimi of foot.l,MESH,4: Muscular system,56,116
+Flexor digiti minimi of foot.r,MESH,4: Muscular system,56,116
+Flexor digiti minimi of hand.l,MESH,4: Muscular system,40,76
+Flexor digiti minimi of hand.r,MESH,4: Muscular system,40,76
+Flexor digitorum brevis.l,MESH,4: Muscular system,401,806
+Flexor digitorum brevis.r,MESH,4: Muscular system,401,806
+Flexor digitorum longus.l,MESH,4: Muscular system,856,1708
+Flexor digitorum longus.r,MESH,4: Muscular system,856,1708
+Flexor digitorum profundus.l,MESH,4: Muscular system,892,1776
+Flexor digitorum profundus.r,MESH,4: Muscular system,892,1776
+Flexor hallucis longus.l,MESH,4: Muscular system,736,1468
+Flexor hallucis longus.r,MESH,4: Muscular system,736,1468
+Flexor pollicis longus.l,MESH,4: Muscular system,208,416
+Flexor pollicis longus.r,MESH,4: Muscular system,208,416
+Flexor retinaculum of ankle.l,MESH,4: Muscular system,89,174
+Flexor retinaculum of ankle.r,MESH,4: Muscular system,89,174
+Flexor retinaculum of wrist.l,MESH,4: Muscular system,67,130
+Flexor retinaculum of wrist.r,MESH,4: Muscular system,67,130
+Frontalis muscle.l,MESH,4: Muscular system,730,1468
+Frontalis muscle.r,MESH,4: Muscular system,730,1468
+Genioglossus muscle.l,MESH,4: Muscular system,470,936
+Genioglossus muscle.r,MESH,4: Muscular system,470,936
+Geniohyoid muscle.l,MESH,4: Muscular system,68,132
+Geniohyoid muscle.r,MESH,4: Muscular system,68,132
+Gluteus maximus muscle.l,MESH,4: Muscular system,415,830
+Gluteus maximus muscle.r,MESH,4: Muscular system,415,830
+Gluteus medius muscle.l,MESH,4: Muscular system,649,1294
+Gluteus medius muscle.r,MESH,4: Muscular system,649,1294
+Gluteus minimus muscle.l,MESH,4: Muscular system,783,1562
+Gluteus minimus muscle.r,MESH,4: Muscular system,783,1562
+Gracilis muscle.l,MESH,4: Muscular system,599,1202
+Gracilis muscle.r,MESH,4: Muscular system,599,1202
+Humeral head of extensor carpi ulnaris.l,MESH,4: Muscular system,99,206
+Humeral head of extensor carpi ulnaris.r,MESH,4: Muscular system,99,206
+Humeral head of flexor carpi ulnaris.l,MESH,4: Muscular system,487,978
+Humeral head of flexor carpi ulnaris.r,MESH,4: Muscular system,487,978
+Humero-ulnar head of flexor digitorum superficialis.l,MESH,4: Muscular system,1601,3198
+Humero-ulnar head of flexor digitorum superficialis.r,MESH,4: Muscular system,1601,3198
+Hyoglossus muscle.l,MESH,4: Muscular system,180,356
+Hyoglossus muscle.r,MESH,4: Muscular system,180,356
+Iliacus muscle.l,MESH,4: Muscular system,546,1088
+Iliacus muscle.r,MESH,4: Muscular system,546,1088
+Iliococcygeus muscle.l,MESH,4: Muscular system,243,490
+Iliococcygeus muscle.r,MESH,4: Muscular system,243,490
+Iliocostalis colli muscle,MESH,4: Muscular system,258,512
+Iliocostalis colli muscle.r,MESH,4: Muscular system,258,512
+Iliocostalis lumborum muscle.l,MESH,4: Muscular system,1254,2508
+Iliocostalis lumborum muscle.r,MESH,4: Muscular system,1254,2508
+Iliocostalis thoracis muscle.l,MESH,4: Muscular system,723,1442
+Iliocostalis thoracis muscle.r,MESH,4: Muscular system,723,1442
+Iliopectineal arch.l,MESH,4: Muscular system,23,26
+Iliopectineal arch.r,MESH,4: Muscular system,46,88
+Iliopsoas fascia.l,MESH,4: Muscular system,250,400
+Iliopsoas fascia.r,MESH,4: Muscular system,249,399
+Iliotibial tract.l,MESH,4: Muscular system,6068,12152
+Iliotibial tract.r,MESH,4: Muscular system,6068,12152
+Inferior extensor retinaculum of ankle.l,MESH,4: Muscular system,41,78
+Inferior extensor retinaculum of ankle.r,MESH,4: Muscular system,41,78
+Inferior fibular retinaculum.l,MESH,4: Muscular system,32,35
+Inferior fibular retinaculum.r,MESH,4: Muscular system,32,35
+Inferior gemellus muscle.l,MESH,4: Muscular system,124,244
+Inferior gemellus muscle.r,MESH,4: Muscular system,124,244
+Inferior head of lateral pterygoid muscle.l,MESH,4: Muscular system,41,80
+Inferior head of lateral pterygoid muscle.r,MESH,4: Muscular system,41,80
+Inferior oblique muscle.l,MESH,4: Muscular system,145,286
+Inferior oblique muscle.r,MESH,4: Muscular system,145,286
+Inferior pharyngeal constrictor.l,MESH,4: Muscular system,464,924
+Inferior pharyngeal constrictor.r,MESH,4: Muscular system,464,924
+Inferior rectus muscle.l,MESH,4: Muscular system,219,434
+Inferior rectus muscle.r,MESH,4: Muscular system,219,434
+Inferior subtendinous bursa of biceps femoris muscle.l,MESH,4: Muscular system,126,248
+Inferior subtendinous bursa of biceps femoris muscle.r,MESH,4: Muscular system,126,248
+Inferior tarsus.l,MESH,4: Muscular system,56,108
+Inferior tarsus.r,MESH,4: Muscular system,56,108
+Infraspinatus muscle.l,MESH,4: Muscular system,397,790
+Infraspinatus muscle.r,MESH,4: Muscular system,397,790
+Inguinal ligament.l,MESH,4: Muscular system,134,264
+Inguinal ligament.r,MESH,4: Muscular system,134,264
+Innermost intercostal muscles.l,MESH,4: Muscular system,4745,9562
+Innermost intercostal muscles.r,MESH,4: Muscular system,4745,9562
+Intermediate tendon of digastric muscle.l,MESH,4: Muscular system,116,228
+Intermediate tendon of digastric muscle.r,MESH,4: Muscular system,116,228
+Intermuscular gluteal bursae.l,MESH,4: Muscular system,150,292
+Intermuscular gluteal bursae.r,MESH,4: Muscular system,150,292
+Internal abdominal oblique muscle.l,MESH,4: Muscular system,3584,7216
+Internal abdominal oblique muscle.r,MESH,4: Muscular system,3584,7216
+Internal intercostal muscles.l,MESH,4: Muscular system,4980,10046
+Internal intercostal muscles.r,MESH,4: Muscular system,4980,10046
+Interspinales colli muscles.l,MESH,4: Muscular system,67,110
+Interspinales colli muscles.r,MESH,4: Muscular system,67,110
+Interspinales lumborum muscles.l,MESH,4: Muscular system,80,140
+Interspinales lumborum muscles.r,MESH,4: Muscular system,80,140
+Interspinales thoracis muscles.l,MESH,4: Muscular system,103,198
+Interspinales thoracis muscles.r,MESH,4: Muscular system,103,198
+Intertubercular tendon sheath.l,MESH,4: Muscular system,28,52
+Intertubercular tendon sheath.r,MESH,4: Muscular system,28,52
+Investing abdominal fascia.l,MESH,4: Muscular system,1524,2776
+Investing abdominal fascia.r,MESH,4: Muscular system,1522,2775
+Lateral crico-arytenoid muscle.l,MESH,4: Muscular system,206,406
+Lateral crico-arytenoid muscle.r,MESH,4: Muscular system,206,406
+Lateral femoral intermuscular septum.l,MESH,4: Muscular system,101,147
+Lateral femoral intermuscular septum.r,MESH,4: Muscular system,102,146
+Lateral head of flexor hallucis brevis.l,MESH,4: Muscular system,118,240
+Lateral head of flexor hallucis brevis.r,MESH,4: Muscular system,118,240
+Lateral head of gastrocnemius.l,MESH,4: Muscular system,613,1226
+Lateral head of gastrocnemius.r,MESH,4: Muscular system,613,1226
+Lateral head of triceps brachii.l,MESH,4: Muscular system,455,906
+Lateral head of triceps brachii.r,MESH,4: Muscular system,455,906
+Lateral intermuscular septum of arm.l,MESH,4: Muscular system,102,160
+Lateral intermuscular septum of arm.r,MESH,4: Muscular system,102,160
+Lateral patellar retinaculum.l,MESH,4: Muscular system,18,32
+Lateral patellar retinaculum.r,MESH,4: Muscular system,18,32
+Lateral rectus muscle.l,MESH,4: Muscular system,202,400
+Lateral rectus muscle.r,MESH,4: Muscular system,202,400
+Lateral subtendinous bursa of gastrocnemius muscle.l,MESH,4: Muscular system,126,248
+Lateral subtendinous bursa of gastrocnemius muscle.r,MESH,4: Muscular system,126,248
+Latissimus dorsi muscle.l,MESH,4: Muscular system,2703,5394
+Latissimus dorsi muscle.r,MESH,4: Muscular system,2703,5394
+Levator anguli oris.l,MESH,4: Muscular system,41,82
+Levator anguli oris.r,MESH,4: Muscular system,41,82
+Levator labii superioris.l,MESH,4: Muscular system,69,134
+Levator labii superioris.r,MESH,4: Muscular system,69,134
+Levator nasolabialis.l,MESH,4: Muscular system,88,172
+Levator nasolabialis.r,MESH,4: Muscular system,88,172
+Levator palpebrae superioris.l,MESH,4: Muscular system,272,538
+Levator palpebrae superioris.r,MESH,4: Muscular system,272,538
+Levator scapulae.l,MESH,4: Muscular system,387,770
+Levator scapulae.r,MESH,4: Muscular system,387,770
+Levatores breves costarum.l,MESH,4: Muscular system,351,672
+Levatores breves costarum.r,MESH,4: Muscular system,351,672
+Levatores longi costarum.l,MESH,4: Muscular system,769,1482
+Levatores longi costarum.r,MESH,4: Muscular system,769,1482
+Linea alba,MESH,4: Muscular system,44,84
+Long head of biceps brachii.l,MESH,4: Muscular system,404,804
+Long head of biceps brachii.r,MESH,4: Muscular system,404,804
+Long head of biceps femoris.l,MESH,4: Muscular system,901,1814
+Long head of biceps femoris.r,MESH,4: Muscular system,901,1814
+Long head of triceps brachii.l,MESH,4: Muscular system,495,986
+Long head of triceps brachii.r,MESH,4: Muscular system,495,986
+Longissimus capitis muscle.l,MESH,4: Muscular system,194,392
+Longissimus capitis muscle.r,MESH,4: Muscular system,194,392
+Longissimus colli muscle.l,MESH,4: Muscular system,230,456
+Longissimus colli muscle.r,MESH,4: Muscular system,230,456
+Longissimus thoracis muscle.l,MESH,4: Muscular system,1198,2412
+Longissimus thoracis muscle.r,MESH,4: Muscular system,1198,2412
+Longus capitis muscle.l,MESH,4: Muscular system,245,494
+Longus capitis muscle.r,MESH,4: Muscular system,245,494
+Longus colli muscle.l,MESH,4: Muscular system,793,1572
+Longus colli muscle.r,MESH,4: Muscular system,793,1572
+Lumbrical muscles of foot.l,MESH,4: Muscular system,50,104
+Lumbrical muscles of foot.r,MESH,4: Muscular system,50,104
+Lumbrical muscles of hand.l,MESH,4: Muscular system,179,342
+Lumbrical muscles of hand.r,MESH,4: Muscular system,179,342
+Masseteric fascia.l,MESH,4: Muscular system,68,98
+Masseteric fascia.r,MESH,4: Muscular system,68,98
+Medial femoral intermuscular septum.l,MESH,4: Muscular system,1071,1928
+Medial femoral intermuscular septum.r,MESH,4: Muscular system,1071,1927
+Medial head of flexor hallucis brevis.l,MESH,4: Muscular system,66,128
+Medial head of flexor hallucis brevis.r,MESH,4: Muscular system,66,128
+Medial head of gastrocnemius.l,MESH,4: Muscular system,809,1614
+Medial head of gastrocnemius.r,MESH,4: Muscular system,809,1614
+Medial head of triceps brachii.l,MESH,4: Muscular system,337,670
+Medial head of triceps brachii.r,MESH,4: Muscular system,337,670
+Medial intermuscular septum of arm.l,MESH,4: Muscular system,58,78
+Medial intermuscular septum of arm.r,MESH,4: Muscular system,58,77
+Medial patellar retinaculum.l,MESH,4: Muscular system,22,40
+Medial patellar retinaculum.r,MESH,4: Muscular system,22,40
+Medial pterygoid muscle.l,MESH,4: Muscular system,63,124
+Medial pterygoid muscle.r,MESH,4: Muscular system,63,124
+Medial rectus muscle.l,MESH,4: Muscular system,158,312
+Medial rectus muscle.r,MESH,4: Muscular system,158,312
+Medial subtendinous bursa of gastrocnemius muscle.l,MESH,4: Muscular system,110,216
+Medial subtendinous bursa of gastrocnemius muscle.r,MESH,4: Muscular system,110,216
+Mentalis muscle.l,MESH,4: Muscular system,85,166
+Mentalis muscle.r,MESH,4: Muscular system,85,166
+Middle layer of thoracolumbar fascia.l,MESH,4: Muscular system,99,160
+Middle layer of thoracolumbar fascia.r,MESH,4: Muscular system,99,160
+Middle pharyngeal constrictor.l,MESH,4: Muscular system,370,736
+Middle pharyngeal constrictor.r,MESH,4: Muscular system,370,736
+Multifidus colli muscle.l,MESH,4: Muscular system,174,346
+Multifidus colli muscle.r,MESH,4: Muscular system,174,346
+Multifidus lumborum muscle.l,MESH,4: Muscular system,355,704
+Multifidus lumborum muscle.r,MESH,4: Muscular system,355,704
+Multifidus thoracis muscle.l,MESH,4: Muscular system,523,974
+Multifidus thoracis muscle.r,MESH,4: Muscular system,523,974
+Muscular system.g,MESH,4: Muscular system,216,191
+Mylohyoid muscle.l,MESH,4: Muscular system,140,280
+Mylohyoid muscle.r,MESH,4: Muscular system,140,280
+Nasalis muscle.l,MESH,4: Muscular system,88,176
+Nasalis muscle.r,MESH,4: Muscular system,88,176
+Oblique head of adductor hallucis.l,MESH,4: Muscular system,115,226
+Oblique head of adductor hallucis.r,MESH,4: Muscular system,115,226
+Oblique head of adductor pollicis.l,MESH,4: Muscular system,58,112
+Oblique head of adductor pollicis.r,MESH,4: Muscular system,58,112
+Obliquus inferior capitis muscle.l,MESH,4: Muscular system,69,134
+Obliquus inferior capitis muscle.r,MESH,4: Muscular system,69,134
+Obliquus superior capitis muscle.l,MESH,4: Muscular system,79,162
+Obliquus superior capitis muscle.r,MESH,4: Muscular system,79,162
+Obturator externus.l,MESH,4: Muscular system,148,288
+Obturator externus.r,MESH,4: Muscular system,148,288
+Obturator internus.l,MESH,4: Muscular system,472,940
+Obturator internus.r,MESH,4: Muscular system,472,940
+Occipitalis muscle.l,MESH,4: Muscular system,321,650
+Occipitalis muscle.r,MESH,4: Muscular system,321,650
+Omohyoid muscle.l,MESH,4: Muscular system,340,676
+Omohyoid muscle.r,MESH,4: Muscular system,340,676
+Opponens digiti minimi muscle of hand.l,MESH,4: Muscular system,52,104
+Opponens digiti minimi muscle of hand.r,MESH,4: Muscular system,52,104
+Opponens pollicis muscle.l,MESH,4: Muscular system,50,96
+Opponens pollicis muscle.r,MESH,4: Muscular system,50,96
+Orbicularis oris muscle.l,MESH,4: Muscular system,235,470
+Orbicularis oris muscle.r,MESH,4: Muscular system,235,470
+Palatopharyngeus muscle.l,MESH,4: Muscular system,1911,3820
+Palatopharyngeus muscle.r,MESH,4: Muscular system,1911,3820
+Palmar aponeurosis.l,MESH,4: Muscular system,229,321
+Palmar aponeurosis.r,MESH,4: Muscular system,227,320
+Palmar interossei muscles.l,MESH,4: Muscular system,87,174
+Palmar interossei muscles.r,MESH,4: Muscular system,87,174
+Palmaris longus muscle.l,MESH,4: Muscular system,536,1092
+Palmaris longus muscle.r,MESH,4: Muscular system,536,1092
+Pectineus muscle.l,MESH,4: Muscular system,242,488
+Pectineus muscle.r,MESH,4: Muscular system,242,488
+Pectoral fascia.l,MESH,4: Muscular system,384,676
+Pectoral fascia.r,MESH,4: Muscular system,385,677
+Pectoralis minor muscle.l,MESH,4: Muscular system,513,1034
+Pectoralis minor muscle.r,MESH,4: Muscular system,513,1034
+Piriformis fascia.l,MESH,4: Muscular system,117,230
+Piriformis fascia.r,MESH,4: Muscular system,117,230
+Piriformis muscle.l,MESH,4: Muscular system,189,374
+Piriformis muscle.r,MESH,4: Muscular system,189,374
+Plantar aponeurosis.l,MESH,4: Muscular system,78,101
+Plantar aponeurosis.r,MESH,4: Muscular system,78,101
+Plantar interossei muscles.l,MESH,4: Muscular system,161,310
+Plantar interossei muscles.r,MESH,4: Muscular system,161,310
+Plantar tendon sheath of fibularis longus muscle.l,MESH,4: Muscular system,82,160
+Plantar tendon sheath of fibularis longus muscle.r,MESH,4: Muscular system,82,160
+Plantaris muscle.l,MESH,4: Muscular system,589,1174
+Plantaris muscle.r,MESH,4: Muscular system,589,1174
+Popliteal fascia.l,MESH,4: Muscular system,87,122
+Popliteal fascia.r,MESH,4: Muscular system,86,121
+Popliteus muscle.l,MESH,4: Muscular system,141,282
+Popliteus muscle.r,MESH,4: Muscular system,141,282
+Posterior crico-arytenoid muscle.l,MESH,4: Muscular system,228,452
+Posterior crico-arytenoid muscle.r,MESH,4: Muscular system,228,452
+Posterior intermuscular septum of leg.l,MESH,4: Muscular system,179,265
+Posterior intermuscular septum of leg.r,MESH,4: Muscular system,179,265
+Posterior layer of thoracolumbar fascia.l,MESH,4: Muscular system,56,77
+Posterior layer of thoracolumbar fascia.r,MESH,4: Muscular system,57,77
+Procerus muscle.l,MESH,4: Muscular system,68,136
+Procerus muscle.r,MESH,4: Muscular system,68,136
+Pronator quadratus.l,MESH,4: Muscular system,129,254
+Pronator quadratus.r,MESH,4: Muscular system,129,254
+Psoas major.l,MESH,4: Muscular system,684,1368
+Psoas major.r,MESH,4: Muscular system,684,1368
+Pubo-analis muscle.l,MESH,4: Muscular system,176,360
+Pubo-analis muscle.r,MESH,4: Muscular system,176,360
+Pubococcygeus muscle.l,MESH,4: Muscular system,310,628
+Pubococcygeus muscle.r,MESH,4: Muscular system,310,628
+Pyramidalis muscle.l,MESH,4: Muscular system,137,278
+Pyramidalis muscle.r,MESH,4: Muscular system,137,278
+Quadratus femoris muscle.l,MESH,4: Muscular system,207,410
+Quadratus femoris muscle.r,MESH,4: Muscular system,207,410
+Quadratus lumborum muscle.l,MESH,4: Muscular system,354,708
+Quadratus lumborum muscle.r,MESH,4: Muscular system,354,708
+Quadratus plantae muscle.l,MESH,4: Muscular system,149,294
+Quadratus plantae muscle.r,MESH,4: Muscular system,149,294
+Radial head of flexor digitorum superficialis.l,MESH,4: Muscular system,161,318
+Radial head of flexor digitorum superficialis.r,MESH,4: Muscular system,161,318
+Rectus abdominis muscle.l,MESH,4: Muscular system,2577,5150
+Rectus abdominis muscle.r,MESH,4: Muscular system,2577,5150
+Rectus femoris muscle.l,MESH,4: Muscular system,1032,2068
+Rectus femoris muscle.r,MESH,4: Muscular system,1032,2068
+Rectus posterior major capitis muscle.l,MESH,4: Muscular system,100,196
+Rectus posterior major capitis muscle.r,MESH,4: Muscular system,100,196
+Rectus posterior minor capitis muscle.l,MESH,4: Muscular system,52,108
+Rectus posterior minor capitis muscle.r,MESH,4: Muscular system,52,108
+Rhomboid major muscle.l,MESH,4: Muscular system,602,1200
+Rhomboid major muscle.r,MESH,4: Muscular system,602,1200
+Rhomboid minor muscle.l,MESH,4: Muscular system,186,372
+Rhomboid minor muscle.r,MESH,4: Muscular system,186,372
+Risorius muscle.l,MESH,4: Muscular system,74,148
+Risorius muscle.r,MESH,4: Muscular system,74,148
+Rotatores.l,MESH,4: Muscular system,809,1628
+Rotatores.r,MESH,4: Muscular system,809,1628
+Sartorius muscle.l,MESH,4: Muscular system,618,1240
+Sartorius muscle.r,MESH,4: Muscular system,618,1240
+Scalenus anterior muscle.l,MESH,4: Muscular system,178,346
+Scalenus anterior muscle.r,MESH,4: Muscular system,178,346
+Scalenus medius muscle.l,MESH,4: Muscular system,257,518
+Scalenus medius muscle.r,MESH,4: Muscular system,257,518
+Scalenus posterior muscle.l,MESH,4: Muscular system,167,330
+Scalenus posterior muscle.r,MESH,4: Muscular system,167,330
+Semimembranosus muscle.l,MESH,4: Muscular system,934,1860
+Semimembranosus muscle.r,MESH,4: Muscular system,934,1860
+Semispinalis colli muscle.l,MESH,4: Muscular system,323,646
+Semispinalis colli muscle.r,MESH,4: Muscular system,323,646
+Semispinalis thoracis muscle.r,MESH,4: Muscular system,610,1242
+Semitendinosus muscle.l,MESH,4: Muscular system,539,1078
+Semitendinosus muscle.r,MESH,4: Muscular system,539,1078
+Serratus anterior muscle.l,MESH,4: Muscular system,3153,6310
+Serratus anterior muscle.r,MESH,4: Muscular system,3153,6310
+Serratus posterior inferior muscle.l,MESH,4: Muscular system,1111,2238
+Serratus posterior inferior muscle.r,MESH,4: Muscular system,1111,2238
+Serratus posterior superior muscle.l,MESH,4: Muscular system,689,1378
+Serratus posterior superior muscle.r,MESH,4: Muscular system,689,1378
+Short head of biceps brachii.l,MESH,4: Muscular system,333,674
+Short head of biceps brachii.r,MESH,4: Muscular system,333,674
+Short head of biceps femoris.l,MESH,4: Muscular system,309,618
+Short head of biceps femoris.r,MESH,4: Muscular system,309,618
+Soleus muscle.l,MESH,4: Muscular system,838,1692
+Soleus muscle.r,MESH,4: Muscular system,838,1692
+External part of thyro-arytenoid muscle.l,MESH,4: Muscular system,281,558
+External part of thyro-arytenoid muscle.r,MESH,4: Muscular system,281,558
+Oblique part of cricothyroid muscle.l,MESH,4: Muscular system,259,514
+Oblique part of cricothyroid muscle.r,MESH,4: Muscular system,259,514
+Orbital part of orbicularis oculi.l,MESH,4: Muscular system,298,596
+Orbital part of orbicularis oculi.r,MESH,4: Muscular system,298,596
+Palpebral part of orbicularis oculi.l,MESH,4: Muscular system,103,206
+Palpebral part of orbicularis oculi.r,MESH,4: Muscular system,103,206
+Platysma.l,MESH,4: Muscular system,820,1636
+Platysma.r,MESH,4: Muscular system,820,1636
+Posterior belly of digastric muscle.l,MESH,4: Muscular system,159,318
+Posterior belly of digastric muscle.r,MESH,4: Muscular system,159,318
+Rectus anterior capitis muscle.l,MESH,4: Muscular system,51,98
+Rectus anterior capitis muscle.r,MESH,4: Muscular system,51,98
+Rectus lateralis capitis muscle.l,MESH,4: Muscular system,47,90
+Rectus lateralis capitis muscle.r,MESH,4: Muscular system,47,90
+Scapular spinal part of deltoid muscle.l,MESH,4: Muscular system,547,1094
+Scapular spinal part of deltoid muscle.r,MESH,4: Muscular system,547,1094
+Sciatic bursa of gluteus maximus muscle.l,MESH,4: Muscular system,46,88
+Sciatic bursa of gluteus maximus muscle.r,MESH,4: Muscular system,46,88
+Sciatic bursa of obturator internus.l,MESH,4: Muscular system,46,88
+Sciatic bursa of obturator internus.r,MESH,4: Muscular system,46,88
+Semimembranosus bursa.l,MESH,4: Muscular system,126,248
+Semimembranosus bursa.r,MESH,4: Muscular system,126,248
+Semispinalis thoracis muscle.l,MESH,4: Muscular system,610,1242
+Spinalis capitis muscle.l,MESH,4: Muscular system,315,640
+Spinalis capitis muscle.r,MESH,4: Muscular system,315,640
+Spinalis colli muscle.l,MESH,4: Muscular system,74,148
+Spinalis colli muscle.r,MESH,4: Muscular system,74,148
+Spinalis thoracis muscle.l,MESH,4: Muscular system,693,1382
+Spinalis thoracis muscle.r,MESH,4: Muscular system,693,1382
+Splenius capitis muscle.l,MESH,4: Muscular system,655,1314
+Splenius capitis muscle.r,MESH,4: Muscular system,655,1314
+Splenius colli muscle.l,MESH,4: Muscular system,540,1078
+Splenius colli muscle.r,MESH,4: Muscular system,540,1078
+Sternocleidomastoid muscle.l,MESH,4: Muscular system,615,1238
+Sternocleidomastoid muscle.r,MESH,4: Muscular system,615,1238
+Sternocostal head of pectoralis major muscle.l,MESH,4: Muscular system,402,804
+Sternocostal head of pectoralis major muscle.r,MESH,4: Muscular system,402,804
+Sternohyoid muscle.l,MESH,4: Muscular system,174,348
+Sternohyoid muscle.r,MESH,4: Muscular system,174,348
+Sternothyroid muscle.l,MESH,4: Muscular system,138,272
+Sternothyroid muscle.r,MESH,4: Muscular system,138,272
+Straight part of cricothyroid muscle.l,MESH,4: Muscular system,149,294
+Straight part of cricothyroid muscle.r,MESH,4: Muscular system,149,294
+Stylohyoid muscle.l,MESH,4: Muscular system,88,172
+Stylohyoid muscle.r,MESH,4: Muscular system,88,172
+Stylopharyngeus muscle.l,MESH,4: Muscular system,1185,2368
+Stylopharyngeus muscle.r,MESH,4: Muscular system,1185,2368
+Subacromial bursa.l,MESH,4: Muscular system,46,88
+Subacromial bursa.r,MESH,4: Muscular system,46,88
+Subclavius muscle.l,MESH,4: Muscular system,99,198
+Subclavius muscle.r,MESH,4: Muscular system,99,198
+Subcutaneous acromial bursa.l,MESH,4: Muscular system,46,88
+Subcutaneous acromial bursa.r,MESH,4: Muscular system,46,88
+Subcutaneous bursa of lateral malleolus.l,MESH,4: Muscular system,84,164
+Subcutaneous bursa of lateral malleolus.r,MESH,4: Muscular system,84,164
+Subcutaneous bursa of medial malleolus.l,MESH,4: Muscular system,84,164
+Subcutaneous bursa of medial malleolus.r,MESH,4: Muscular system,84,164
+Subcutaneous bursa of tuberosity of tibia.l,MESH,4: Muscular system,46,88
+Subcutaneous bursa of tuberosity of tibia.r,MESH,4: Muscular system,46,88
+Subcutaneous calcaneal bursa.l,MESH,4: Muscular system,70,136
+Subcutaneous calcaneal bursa.r,MESH,4: Muscular system,70,136
+Subcutaneous infrapatellar bursa.l,MESH,4: Muscular system,46,88
+Subcutaneous infrapatellar bursa.r,MESH,4: Muscular system,46,88
+Subcutaneous prepatellar bursa.l,MESH,4: Muscular system,126,248
+Subcutaneous prepatellar bursa.r,MESH,4: Muscular system,126,248
+Subcutaneous trochanteric bursa.l,MESH,4: Muscular system,46,88
+Subcutaneous trochanteric bursa.r,MESH,4: Muscular system,46,88
+Subdeltoid bursa.l,MESH,4: Muscular system,46,88
+Subdeltoid bursa.r,MESH,4: Muscular system,46,88
+Subfacial prepatellar bursa.l,MESH,4: Muscular system,126,248
+Subfacial prepatellar bursa.r,MESH,4: Muscular system,126,248
+Subscapularis muscle.l,MESH,4: Muscular system,363,738
+Subscapularis muscle.r,MESH,4: Muscular system,363,738
+Subtendinous bursa of iliacus muscle.l,MESH,4: Muscular system,46,88
+Subtendinous bursa of iliacus muscle.r,MESH,4: Muscular system,46,88
+Subtendinous bursa of infraspinatus muscle.l,MESH,4: Muscular system,46,88
+Subtendinous bursa of infraspinatus muscle.r,MESH,4: Muscular system,46,88
+Subtendinous bursa of obturator internus.l,MESH,4: Muscular system,46,88
+Subtendinous bursa of obturator internus.r,MESH,4: Muscular system,46,88
+Subtendinous bursa of sartorius muscle.l,MESH,4: Muscular system,41,78
+Subtendinous bursa of sartorius muscle.r,MESH,4: Muscular system,41,78
+Subtendinous bursa of teres major muscle.l,MESH,4: Muscular system,46,88
+Subtendinous bursa of teres major muscle.r,MESH,4: Muscular system,46,88
+Subtendinous bursa of tibialis anterior.l,MESH,4: Muscular system,90,176
+Subtendinous bursa of tibialis anterior.r,MESH,4: Muscular system,90,176
+Subtendinous bursa of trapezius muscle.l,MESH,4: Muscular system,46,88
+Subtendinous bursa of trapezius muscle.r,MESH,4: Muscular system,46,88
+Subtendinous bursa of triceps brachii muscle.l,MESH,4: Muscular system,46,88
+Subtendinous bursa of triceps brachii muscle.r,MESH,4: Muscular system,46,88
+Subtendinous calcaneal bursa.l,MESH,4: Muscular system,70,136
+Subtendinous calcaneal bursa.r,MESH,4: Muscular system,70,136
+Subtendinous prepatellar bursa.l,MESH,4: Muscular system,126,248
+Subtendinous prepatellar bursa.r,MESH,4: Muscular system,126,248
+Superficial head of flexor pollicis brevis.l,MESH,4: Muscular system,136,276
+Superficial head of flexor pollicis brevis.r,MESH,4: Muscular system,136,276
+Superficial head of pronator teres.l,MESH,4: Muscular system,318,636
+Superficial head of pronator teres.r,MESH,4: Muscular system,318,636
+Superficial investing cervical fascia.l,MESH,4: Muscular system,479,834
+Superficial investing cervical fascia.r,MESH,4: Muscular system,477,833
+Superficial layer of temporal fascia.l,MESH,4: Muscular system,113,171
+Superficial layer of temporal fascia.r,MESH,4: Muscular system,113,171
+Superficial part of masseter.l,MESH,4: Muscular system,175,350
+Superficial part of masseter.r,MESH,4: Muscular system,175,350
+Superficial transverse metacarpal ligament.l,MESH,4: Muscular system,98,192
+Superficial transverse metacarpal ligament.r,MESH,4: Muscular system,98,192
+Superficial transverse metatarsal ligament.l,MESH,4: Muscular system,66,99
+Superficial transverse metatarsal ligament.r,MESH,4: Muscular system,66,99
+Superior bursa of biceps femoris muscle.l,MESH,4: Muscular system,46,88
+Superior bursa of biceps femoris muscle.r,MESH,4: Muscular system,46,88
+Superior extensor retinaculum of ankle.l,MESH,4: Muscular system,132,260
+Superior extensor retinaculum of ankle.r,MESH,4: Muscular system,132,260
+Superior fibular retinaculum.l,MESH,4: Muscular system,83,162
+Superior fibular retinaculum.r,MESH,4: Muscular system,83,162
+Superior gemellus muscle.l,MESH,4: Muscular system,52,100
+Superior gemellus muscle.r,MESH,4: Muscular system,52,100
+Superior head of lateral pterygoid muscle.l,MESH,4: Muscular system,115,226
+Superior head of lateral pterygoid muscle.r,MESH,4: Muscular system,115,226
+Superior oblique muscle.l,MESH,4: Muscular system,220,436
+Superior oblique muscle.r,MESH,4: Muscular system,220,436
+Superior pharyngeal constrictor.l,MESH,4: Muscular system,668,1332
+Superior pharyngeal constrictor.r,MESH,4: Muscular system,668,1332
+Superior rectus muscle.l,MESH,4: Muscular system,162,320
+Superior rectus muscle.r,MESH,4: Muscular system,162,320
+Superior tarsus.l,MESH,4: Muscular system,91,178
+Superior tarsus.r,MESH,4: Muscular system,91,178
+Supinator.l,MESH,4: Muscular system,346,688
+Supinator.r,MESH,4: Muscular system,346,688
+Suprapatellar bursa.l,MESH,4: Muscular system,41,78
+Suprapatellar bursa.r,MESH,4: Muscular system,41,78
+Supraspinatus muscle.l,MESH,4: Muscular system,180,356
+Supraspinatus muscle.r,MESH,4: Muscular system,180,356
+Synovial sheaths of digits of hand.l,MESH,4: Muscular system,60,108
+Synovial sheaths of digits of hand.r,MESH,4: Muscular system,60,108
+Temporalis muscle.l,MESH,4: Muscular system,1278,2564
+Temporalis muscle.r,MESH,4: Muscular system,1278,2564
+Temporoparietalis muscle.l,MESH,4: Muscular system,1484,2992
+Temporoparietalis muscle.r,MESH,4: Muscular system,1484,2992
+Tendinous arch of levator ani.l,MESH,4: Muscular system,95,186
+Tendinous arch of levator ani.r,MESH,4: Muscular system,95,186
+Tendon of extensor digitorum longus.l,MESH,4: Muscular system,688,1295
+Tendon of extensor digitorum longus.r,MESH,4: Muscular system,688,1295
+Tendon sheath - abd. pollicis longus - ext. pollicis brevis.l,MESH,4: Muscular system,87,170
+Tendon sheath - abd. pollicis longus - ext. pollicis brevis.r,MESH,4: Muscular system,87,170
+Tendon sheath of extensor carpi ulnaris.l,MESH,4: Muscular system,32,60
+Tendon sheath of extensor carpi ulnaris.r,MESH,4: Muscular system,32,60
+Tendon sheath of extensor digiti minimi manus.l,MESH,4: Muscular system,76,148
+Tendon sheath of extensor digiti minimi manus.r,MESH,4: Muscular system,76,148
+Tendon sheath of extensor digitorum and extensor indicis.l,MESH,4: Muscular system,76,148
+Tendon sheath of extensor digitorum and extensor indicis.r,MESH,4: Muscular system,76,148
+Tendon sheath of extensor digitorum longus.l,MESH,4: Muscular system,66,128
+Tendon sheath of extensor digitorum longus.r,MESH,4: Muscular system,66,128
+Tendon sheath of extensor hallucis longus.l,MESH,4: Muscular system,76,148
+Tendon sheath of extensor hallucis longus.r,MESH,4: Muscular system,76,148
+Tendon sheath of extensor pollicis longus.l,MESH,4: Muscular system,56,108
+Tendon sheath of extensor pollicis longus.r,MESH,4: Muscular system,56,108
+Tendon sheath of extensors carpi radialis.l,MESH,4: Muscular system,75,146
+Tendon sheath of extensors carpi radialis.r,MESH,4: Muscular system,75,146
+Tendon sheath of flexor carpi radialis.l,MESH,4: Muscular system,36,68
+Tendon sheath of flexor carpi radialis.r,MESH,4: Muscular system,36,68
+Tendon sheath of flexor digitorum longus.l,MESH,4: Muscular system,130,256
+Tendon sheath of flexor digitorum longus.r,MESH,4: Muscular system,130,256
+Tendon sheath of flexor hallucis longus.l,MESH,4: Muscular system,56,108
+Tendon sheath of flexor hallucis longus.r,MESH,4: Muscular system,56,108
+Tendon sheath of flexor pollicis longus.l,MESH,4: Muscular system,100,196
+Tendon sheath of flexor pollicis longus.r,MESH,4: Muscular system,100,196
+Tendon sheath of tibialis anterior.l,MESH,4: Muscular system,122,240
+Tendon sheath of tibialis anterior.r,MESH,4: Muscular system,122,240
+Tendon sheath of tibialis posterior muscle.l,MESH,4: Muscular system,145,286
+Tendon sheath of tibialis posterior muscle.r,MESH,4: Muscular system,145,286
+Tensor fasciae latae.l,MESH,4: Muscular system,234,464
+Tensor fasciae latae.r,MESH,4: Muscular system,234,464
+Teres major muscle.l,MESH,4: Muscular system,144,288
+Teres major muscle.r,MESH,4: Muscular system,144,288
+Teres minor muscle.l,MESH,4: Muscular system,192,380
+Teres minor muscle.r,MESH,4: Muscular system,192,380
+Thyro-epiglottic part of thyro-arytenoid muscle.l,MESH,4: Muscular system,390,776
+Thyro-epiglottic part of thyro-arytenoid muscle.r,MESH,4: Muscular system,390,776
+Thyrohyoid muscle.l,MESH,4: Muscular system,89,174
+Thyrohyoid muscle.r,MESH,4: Muscular system,89,174
+Tibialis anterior muscle.l,MESH,4: Muscular system,438,880
+Tibialis anterior muscle.r,MESH,4: Muscular system,438,880
+Tibialis posterior muscle.l,MESH,4: Muscular system,668,1380
+Tibialis posterior muscle.r,MESH,4: Muscular system,668,1380
+Transversalis fascia,MESH,4: Muscular system,626,1051
+Transverse arytenoid muscle,MESH,4: Muscular system,229,454
+Transverse head of adductor hallucis.l,MESH,4: Muscular system,43,90
+Transverse head of adductor hallucis.r,MESH,4: Muscular system,43,90
+Transverse head of adductor pollicis.l,MESH,4: Muscular system,128,252
+Transverse head of adductor pollicis.r,MESH,4: Muscular system,128,252
+Transverse intermuscular septum of leg.l,MESH,4: Muscular system,87,123
+Transverse intermuscular septum of leg.r,MESH,4: Muscular system,87,123
+Transverse part of trapezius muscle.l,MESH,4: Muscular system,372,748
+Transverse part of trapezius muscle.r,MESH,4: Muscular system,372,748
+Transversus abdominis muscle.l,MESH,4: Muscular system,4291,8582
+Transversus abdominis muscle.r,MESH,4: Muscular system,4291,8582
+Transversus thoracis muscle.l,MESH,4: Muscular system,193,416
+Transversus thoracis muscle.r,MESH,4: Muscular system,193,416
+Trochanteric bursa of gluteus maximus muscle.l,MESH,4: Muscular system,46,88
+Trochanteric bursa of gluteus maximus muscle.r,MESH,4: Muscular system,46,88
+Trochanteric bursa of gluteus medius muscle.l,MESH,4: Muscular system,46,88
+Trochanteric bursa of gluteus medius muscle.r,MESH,4: Muscular system,46,88
+Trochanteric bursa of gluteus minimus muscle.l,MESH,4: Muscular system,46,88
+Trochanteric bursa of gluteus minimus muscle.r,MESH,4: Muscular system,46,88
+Trochlea of superior oblique muscle.l,MESH,4: Muscular system,98,192
+Trochlea of superior oblique muscle.r,MESH,4: Muscular system,98,192
+Ulnar head of extensor carpi ulnaris.l,MESH,4: Muscular system,73,144
+Ulnar head of extensor carpi ulnaris.r,MESH,4: Muscular system,73,144
+Ulnar head of flexor carpi ulnaris.l,MESH,4: Muscular system,175,366
+Ulnar head of flexor carpi ulnaris.r,MESH,4: Muscular system,175,366
+Vastus intermedius muscle.l,MESH,4: Muscular system,764,1540
+Vastus intermedius muscle.r,MESH,4: Muscular system,764,1540
+Vastus lateralis muscle.l,MESH,4: Muscular system,1169,2338
+Vastus lateralis muscle.r,MESH,4: Muscular system,1169,2338
+Vastus medialis muscle.l,MESH,4: Muscular system,809,1614
+Vastus medialis muscle.r,MESH,4: Muscular system,809,1614
+Ventral parts of lateral intertransversarii lumborum muscles.l,MESH,4: Muscular system,132,248
+Ventral parts of lateral intertransversarii lumborum muscles.r,MESH,4: Muscular system,132,248
+Zygomaticus major muscle.l,MESH,4: Muscular system,97,198
+Zygomaticus major muscle.r,MESH,4: Muscular system,97,198
+Zygomaticus minor muscle.l,MESH,4: Muscular system,56,108
+Zygomaticus minor muscle.r,MESH,4: Muscular system,56,108

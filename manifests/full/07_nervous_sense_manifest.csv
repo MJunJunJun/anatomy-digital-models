@@ -1,0 +1,577 @@
+object,source_type,collection_path,vertices,triangles
+ Posterior transverse collateral sulcus.l,MESH,7: Nervous system & Sense organs,102,184
+ Posterior transverse collateral sulcus.r,MESH,7: Nervous system & Sense organs,102,184
+(Communicating branch of median nerve with ulnar nerve).l,CURVE,7: Nervous system & Sense organs,300,576
+(Communicating branch of median nerve with ulnar nerve).r,CURVE,7: Nervous system & Sense organs,300,576
+Abducens nerve (VI).l,CURVE,7: Nervous system & Sense organs,2520,4936
+Abducens nerve (VI).r,CURVE,7: Nervous system & Sense organs,2520,4936
+Accessory nerve (XI).l,CURVE,7: Nervous system & Sense organs,7848,15384
+Accessory nerve (XI).r,CURVE,7: Nervous system & Sense organs,7848,15384
+Accessory nucleus of oculomotor nerve.l,MESH,7: Nervous system & Sense organs,26,48
+Accessory nucleus of oculomotor nerve.r,MESH,7: Nervous system & Sense organs,26,48
+Ampulla of lacrimal canaliculus.l,MESH,7: Nervous system & Sense organs,124,244
+Ampulla of lacrimal canaliculus.r,MESH,7: Nervous system & Sense organs,124,244
+Amygdaloid body.l,MESH,7: Nervous system & Sense organs,194,384
+Amygdaloid body.r,MESH,7: Nervous system & Sense organs,194,384
+Angular gyrus.l,MESH,7: Nervous system & Sense organs,759,1511
+Angular gyrus.r,MESH,7: Nervous system & Sense organs,759,1511
+Anterior branch of medial antebrachial cutaneous nerve.l,CURVE,7: Nervous system & Sense organs,732,1440
+Anterior branch of medial antebrachial cutaneous nerve.r,CURVE,7: Nervous system & Sense organs,732,1440
+Anterior branch of obturator nerve.l,CURVE,7: Nervous system & Sense organs,876,1728
+Anterior branch of obturator nerve.r,CURVE,7: Nervous system & Sense organs,876,1728
+Anterior chamber of eyeball.l,MESH,7: Nervous system & Sense organs,258,512
+Anterior chamber of eyeball.r,MESH,7: Nervous system & Sense organs,258,512
+Anterior cochlear nucleus.l,MESH,7: Nervous system & Sense organs,26,48
+Anterior cochlear nucleus.r,MESH,7: Nervous system & Sense organs,26,48
+Anterior commissure,MESH,7: Nervous system & Sense organs,402,800
+Anterior corticospinal tract,MESH,7: Nervous system & Sense organs,3672,7272
+Anterior cutaneous branches of femoral nerve.l,CURVE,7: Nervous system & Sense organs,732,1440
+Anterior cutaneous branches of femoral nerve.r,CURVE,7: Nervous system & Sense organs,732,1440
+Anterior division of inferior trunk of brachial plexus.l,CURVE,7: Nervous system & Sense organs,300,576
+Anterior division of inferior trunk of brachial plexus.r,CURVE,7: Nervous system & Sense organs,300,576
+Anterior division of mandibular nerve.l,CURVE,7: Nervous system & Sense organs,324,596
+Anterior division of mandibular nerve.r,CURVE,7: Nervous system & Sense organs,324,596
+Anterior division of middle trunk of brachial plexus.l,CURVE,7: Nervous system & Sense organs,156,288
+Anterior division of middle trunk of brachial plexus.r,CURVE,7: Nervous system & Sense organs,156,288
+Anterior division of superior trunk of brachial plexus.l,CURVE,7: Nervous system & Sense organs,156,288
+Anterior division of superior trunk of brachial plexus.r,CURVE,7: Nervous system & Sense organs,156,288
+Anterior fasciculus proprius,MESH,7: Nervous system & Sense organs,4692,9292
+Anterior horn of spinal cord,MESH,7: Nervous system & Sense organs,4488,8888
+Anterior interosseous nerve of forearm.l,CURVE,7: Nervous system & Sense organs,732,1440
+Anterior interosseous nerve of forearm.r,CURVE,7: Nervous system & Sense organs,732,1440
+Anterior occipital sulcus*.l,MESH,7: Nervous system & Sense organs,184,364
+Anterior occipital sulcus*.r,MESH,7: Nervous system & Sense organs,184,364
+Anterior quadrangular lobule.l,MESH,7: Nervous system & Sense organs,3270,6520
+Anterior quadrangular lobule.r,MESH,7: Nervous system & Sense organs,3270,6520
+Anterior root of posterior femoral cutaneous nerve.l,CURVE,7: Nervous system & Sense organs,756,1440
+Anterior root of posterior femoral cutaneous nerve.r,CURVE,7: Nervous system & Sense organs,756,1440
+Anterior root of spinal nerve.l,CURVE,7: Nervous system & Sense organs,3564,6624
+Anterior root of spinal nerve.r,CURVE,7: Nervous system & Sense organs,3564,6624
+Anterior segment of eyeball.l,MESH,7: Nervous system & Sense organs,416,832
+Anterior segment of eyeball.r,MESH,7: Nervous system & Sense organs,416,832
+Anterior spinocerebellar tract,MESH,7: Nervous system & Sense organs,5916,11716
+Anterior spinothalamic tract,MESH,7: Nervous system & Sense organs,4080,8080
+Aqueduct of midbrain,MESH,7: Nervous system & Sense organs,235,460
+Auditory tube.l,MESH,7: Nervous system & Sense organs,232,460
+Auditory tube.r,MESH,7: Nervous system & Sense organs,232,460
+Axillary nerve.l,CURVE,7: Nervous system & Sense organs,588,1152
+Axillary nerve.r,CURVE,7: Nervous system & Sense organs,588,1152
+Biventral lobule.l,MESH,7: Nervous system & Sense organs,4464,8902
+Biventral lobule.r,MESH,7: Nervous system & Sense organs,4464,8902
+Buccal nerve.l,CURVE,7: Nervous system & Sense organs,1368,2632
+Buccal nerve.r,CURVE,7: Nervous system & Sense organs,1368,2632
+Calcarine sulcus.l,MESH,7: Nervous system & Sense organs,437,872
+Calcarine sulcus.r,MESH,7: Nervous system & Sense organs,437,872
+Cauda equina,CURVE,7: Nervous system & Sense organs,7128,13824
+Caudate nucleus.l,MESH,7: Nervous system & Sense organs,1287,2570
+Caudate nucleus.r,MESH,7: Nervous system & Sense organs,1287,2570
+Central canal,MESH,7: Nervous system & Sense organs,1632,3232
+Central canal',CURVE,7: Nervous system & Sense organs,300,576
+Central lobule,MESH,7: Nervous system & Sense organs,505,1006
+Central sulcus.l,MESH,7: Nervous system & Sense organs,722,1440
+Central sulcus.r,MESH,7: Nervous system & Sense organs,722,1440
+Chorda tympani.l,CURVE,7: Nervous system & Sense organs,900,1748
+Chorda tympani.r,CURVE,7: Nervous system & Sense organs,900,1748
+Choroid plexus.l,MESH,7: Nervous system & Sense organs,1324,2647
+Choroid plexus.r,MESH,7: Nervous system & Sense organs,1324,2647
+Cingulate gyrus (Posteroventral part*).l,MESH,7: Nervous system & Sense organs,153,298
+Cingulate gyrus (Posteroventral part*).r,MESH,7: Nervous system & Sense organs,153,298
+Cingulate gyrus and sulcus (Middle anterior part).l,MESH,7: Nervous system & Sense organs,370,736
+Cingulate gyrus and sulcus (Middle anterior part).r,MESH,7: Nervous system & Sense organs,370,736
+Cingulate gyrus and sulcus (Middle posterior part).l,MESH,7: Nervous system & Sense organs,302,600
+Cingulate gyrus and sulcus (Middle posterior part).r,MESH,7: Nervous system & Sense organs,302,600
+Cingulate gyrus and sulcus (Posterior dorsal part).l,MESH,7: Nervous system & Sense organs,207,410
+Cingulate gyrus and sulcus (Posterior dorsal part).r,MESH,7: Nervous system & Sense organs,207,410
+Cingulate sulcus (Marginal part*).l,MESH,7: Nervous system & Sense organs,274,544
+Cingulate sulcus (Marginal part*).r,MESH,7: Nervous system & Sense organs,274,544
+Circular sulcus of insula.l,MESH,7: Nervous system & Sense organs,401,798
+Circular sulcus of insula.r,MESH,7: Nervous system & Sense organs,401,798
+Cochlear nerve.l,CURVE,7: Nervous system & Sense organs,468,884
+Collateral sulcus.l,MESH,7: Nervous system & Sense organs,575,1142
+Collateral sulcus.r,MESH,7: Nervous system & Sense organs,575,1142
+Common fibular nerve.l,CURVE,7: Nervous system & Sense organs,1020,2016
+Common fibular nerve.r,CURVE,7: Nervous system & Sense organs,1020,2016
+Common palmar digital branches of median nerve.l,CURVE,7: Nervous system & Sense organs,1188,2304
+Common palmar digital branches of median nerve.r,CURVE,7: Nervous system & Sense organs,1188,2304
+Common palmar digital branches of ulnar nerve.l,CURVE,7: Nervous system & Sense organs,900,1728
+Common palmar digital branches of ulnar nerve.r,CURVE,7: Nervous system & Sense organs,900,1728
+Common plantar digital branches of lateral plantar nerve.l,CURVE,7: Nervous system & Sense organs,756,1440
+Common plantar digital branches of lateral plantar nerve.r,CURVE,7: Nervous system & Sense organs,756,1440
+Common plantar digital branches of medial plantar nerve.l,CURVE,7: Nervous system & Sense organs,900,1728
+Cornea.l,MESH,7: Nervous system & Sense organs,322,640
+Cornea.r,MESH,7: Nervous system & Sense organs,322,640
+Corpus callosum,MESH,7: Nervous system & Sense organs,2000,3996
+Culmen,MESH,7: Nervous system & Sense organs,1194,2378
+Cuneate fasciculus,MESH,7: Nervous system & Sense organs,1584,3024
+Cuneus.l,MESH,7: Nervous system & Sense organs,475,946
+Cuneus.r,MESH,7: Nervous system & Sense organs,475,946
+Declive,MESH,7: Nervous system & Sense organs,1067,2125
+Deep branch of radial nerve.l,CURVE,7: Nervous system & Sense organs,1020,2016
+Deep branch of radial nerve.r,CURVE,7: Nervous system & Sense organs,1020,2016
+Deep branch of ulnar nerve.l,CURVE,7: Nervous system & Sense organs,732,1440
+Deep branch of ulnar nerve.r,CURVE,7: Nervous system & Sense organs,732,1440
+Deep fibular nerve.l,CURVE,7: Nervous system & Sense organs,2172,4320
+Deep fibular nerve.r,CURVE,7: Nervous system & Sense organs,2172,4320
+Dorsal branch of ulnar nerve.l,CURVE,7: Nervous system & Sense organs,744,1440
+Dorsal branch of ulnar nerve.r,CURVE,7: Nervous system & Sense organs,744,1440
+Dorsal digital branches of deep fibular nerve.l,CURVE,7: Nervous system & Sense organs,1608,3168
+Dorsal digital branches of deep fibular nerve.r,CURVE,7: Nervous system & Sense organs,1608,3168
+Dorsal digital branches of radial nerve.l,CURVE,7: Nervous system & Sense organs,6852,13536
+Dorsal digital branches of radial nerve.r,CURVE,7: Nervous system & Sense organs,6852,13536
+Dorsal digital branches of superficial fibular nerve.l,CURVE,7: Nervous system & Sense organs,4260,8352
+Dorsal digital branches of superficial fibular nerve.r,CURVE,7: Nervous system & Sense organs,4260,8352
+Dorsal digital branches of ulnar nerve.l,CURVE,7: Nervous system & Sense organs,2484,4896
+Dorsal digital branches of ulnar nerve.r,CURVE,7: Nervous system & Sense organs,2484,4896
+Dorsal scapular nerve.l,CURVE,7: Nervous system & Sense organs,1308,2592
+Dorsal scapular nerve.r,CURVE,7: Nervous system & Sense organs,1308,2592
+Facial nerve (VII).l,CURVE,7: Nervous system & Sense organs,13968,27312
+Facial nerve (VII).r,CURVE,7: Nervous system & Sense organs,13968,27312
+Falx cerebri,MESH,7: Nervous system & Sense organs,1688,3644
+Femoral branch of genitofemoral nerve.l,CURVE,7: Nervous system & Sense organs,1320,2592
+Femoral branch of genitofemoral nerve.r,CURVE,7: Nervous system & Sense organs,1320,2592
+Femoral nerve.l,CURVE,7: Nervous system & Sense organs,2052,4032
+Femoral nerve.r,CURVE,7: Nervous system & Sense organs,2052,4032
+Flocculus.l,MESH,7: Nervous system & Sense organs,1869,3660
+Flocculus.r,MESH,7: Nervous system & Sense organs,1869,3660
+Folium of vermis,MESH,7: Nervous system & Sense organs,410,812
+Fornix.l,MESH,7: Nervous system & Sense organs,1081,2158
+Fornix.r,MESH,7: Nervous system & Sense organs,1081,2158
+Fourth ventricle,MESH,7: Nervous system & Sense organs,2915,5798
+Ganglia of sympathetic trunk.l,MESH,7: Nervous system & Sense organs,756,1440
+Ganglia of sympathetic trunk.r,MESH,7: Nervous system & Sense organs,756,1440
+Genital branch of genitofemoral nerve.l,CURVE,7: Nervous system & Sense organs,876,1728
+Genital branch of genitofemoral nerve.r,CURVE,7: Nervous system & Sense organs,876,1728
+Genitofemoral nerve.l,CURVE,7: Nervous system & Sense organs,456,864
+Genitofemoral nerve.r,CURVE,7: Nervous system & Sense organs,456,864
+Globus pallidus.l,MESH,7: Nervous system & Sense organs,2640,5276
+Globus pallidus.r,MESH,7: Nervous system & Sense organs,2640,5276
+Glossopharyngeal nerve (IX).l,CURVE,7: Nervous system & Sense organs,6876,13388
+Glossopharyngeal nerve (IX).r,CURVE,7: Nervous system & Sense organs,6876,13388
+Gracile fasciculus,MESH,7: Nervous system & Sense organs,3876,7676
+Gracile lobule.l,MESH,7: Nervous system & Sense organs,3488,6961
+Gracile lobule.r,MESH,7: Nervous system & Sense organs,3488,6961
+Habenula,MESH,7: Nervous system & Sense organs,204,398
+Hippocampal commissure,MESH,7: Nervous system & Sense organs,4936,9864
+Hippocampus.l,MESH,7: Nervous system & Sense organs,512,1020
+Hippocampus.r,MESH,7: Nervous system & Sense organs,512,1020
+Hypoglossal nerve (XII).l,CURVE,7: Nervous system & Sense organs,8352,16288
+Hypoglossal nerve (XII).r,CURVE,7: Nervous system & Sense organs,8352,16288
+Hypothalamus,MESH,7: Nervous system & Sense organs,2148,4258
+Ilio-inguinal nerve.l,CURVE,7: Nervous system & Sense organs,1884,3744
+Ilio-inguinal nerve.r,CURVE,7: Nervous system & Sense organs,1884,3744
+Iliohypogastric nerve.l,CURVE,7: Nervous system & Sense organs,888,1728
+Iliohypogastric nerve.r,CURVE,7: Nervous system & Sense organs,888,1728
+Inferior alveolar nerve.l,CURVE,7: Nervous system & Sense organs,8784,16944
+Inferior alveolar nerve.r,CURVE,7: Nervous system & Sense organs,8784,16944
+Inferior colliculus.l,MESH,7: Nervous system & Sense organs,236,464
+Inferior colliculus.r,MESH,7: Nervous system & Sense organs,236,464
+Inferior lateral brachial cutaneous nerve.l,CURVE,7: Nervous system & Sense organs,300,576
+Inferior lateral brachial cutaneous nerve.r,CURVE,7: Nervous system & Sense organs,300,576
+Inferior occipital gyrus and sulcus*.l,MESH,7: Nervous system & Sense organs,449,894
+Inferior occipital gyrus and sulcus*.r,MESH,7: Nervous system & Sense organs,449,894
+Inferior salivatory nucleus.l,MESH,7: Nervous system & Sense organs,26,48
+Inferior salivatory nucleus.r,MESH,7: Nervous system & Sense organs,26,48
+Inferior semilunar lobule.l,MESH,7: Nervous system & Sense organs,3901,7787
+Inferior semilunar lobule.r,MESH,7: Nervous system & Sense organs,3901,7787
+Inferior subscapular nerve.l,CURVE,7: Nervous system & Sense organs,1032,2016
+Inferior subscapular nerve.r,CURVE,7: Nervous system & Sense organs,1032,2016
+Inferior temporal gyrus.l,MESH,7: Nervous system & Sense organs,750,1498
+Inferior temporal gyrus.r,MESH,7: Nervous system & Sense organs,750,1498
+Inferior trunk of brachial plexus.l,CURVE,7: Nervous system & Sense organs,300,576
+Inferior trunk of brachial plexus.r,CURVE,7: Nervous system & Sense organs,300,576
+Infrapatellar branch of saphenous nerve.l,CURVE,7: Nervous system & Sense organs,300,576
+Infrapatellar branch of saphenous nerve.r,CURVE,7: Nervous system & Sense organs,300,576
+Insula (Subcentral gyrus and ant. and post. sulci*).l,MESH,7: Nervous system & Sense organs,372,740
+Insula (Subcentral gyrus and ant. and post. sulci*).r,MESH,7: Nervous system & Sense organs,372,740
+Intercostal nerves.l,CURVE,7: Nervous system & Sense organs,25908,51552
+Intercostal nerves.r,CURVE,7: Nervous system & Sense organs,25908,51552
+Intermediate dorsal cutaneous nerve of foot.l,CURVE,7: Nervous system & Sense organs,1320,2592
+Intermediate dorsal cutaneous nerve of foot.r,CURVE,7: Nervous system & Sense organs,1320,2592
+Intermediolateral nucleus,MESH,7: Nervous system & Sense organs,2856,5656
+Intermediomedial nucleus,MESH,7: Nervous system & Sense organs,3264,6464
+Interpeduncular fossa.l,MESH,7: Nervous system & Sense organs,31,58
+Interpeduncular fossa.r,MESH,7: Nervous system & Sense organs,31,58
+Iris.l,MESH,7: Nervous system & Sense organs,1734,3248
+Iris.r,MESH,7: Nervous system & Sense organs,1734,3248
+Lacrimal canaliculus.l,MESH,7: Nervous system & Sense organs,210,411
+Lacrimal canaliculus.r,MESH,7: Nervous system & Sense organs,210,411
+Lacrimal gland.l,MESH,7: Nervous system & Sense organs,907,1810
+Lacrimal gland.r,MESH,7: Nervous system & Sense organs,907,1810
+Lacrimal sac.l,MESH,7: Nervous system & Sense organs,194,384
+Lacrimal sac.r,MESH,7: Nervous system & Sense organs,194,384
+Lat_Fis-ant-Horizont.l,MESH,7: Nervous system & Sense organs,89,174
+Lat_Fis-ant-Horizont.r,MESH,7: Nervous system & Sense organs,89,174
+Lat_Fis-ant-Vertical.l,MESH,7: Nervous system & Sense organs,99,194
+Lat_Fis-ant-Vertical.r,MESH,7: Nervous system & Sense organs,99,194
+Lat_Fis-post.l,MESH,7: Nervous system & Sense organs,242,480
+Lat_Fis-post.r,MESH,7: Nervous system & Sense organs,242,480
+Lateral antebrachial cutaneous nerve.l,CURVE,7: Nervous system & Sense organs,876,1728
+Lateral antebrachial cutaneous nerve.r,CURVE,7: Nervous system & Sense organs,876,1728
+Lateral corticospinal tract,MESH,7: Nervous system & Sense organs,3876,7676
+Lateral fasciculus proprius,MESH,7: Nervous system & Sense organs,10200,20200
+Lateral femoral cutaneous nerve.l,CURVE,7: Nervous system & Sense organs,2340,4608
+Lateral femoral cutaneous nerve.r,CURVE,7: Nervous system & Sense organs,2340,4608
+Lateral geniculate body.l,MESH,7: Nervous system & Sense organs,304,604
+Lateral geniculate body.r,MESH,7: Nervous system & Sense organs,304,604
+Lateral intermediate substance,MESH,7: Nervous system & Sense organs,6732,13332
+Lateral occipital gyrus (Middle occipital gyrus*).l,MESH,7: Nervous system & Sense organs,429,854
+Lateral occipital gyrus (Middle occipital gyrus*).r,MESH,7: Nervous system & Sense organs,429,854
+Lateral occipitotemporal gyrus.l,MESH,7: Nervous system & Sense organs,470,866
+Lateral occipitotemporal gyrus.r,MESH,7: Nervous system & Sense organs,470,866
+Lateral pectoral nerve.l,CURVE,7: Nervous system & Sense organs,3660,7200
+Lateral pectoral nerve.r,CURVE,7: Nervous system & Sense organs,3660,7200
+Lateral plantar nerve.l,CURVE,7: Nervous system & Sense organs,588,1152
+Lateral plantar nerve.r,CURVE,7: Nervous system & Sense organs,588,1152
+Lateral reticulospinal tract,MESH,7: Nervous system & Sense organs,1632,3232
+Lateral spinothalamic tract,MESH,7: Nervous system & Sense organs,4488,8888
+Lateral ventricle.l,MESH,7: Nervous system & Sense organs,1451,2898
+Lateral ventricle.r,MESH,7: Nervous system & Sense organs,1451,2898
+Lateral vestibulospinal tract,MESH,7: Nervous system & Sense organs,4896,9696
+Lens.l,MESH,7: Nervous system & Sense organs,801,1598
+Lens.r,MESH,7: Nervous system & Sense organs,801,1598
+Lentiform nucleus.l,MESH,7: Nervous system & Sense organs,1074,2144
+Lentiform nucleus.r,MESH,7: Nervous system & Sense organs,1074,2144
+Lingual gyrus.l,MESH,7: Nervous system & Sense organs,841,1658
+Lingual gyrus.r,MESH,7: Nervous system & Sense organs,841,1658
+Lingual nerve.l,CURVE,7: Nervous system & Sense organs,1332,2612
+Lingual nerve.r,CURVE,7: Nervous system & Sense organs,1332,2612
+Lingula of cerebellum,MESH,7: Nervous system & Sense organs,530,1028
+Long thoracic nerve.l,CURVE,7: Nervous system & Sense organs,2040,4032
+Long thoracic nerve.r,CURVE,7: Nervous system & Sense organs,2040,4032
+Lunate sulcus.l,MESH,7: Nervous system & Sense organs,195,382
+Lunate sulcus.r,MESH,7: Nervous system & Sense organs,195,382
+Mamillary body.l,MESH,7: Nervous system & Sense organs,112,220
+Mamillary body.r,MESH,7: Nervous system & Sense organs,112,220
+Maxillary nerve.l,CURVE,7: Nervous system & Sense organs,4068,7876
+Maxillary nerve.r,CURVE,7: Nervous system & Sense organs,4068,7876
+Medial antebrachial cutaneous nerve.l,CURVE,7: Nervous system & Sense organs,876,1728
+Medial antebrachial cutaneous nerve.r,CURVE,7: Nervous system & Sense organs,876,1728
+Medial brachial cutaneous nerve.l,CURVE,7: Nervous system & Sense organs,876,1728
+Medial brachial cutaneous nerve.r,CURVE,7: Nervous system & Sense organs,876,1728
+Medial crural cutaneous branches of saphenous nerve.l,CURVE,7: Nervous system & Sense organs,300,576
+Medial crural cutaneous branches of saphenous nerve.r,CURVE,7: Nervous system & Sense organs,300,576
+Medial dorsal cutaneous nerve of foot.l,CURVE,7: Nervous system & Sense organs,2064,4032
+Medial dorsal cutaneous nerve of foot.r,CURVE,7: Nervous system & Sense organs,2064,4032
+Medial geniculate body.l,MESH,7: Nervous system & Sense organs,101,198
+Medial geniculate body.r,MESH,7: Nervous system & Sense organs,101,198
+Medial occipitotemporal gyrus (Parahippocampal*).l,MESH,7: Nervous system & Sense organs,477,858
+Medial occipitotemporal gyrus (Parahippocampal*).r,MESH,7: Nervous system & Sense organs,477,858
+Medial pectoral nerve.l,CURVE,7: Nervous system & Sense organs,1032,2016
+Medial pectoral nerve.r,CURVE,7: Nervous system & Sense organs,1032,2016
+Medial plantar nerve.l,CURVE,7: Nervous system & Sense organs,600,1152
+Medial plantar nerve.r,CURVE,7: Nervous system & Sense organs,600,1152
+Medial reticulospinal tract,MESH,7: Nervous system & Sense organs,4080,8080
+Medial sural cutaneous nerve.l,CURVE,7: Nervous system & Sense organs,156,288
+Medial sural cutaneous nerve.r,CURVE,7: Nervous system & Sense organs,156,288
+Medial vestibulospinal tract,MESH,7: Nervous system & Sense organs,1632,3232
+Median nerve.l,CURVE,7: Nervous system & Sense organs,2604,5184
+Median nerve.r,CURVE,7: Nervous system & Sense organs,2604,5184
+Medulla oblongata.l,MESH,7: Nervous system & Sense organs,3042,6080
+Medulla oblongata.r,MESH,7: Nervous system & Sense organs,3042,6080
+Meningeal branch of maxillary nerve.l,CURVE,7: Nervous system & Sense organs,3132,6108
+Meningeal branch of maxillary nerve.r,CURVE,7: Nervous system & Sense organs,3132,6108
+Mental nerve.l,CURVE,7: Nervous system & Sense organs,1404,2652
+Mental nerve.r,CURVE,7: Nervous system & Sense organs,1404,2652
+Midbrain.l,MESH,7: Nervous system & Sense organs,3049,6092
+Midbrain.r,MESH,7: Nervous system & Sense organs,3049,6092
+Middle frontal gyrus.l,MESH,7: Nervous system & Sense organs,1141,2277
+Middle frontal gyrus.r,MESH,7: Nervous system & Sense organs,1141,2277
+Middle temporal gyrus.l,MESH,7: Nervous system & Sense organs,657,1312
+Middle temporal gyrus.r,MESH,7: Nervous system & Sense organs,657,1312
+Middle trunk of brachial plexus.l,CURVE,7: Nervous system & Sense organs,156,288
+Middle trunk of brachial plexus.r,CURVE,7: Nervous system & Sense organs,156,288
+Motor nucleus of facial nerve.l,MESH,7: Nervous system & Sense organs,26,48
+Motor nucleus of facial nerve.r,MESH,7: Nervous system & Sense organs,26,48
+Motor root of trigeminal nerve.l,MESH,7: Nervous system & Sense organs,114,224
+Motor root of trigeminal nerve.r,MESH,7: Nervous system & Sense organs,114,224
+Muscular branches of axillary nerve.l,CURVE,7: Nervous system & Sense organs,588,1152
+Muscular branches of axillary nerve.r,CURVE,7: Nervous system & Sense organs,588,1152
+Muscular branches of deep fibular nerve.l,CURVE,7: Nervous system & Sense organs,444,864
+Muscular branches of deep fibular nerve.r,CURVE,7: Nervous system & Sense organs,444,864
+Muscular branches of median nerve.l,CURVE,7: Nervous system & Sense organs,624,1152
+Muscular branches of median nerve.r,CURVE,7: Nervous system & Sense organs,624,1152
+Muscular branches of radial nerve.l,CURVE,7: Nervous system & Sense organs,1356,2592
+Muscular branches of radial nerve.r,CURVE,7: Nervous system & Sense organs,1356,2592
+Muscular branches of ulnar nerve.l,CURVE,7: Nervous system & Sense organs,312,576
+Muscular branches of ulnar nerve.r,CURVE,7: Nervous system & Sense organs,312,576
+Musculocutaneous nerve.l,CURVE,7: Nervous system & Sense organs,732,1440
+Musculocutaneous nerve.r,CURVE,7: Nervous system & Sense organs,732,1440
+Nasolacrimal duct.l,MESH,7: Nervous system & Sense organs,224,444
+Nasolacrimal duct.r,MESH,7: Nervous system & Sense organs,224,444
+Nerve to mylohyoid muscle.l,CURVE,7: Nervous system & Sense organs,1800,3496
+Nerve to mylohyoid muscle.r,CURVE,7: Nervous system & Sense organs,1800,3496
+Nerve to piriformis muscle.l,CURVE,7: Nervous system & Sense organs,744,1440
+Nerve to piriformis muscle.r,CURVE,7: Nervous system & Sense organs,744,1440
+Nerve to quadratus femoris muscle.l,CURVE,7: Nervous system & Sense organs,2208,4320
+Nerve to quadratus femoris muscle.r,CURVE,7: Nervous system & Sense organs,2208,4320
+Nervous system & Sense organs.g,MESH,7: Nervous system & Sense organs,1619,1582
+Nodule of vermis,MESH,7: Nervous system & Sense organs,512,1012
+Nucleus ambiguus.l,MESH,7: Nervous system & Sense organs,26,48
+Nucleus ambiguus.r,MESH,7: Nervous system & Sense organs,26,48
+Nucleus of abducens nerve.l,MESH,7: Nervous system & Sense organs,26,48
+Nucleus of abducens nerve.r,MESH,7: Nervous system & Sense organs,26,48
+Nucleus of accessory nerve.l,MESH,7: Nervous system & Sense organs,58,112
+Nucleus of accessory nerve.r,MESH,7: Nervous system & Sense organs,58,112
+Nucleus of hypoglossal nerve.l,MESH,7: Nervous system & Sense organs,26,48
+Nucleus of hypoglossal nerve.r,MESH,7: Nervous system & Sense organs,26,48
+Nucleus of oculomotor nerve.l,MESH,7: Nervous system & Sense organs,26,48
+Nucleus of oculomotor nerve.r,MESH,7: Nervous system & Sense organs,26,48
+Nucleus of solitary tract.l,MESH,7: Nervous system & Sense organs,44,84
+Nucleus of solitary tract.r,MESH,7: Nervous system & Sense organs,44,84
+Nucleus of trochlear nerve.l,MESH,7: Nervous system & Sense organs,26,48
+Nucleus of trochlear nerve.r,MESH,7: Nervous system & Sense organs,26,48
+Nucleus proprius,MESH,7: Nervous system & Sense organs,1632,3232
+Obturator nerve.l,CURVE,7: Nervous system & Sense organs,1764,3456
+Obturator nerve.r,CURVE,7: Nervous system & Sense organs,1764,3456
+Occipital pole.l,MESH,7: Nervous system & Sense organs,479,954
+Occipital pole.r,MESH,7: Nervous system & Sense organs,479,954
+Occipitotemporal sulcus (Lateral part*).l,MESH,7: Nervous system & Sense organs,245,487
+Occipitotemporal sulcus (Lateral part*).r,MESH,7: Nervous system & Sense organs,245,487
+Oculomotor nerve (III).l,CURVE,7: Nervous system & Sense organs,4572,8780
+Oculomotor nerve (III).r,CURVE,7: Nervous system & Sense organs,4572,8780
+Olfactory nerve (I).l,CURVE,7: Nervous system & Sense organs,14076,26956
+Olfactory nerve (I).r,CURVE,7: Nervous system & Sense organs,14076,26956
+Olive.l,MESH,7: Nervous system & Sense organs,482,960
+Olive.r,MESH,7: Nervous system & Sense organs,482,960
+Ophthalmic nerve.l,CURVE,7: Nervous system & Sense organs,3492,6724
+Ophthalmic nerve.r,CURVE,7: Nervous system & Sense organs,3492,6724
+Optic chiasm.l,MESH,7: Nervous system & Sense organs,448,890
+Optic chiasm.r,MESH,7: Nervous system & Sense organs,448,890
+Optic nerve (II).l,CURVE,7: Nervous system & Sense organs,900,1748
+Optic nerve (II).r,CURVE,7: Nervous system & Sense organs,900,1748
+Optic tract.l,MESH,7: Nervous system & Sense organs,1168,2332
+Optic tract.r,MESH,7: Nervous system & Sense organs,1168,2332
+Orbital gyri (Frontomarginal gyrus and sulcus*).l,MESH,7: Nervous system & Sense organs,330,656
+Orbital gyri (Frontomarginal gyrus and sulcus*).r,MESH,7: Nervous system & Sense organs,330,656
+Orbital gyri.l,MESH,7: Nervous system & Sense organs,756,1512
+Orbital gyri.r,MESH,7: Nervous system & Sense organs,756,1512
+Orbital part of  inferior frontal gyrus.l,MESH,7: Nervous system & Sense organs,95,186
+Orbital part of  inferior frontal gyrus.r,MESH,7: Nervous system & Sense organs,95,186
+Orbital sulci (H-shaped orbital sulci*).l,MESH,7: Nervous system & Sense organs,383,762
+Orbital sulci (H-shaped orbital sulci*).r,MESH,7: Nervous system & Sense organs,383,762
+Orbital sulci (Lateral Orbital sulcus*).l,MESH,7: Nervous system & Sense organs,102,200
+Orbital sulci (Lateral Orbital sulcus*).r,MESH,7: Nervous system & Sense organs,102,200
+Palmar branch of median nerve.l,CURVE,7: Nervous system & Sense organs,588,1152
+Palmar branch of median nerve.r,CURVE,7: Nervous system & Sense organs,588,1152
+Palmar branch of ulnar nerve.l,CURVE,7: Nervous system & Sense organs,588,1152
+Palmar branch of ulnar nerve.r,CURVE,7: Nervous system & Sense organs,588,1152
+Paracentral gyrus and sulcus*.l,MESH,7: Nervous system & Sense organs,377,746
+Paracentral gyrus and sulcus*.r,MESH,7: Nervous system & Sense organs,377,746
+Peduncle of flocculus.l,MESH,7: Nervous system & Sense organs,1216,2368
+Peduncle of flocculus.r,MESH,7: Nervous system & Sense organs,1216,2368
+Postcentral gyrus.l,MESH,7: Nervous system & Sense organs,578,1153
+Postcentral gyrus.r,MESH,7: Nervous system & Sense organs,578,1153
+Posterior antebrachial cutaneous nerve.l,CURVE,7: Nervous system & Sense organs,1308,2592
+Posterior antebrachial cutaneous nerve.r,CURVE,7: Nervous system & Sense organs,1308,2592
+Posterior branch of medial antebrachial cutaneous nerve.l,CURVE,7: Nervous system & Sense organs,1164,2304
+Posterior branch of medial antebrachial cutaneous nerve.r,CURVE,7: Nervous system & Sense organs,1164,2304
+Posterior branch of obturator nerve.l,CURVE,7: Nervous system & Sense organs,588,1152
+Posterior branch of obturator nerve.r,CURVE,7: Nervous system & Sense organs,588,1152
+Posterior commissure,MESH,7: Nervous system & Sense organs,434,866
+Posterior cord of brachial plexus.l,CURVE,7: Nervous system & Sense organs,300,576
+Posterior cord of brachial plexus.r,CURVE,7: Nervous system & Sense organs,300,576
+Posterior division of inferior trunk of brachial plexus.l,CURVE,7: Nervous system & Sense organs,156,288
+Posterior division of inferior trunk of brachial plexus.r,CURVE,7: Nervous system & Sense organs,156,288
+Posterior division of mandibular nerve.l,CURVE,7: Nervous system & Sense organs,468,884
+Posterior division of mandibular nerve.r,CURVE,7: Nervous system & Sense organs,468,884
+Posterior division of middle trunk of brachial plexus.l,CURVE,7: Nervous system & Sense organs,156,288
+Posterior division of middle trunk of brachial plexus.r,CURVE,7: Nervous system & Sense organs,156,288
+Posterior division of superior trunk of brachial plexus.l,CURVE,7: Nervous system & Sense organs,156,288
+Posterior division of superior trunk of brachial plexus.r,CURVE,7: Nervous system & Sense organs,156,288
+Posterior fasciculus proprius,MESH,7: Nervous system & Sense organs,6528,12928
+Posterior femoral cutaneous nerve.r,CURVE,7: Nervous system & Sense organs,1332,2592
+Posterior horn of spinal cord,MESH,7: Nervous system & Sense organs,6528,12928
+Posterior interosseous nerve of forearm.l,CURVE,7: Nervous system & Sense organs,876,1728
+Posterior interosseous nerve of forearm.r,CURVE,7: Nervous system & Sense organs,876,1728
+Posterior root of posterior femoral cutaneous nerve.l,CURVE,7: Nervous system & Sense organs,2052,4032
+Posterior root of posterior femoral cutaneous nerve.r,CURVE,7: Nervous system & Sense organs,2052,4032
+Posterior root of spinal nerve.l,CURVE,7: Nervous system & Sense organs,3276,6048
+Posterior root of spinal nerve.r,CURVE,7: Nervous system & Sense organs,3276,6048
+Posterior spinocerebellar tract,MESH,7: Nervous system & Sense organs,5916,11716
+Posterolateral tract,MESH,7: Nervous system & Sense organs,4488,8888
+Precentral gyrus.l,MESH,7: Nervous system & Sense organs,767,1532
+Precentral gyrus.r,MESH,7: Nervous system & Sense organs,767,1532
+Precuneus.l,MESH,7: Nervous system & Sense organs,652,1300
+Precuneus.r,MESH,7: Nervous system & Sense organs,652,1300
+Proper palmar digital branches of median nerve.l,CURVE,7: Nervous system & Sense organs,5556,10944
+Proper palmar digital branches of median nerve.r,CURVE,7: Nervous system & Sense organs,5556,10944
+Proper palmar digital branches of ulnar nerve.l,CURVE,7: Nervous system & Sense organs,2916,5760
+Proper palmar digital branches of ulnar nerve.r,CURVE,7: Nervous system & Sense organs,2916,5760
+Proper plantar digital branches of lateral plantar nerve.l,CURVE,7: Nervous system & Sense organs,3804,7488
+Proper plantar digital branches of lateral plantar nerve.r,CURVE,7: Nervous system & Sense organs,3804,7488
+Proper plantar digital branches of medial plantar nerve.l,CURVE,7: Nervous system & Sense organs,3228,6336
+Proper plantar digital branches of medial plantar nerve.r,CURVE,7: Nervous system & Sense organs,3228,6336
+Radial nerve.l,CURVE,7: Nervous system & Sense organs,1164,2304
+Radial nerve.r,CURVE,7: Nervous system & Sense organs,1164,2304
+Posterior femoral cutaneous nerve.l,CURVE,7: Nervous system & Sense organs,1332,2592
+Common plantar digital branches of medial plantar nerve,CURVE,7: Nervous system & Sense organs,900,1728
+Red nucleus.l,MESH,7: Nervous system & Sense organs,82,160
+Red nucleus.r,MESH,7: Nervous system & Sense organs,82,160
+Saphenous nerve.l,CURVE,7: Nervous system & Sense organs,3360,6624
+Saphenous nerve.r,CURVE,7: Nervous system & Sense organs,3360,6624
+Sciatic nerve.l,CURVE,7: Nervous system & Sense organs,2484,4896
+Sciatic nerve.r,CURVE,7: Nervous system & Sense organs,2484,4896
+Septal nuclei,MESH,7: Nervous system & Sense organs,278,548
+Inferior frontal sulcus.l,MESH,7: Nervous system & Sense organs,413,742
+Inferior frontal sulcus.r,MESH,7: Nervous system & Sense organs,413,742
+Inferior temporal sulcus.l,MESH,7: Nervous system & Sense organs,125,246
+Inferior temporal sulcus.r,MESH,7: Nervous system & Sense organs,125,246
+Intraparietal sulcus.l,MESH,7: Nervous system & Sense organs,428,852
+Intraparietal sulcus.r,MESH,7: Nervous system & Sense organs,428,852
+Olfactory sulcus.l,MESH,7: Nervous system & Sense organs,275,548
+Olfactory sulcus.r,MESH,7: Nervous system & Sense organs,275,548
+Opercular part of inferior frontal gyrus.l,MESH,7: Nervous system & Sense organs,372,740
+Opercular part of inferior frontal gyrus.r,MESH,7: Nervous system & Sense organs,372,740
+Paracentral sulcus.l,MESH,7: Nervous system & Sense organs,338,668
+Paracentral sulcus.r,MESH,7: Nervous system & Sense organs,338,668
+Parieto-occipital sulcus.l,MESH,7: Nervous system & Sense organs,824,1636
+Parieto-occipital sulcus.r,MESH,7: Nervous system & Sense organs,824,1636
+Pons.l,MESH,7: Nervous system & Sense organs,5088,10171
+Pons.r,MESH,7: Nervous system & Sense organs,5088,10171
+Postcentral sulcus.l,MESH,7: Nervous system & Sense organs,595,1189
+Postcentral sulcus.r,MESH,7: Nervous system & Sense organs,595,1189
+Posterior cochlear nucleus.l,MESH,7: Nervous system & Sense organs,114,224
+Posterior cochlear nucleus.r,MESH,7: Nervous system & Sense organs,114,224
+Posterior nucleus of vagus nerve.l,MESH,7: Nervous system & Sense organs,26,48
+Posterior nucleus of vagus nerve.r,MESH,7: Nervous system & Sense organs,26,48
+Posterior quadrangular lobule.l,MESH,7: Nervous system & Sense organs,1816,3618
+Posterior quadrangular lobule.r,MESH,7: Nervous system & Sense organs,1816,3618
+Posterior segment of eyeball.l,MESH,7: Nervous system & Sense organs,802,1600
+Posterior segment of eyeball.r,MESH,7: Nervous system & Sense organs,802,1600
+Precentral sulcus (inferior part)*.l,MESH,7: Nervous system & Sense organs,391,780
+Precentral sulcus (inferior part)*.r,MESH,7: Nervous system & Sense organs,391,780
+Precentral sulcus (Superior part)*.l,MESH,7: Nervous system & Sense organs,286,568
+Precentral sulcus (Superior part)*.r,MESH,7: Nervous system & Sense organs,286,568
+Pudendal nerve.l,CURVE,7: Nervous system & Sense organs,1908,3744
+Pudendal nerve.r,CURVE,7: Nervous system & Sense organs,1908,3744
+Putamen.l,MESH,7: Nervous system & Sense organs,577,1150
+Putamen.r,MESH,7: Nervous system & Sense organs,577,1150
+Pyramid of medulla oblongata.l,MESH,7: Nervous system & Sense organs,482,960
+Pyramid of medulla oblongata.r,MESH,7: Nervous system & Sense organs,482,960
+Pyramis of vermis,MESH,7: Nervous system & Sense organs,593,1182
+Retina.l,MESH,7: Nervous system & Sense organs,774,1544
+Retina.r,MESH,7: Nervous system & Sense organs,774,1544
+Roots of brachial plexus.l,CURVE,7: Nervous system & Sense organs,2388,4608
+Roots of brachial plexus.r,CURVE,7: Nervous system & Sense organs,2388,4608
+Rubrospinal tract,MESH,7: Nervous system & Sense organs,3264,6464
+Sclera.l,MESH,7: Nervous system & Sense organs,577,1120
+Sclera.r,MESH,7: Nervous system & Sense organs,577,1120
+Sensory root of trigeminal nerve.l,MESH,7: Nervous system & Sense organs,338,672
+Sensory root of trigeminal nerve.r,MESH,7: Nervous system & Sense organs,338,672
+Septum pellucidum,MESH,7: Nervous system & Sense organs,1187,2388
+Spinal dura,MESH,7: Nervous system & Sense organs,18104,35002
+Spinal ganglion.l,MESH,7: Nervous system & Sense organs,882,1680
+Spinal ganglion.r,MESH,7: Nervous system & Sense organs,882,1680
+Spinal reticular process,MESH,7: Nervous system & Sense organs,3468,6868
+Spinotectal tract,MESH,7: Nervous system & Sense organs,1632,3232
+Straight gyrus (Gyrus rectus).l,MESH,7: Nervous system & Sense organs,256,508
+Straight gyrus (Gyrus rectus).r,MESH,7: Nervous system & Sense organs,256,508
+Stria medullaris thalami.l,MESH,7: Nervous system & Sense organs,423,842
+Stria medullaris thalami.r,MESH,7: Nervous system & Sense organs,423,842
+Stria terminalis.l,MESH,7: Nervous system & Sense organs,381,746
+Stria terminalis.r,MESH,7: Nervous system & Sense organs,381,746
+Subclavian nerve.l,CURVE,7: Nervous system & Sense organs,444,864
+Subclavian nerve.r,CURVE,7: Nervous system & Sense organs,444,864
+Subparietal sulcus.l,MESH,7: Nervous system & Sense organs,283,561
+Subparietal sulcus.r,MESH,7: Nervous system & Sense organs,283,561
+Sulcus interm_prim-Jensen.l,MESH,7: Nervous system & Sense organs,182,360
+Sulcus interm_prim-Jensen.r,MESH,7: Nervous system & Sense organs,182,360
+Superficial branch of radial nerve.l,CURVE,7: Nervous system & Sense organs,2208,4320
+Superficial branch of radial nerve.r,CURVE,7: Nervous system & Sense organs,2208,4320
+Superficial branch of ulnar nerve.l,CURVE,7: Nervous system & Sense organs,444,864
+Superficial branch of ulnar nerve.r,CURVE,7: Nervous system & Sense organs,444,864
+Superficial fibular nerve.l,CURVE,7: Nervous system & Sense organs,1596,3168
+Superficial fibular nerve.r,CURVE,7: Nervous system & Sense organs,1596,3168
+Base of peduncle.l,MESH,7: Nervous system & Sense organs,2531,5046
+Base of peduncle.r,MESH,7: Nervous system & Sense organs,2531,5046
+Superior cerebellar peduncle.l,MESH,7: Nervous system & Sense organs,4344,8474
+Superior cerebellar peduncle.r,MESH,7: Nervous system & Sense organs,4344,8474
+Superior colliculus.l,MESH,7: Nervous system & Sense organs,233,458
+Superior colliculus.r,MESH,7: Nervous system & Sense organs,233,458
+Superior frontal gyrus.l,MESH,7: Nervous system & Sense organs,1872,3735
+Superior frontal gyrus.r,MESH,7: Nervous system & Sense organs,1872,3735
+Superior frontal sulcus.l,MESH,7: Nervous system & Sense organs,647,1290
+Superior frontal sulcus.r,MESH,7: Nervous system & Sense organs,647,1290
+Superior gluteal nerve.l,CURVE,7: Nervous system & Sense organs,1764,3456
+Superior gluteal nerve.r,CURVE,7: Nervous system & Sense organs,1764,3456
+Superior lateral brachial cutaneous nerve.l,CURVE,7: Nervous system & Sense organs,1020,2016
+Superior lateral brachial cutaneous nerve.r,CURVE,7: Nervous system & Sense organs,1020,2016
+Superior occipital gyri.l,MESH,7: Nervous system & Sense organs,337,670
+Superior occipital gyri.r,MESH,7: Nervous system & Sense organs,337,670
+Superior parietal lobule.l,MESH,7: Nervous system & Sense organs,603,1199
+Superior parietal lobule.r,MESH,7: Nervous system & Sense organs,603,1199
+Superior salivatory nucleus.l,MESH,7: Nervous system & Sense organs,26,48
+Superior salivatory nucleus.r,MESH,7: Nervous system & Sense organs,26,48
+Superior semilunar lobule.l,MESH,7: Nervous system & Sense organs,4368,8688
+Superior semilunar lobule.r,MESH,7: Nervous system & Sense organs,4368,8688
+Superior subscapular nerve.l,CURVE,7: Nervous system & Sense organs,588,1152
+Superior subscapular nerve.r,CURVE,7: Nervous system & Sense organs,588,1152
+Superior temporal gyrus (Lateral part).l,MESH,7: Nervous system & Sense organs,538,1072
+Superior temporal gyrus (Lateral part).r,MESH,7: Nervous system & Sense organs,538,1072
+Superior temporal sulcus.l,MESH,7: Nervous system & Sense organs,1189,2374
+Superior temporal sulcus.r,MESH,7: Nervous system & Sense organs,1189,2374
+Superior trunk of brachial plexus.l,CURVE,7: Nervous system & Sense organs,156,288
+Superior trunk of brachial plexus.r,CURVE,7: Nervous system & Sense organs,156,288
+Supramarginal gyrus.l,MESH,7: Nervous system & Sense organs,756,1510
+Supramarginal gyrus.r,MESH,7: Nervous system & Sense organs,756,1510
+Suprascapular nerve.l,CURVE,7: Nervous system & Sense organs,2508,4896
+Suprascapular nerve.r,CURVE,7: Nervous system & Sense organs,2508,4896
+Sural communicating branch of common fibular nerve.l,CURVE,7: Nervous system & Sense organs,588,1152
+Sural communicating branch of common fibular nerve.r,CURVE,7: Nervous system & Sense organs,588,1152
+Sural nerve.l,CURVE,7: Nervous system & Sense organs,2052,4032
+Sural nerve.r,CURVE,7: Nervous system & Sense organs,2052,4032
+Suspensory ligament of eyeball.l,MESH,7: Nervous system & Sense organs,2755,5502
+Suspensory ligament of eyeball.r,MESH,7: Nervous system & Sense organs,2755,5502
+Sympathetic nerves.l,CURVE,7: Nervous system & Sense organs,12468,24480
+Sympathetic nerves.r,CURVE,7: Nervous system & Sense organs,12468,24480
+Sympathetic trunk.l,CURVE,7: Nervous system & Sense organs,12684,25344
+Sympathetic trunk.r,CURVE,7: Nervous system & Sense organs,12684,25344
+Tectospinal tract,MESH,7: Nervous system & Sense organs,1632,3232
+Temporal plane.l,MESH,7: Nervous system & Sense organs,280,556
+Temporal plane.r,MESH,7: Nervous system & Sense organs,280,556
+Temporal pole.l,MESH,7: Nervous system & Sense organs,274,523
+Temporal pole.r,MESH,7: Nervous system & Sense organs,274,523
+Tentorium cerebelli.l,MESH,7: Nervous system & Sense organs,2242,4480
+Tentorium cerebelli.r,MESH,7: Nervous system & Sense organs,2242,4480
+Thalamus.l,MESH,7: Nervous system & Sense organs,381,758
+Thalamus.r,MESH,7: Nervous system & Sense organs,381,758
+Third ventricle,MESH,7: Nervous system & Sense organs,2158,4315
+Thoracodorsal nerve.r,CURVE,7: Nervous system & Sense organs,2340,4608
+Thoracodorsal nerve.l,CURVE,7: Nervous system & Sense organs,2340,4608
+Tibial nerve.l,CURVE,7: Nervous system & Sense organs,1308,2592
+Tibial nerve.r,CURVE,7: Nervous system & Sense organs,1308,2592
+Tonsil of cerebellum.l,MESH,7: Nervous system & Sense organs,1821,3638
+Tonsil of cerebellum.r,MESH,7: Nervous system & Sense organs,1821,3638
+Transverse frontopolar gyrus and sulcus*.l,MESH,7: Nervous system & Sense organs,123,242
+Transverse frontopolar gyrus and sulcus*.r,MESH,7: Nervous system & Sense organs,123,242
+Transverse occipital sulcus.l,MESH,7: Nervous system & Sense organs,345,686
+Transverse occipital sulcus.r,MESH,7: Nervous system & Sense organs,345,686
+Transverse temporal gyri.l,MESH,7: Nervous system & Sense organs,119,234
+Transverse temporal gyri.r,MESH,7: Nervous system & Sense organs,119,234
+Triangular part of inferior frontal gyrus.l,MESH,7: Nervous system & Sense organs,254,504
+Triangular part of inferior frontal gyrus.r,MESH,7: Nervous system & Sense organs,254,504
+Trigeminal nerve (V).l,CURVE,7: Nervous system & Sense organs,1224,2344
+Trigeminal nerve (V).r,CURVE,7: Nervous system & Sense organs,1224,2344
+Trochlear nerve (IV).l,CURVE,7: Nervous system & Sense organs,1908,3764
+Trochlear nerve (IV).r,CURVE,7: Nervous system & Sense organs,1908,3764
+Tuber of vermis,MESH,7: Nervous system & Sense organs,591,1178
+Ulnar nerve.l,CURVE,7: Nervous system & Sense organs,1596,3168
+Ulnar nerve.r,CURVE,7: Nervous system & Sense organs,1596,3168
+Uvula of vermis,MESH,7: Nervous system & Sense organs,1118,2176
+Vagus nerve (X).l,CURVE,7: Nervous system & Sense organs,7452,14540
+Vagus nerve (X).r,CURVE,7: Nervous system & Sense organs,23508,45924
+Vestibular nerve.l,CURVE,7: Nervous system & Sense organs,2448,4688
+Vestibular nerve.r,CURVE,7: Nervous system & Sense organs,2448,4688
+Vestibular nuclei.l,MESH,7: Nervous system & Sense organs,190,376
+Vestibular nuclei.r,MESH,7: Nervous system & Sense organs,190,376
+Vestibulocochlear nerve (VIII).l,CURVE,7: Nervous system & Sense organs,936,1768
+Vestibulocochlear nerve (VIII).r,CURVE,7: Nervous system & Sense organs,936,1768
+Vitreous body.l,MESH,7: Nervous system & Sense organs,2775,5436
+Vitreous body.r,MESH,7: Nervous system & Sense organs,2775,5436
+White matter of spinal cord,MESH,7: Nervous system & Sense organs,7854,15554
+White matter of telencephalon.l,MESH,7: Nervous system & Sense organs,67646,135288
+White matter of telencephalon.r,MESH,7: Nervous system & Sense organs,67646,135288
+Wing of central lobule.l,MESH,7: Nervous system & Sense organs,1585,3144
+Wing of central lobule.r,MESH,7: Nervous system & Sense organs,1585,3144
+Zonular fibres.l,MESH,7: Nervous system & Sense organs,12,20
+Zonular fibres.r,MESH,7: Nervous system & Sense organs,1164,1940

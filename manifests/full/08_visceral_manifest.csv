@@ -1,0 +1,118 @@
+object,source_type,collection_path,vertices,triangles
+(Accessory parotid gland).l,MESH,8: Visceral systems,28,52
+(Accessory parotid gland).r,MESH,8: Visceral systems,28,52
+(Anteromedial basal segmental bronchus of left lung),CURVE,8: Visceral systems,1476,2880
+Accessory pancreatic duct,CURVE,8: Visceral systems,5688,11376
+Adenohypophysis,MESH,8: Visceral systems,369,680
+Anterior basal segmental bronchus of left lung (BVIII),CURVE,8: Visceral systems,744,1440
+Anterior basal segmental bronchus of right lung (BVIII),CURVE,8: Visceral systems,1476,2880
+Anterior lateral segment of liver (VI),MESH,8: Visceral systems,419,834
+Anterior medial segment of liver (V),MESH,8: Visceral systems,443,881
+Anterior segmental bronchus of left lung (BIII),CURVE,8: Visceral systems,1788,3456
+Anterior segmental bronchus of right lung (BIII),CURVE,8: Visceral systems,2532,4896
+Apical segmental bronchus of right lung (BI),CURVE,8: Visceral systems,3408,6624
+Apicoposterior segmental bronchus of left lung (BI+BII),CURVE,8: Visceral systems,3852,7488
+Ascending colon,MESH,8: Visceral systems,552,1100
+Bile duct,CURVE,8: Visceral systems,1020,2016
+Corpus cavernosum of penis,MESH,8: Visceral systems,646,1288
+Corpus spongiosum of penis,MESH,8: Visceral systems,282,560
+Descending colon,MESH,8: Visceral systems,788,1576
+Ductus deferens.l,CURVE,8: Visceral systems,2460,4896
+Ductus deferens.r,CURVE,8: Visceral systems,2460,4896
+Duodenum,MESH,8: Visceral systems,887,1750
+Ejaculatory duct.l,CURVE,8: Visceral systems,444,864
+Ejaculatory duct.r,CURVE,8: Visceral systems,444,864
+Epididymis.l,MESH,8: Visceral systems,38,72
+Epididymis.r,MESH,8: Visceral systems,38,72
+Epiglottis,MESH,8: Visceral systems,1650,3376
+Free taenia,MESH,8: Visceral systems,338,672
+Gallbladder,MESH,8: Visceral systems,363,722
+Gingiva,MESH,8: Visceral systems,2090,4168
+Glans penis,MESH,8: Visceral systems,694,1391
+Greater omentum,MESH,8: Visceral systems,2518,5032
+Inferior lingular segmental bronchus of left lung (BV),CURVE,8: Visceral systems,1044,2016
+Inferior lobe of left lung,MESH,8: Visceral systems,1142,2275
+Inferior lobe of right lung,MESH,8: Visceral systems,1040,2074
+Inferior parathyroid gland.l,MESH,8: Visceral systems,18,32
+Inferior parathyroid gland.r,MESH,8: Visceral systems,18,32
+Intermediate bronchus.r,CURVE,8: Visceral systems,156,288
+Jejunum,CURVE,8: Visceral systems,13836,27648
+Laryngopharynx,MESH,8: Visceral systems,330,660
+Lateral basal segmental bronchus of left lung (BIX),CURVE,8: Visceral systems,1176,2304
+Lateral basal segmental bronchus of right lung (BIX),CURVE,8: Visceral systems,2352,4608
+Lateral segmental bronchus of right lung (BIV),CURVE,8: Visceral systems,1632,3168
+Left anterior lateral segment of liver (III),MESH,8: Visceral systems,430,856
+Left inferior lobar bronchus,CURVE,8: Visceral systems,444,864
+Left main bronchus,CURVE,8: Visceral systems,300,576
+Left medial segment of liver (IV),MESH,8: Visceral systems,600,1178
+Left posterior lateral segment of liver (II),MESH,8: Visceral systems,412,820
+Left superior lobar bronchus,CURVE,8: Visceral systems,600,1152
+Lesser omentum,MESH,8: Visceral systems,178,352
+Liver,MESH,8: Visceral systems,1550,2989
+Medial basal segmental bronchus of left lung (BVII),CURVE,8: Visceral systems,2940,5760
+Medial basal segmental bronchus of right lung (BVII),CURVE,8: Visceral systems,888,1728
+Medial segmental bronchus of right lung (BV),CURVE,8: Visceral systems,1632,3168
+Meso-appendix,MESH,8: Visceral systems,236,468
+Mesocolic taenia,MESH,8: Visceral systems,342,680
+Mesocolon,MESH,8: Visceral systems,542,1080
+Middle lobar bronchus.r,CURVE,8: Visceral systems,156,288
+Middle lobe of right lung,MESH,8: Visceral systems,914,1818
+Mucosa of nasal cavity,MESH,8: Visceral systems,1214,2472
+Mucosa of stomach,MESH,8: Visceral systems,897,1726
+Nasopharynx,MESH,8: Visceral systems,266,528
+Neurohypophysis,MESH,8: Visceral systems,325,592
+Oropharynx,MESH,8: Visceral systems,350,696
+Pharynx.j,MESH,8: Visceral systems,4,2
+Pleura,MESH,8: Visceral systems,13768,27504
+Posterior basal segmental bronchus of left lung (BX),CURVE,8: Visceral systems,588,1152
+Oesophagus,CURVE,8: Visceral systems,8160,16320
+Omental taenia,MESH,8: Visceral systems,314,624
+Pancreas,MESH,8: Visceral systems,2613,5222
+Pancreatic duct,CURVE,8: Visceral systems,27912,55824
+Parotid duct.l,CURVE,8: Visceral systems,588,1152
+Parotid duct.r,CURVE,8: Visceral systems,588,1152
+Parotid gland.l,MESH,8: Visceral systems,206,408
+Parotid gland.r,MESH,8: Visceral systems,206,408
+Pineal gland,MESH,8: Visceral systems,319,634
+Posterior basal segmental bronchus of right lung (BX),CURVE,8: Visceral systems,2208,4320
+Posterior lateral segment of liver (VII),MESH,8: Visceral systems,299,594
+Posterior medial segment of liver (VIII),MESH,8: Visceral systems,445,886
+Posterior segment of liver (I),MESH,8: Visceral systems,326,648
+Posterior segmental bronchus of right lung (BII),CURVE,8: Visceral systems,2520,4896
+Prostate,MESH,8: Visceral systems,236,468
+Right inferior lobar bronchus,CURVE,8: Visceral systems,588,1152
+Right main bronchus,CURVE,8: Visceral systems,156,288
+Right superior lobar bronchus,CURVE,8: Visceral systems,156,288
+Seminal gland.l,MESH,8: Visceral systems,182,360
+Seminal gland.r,MESH,8: Visceral systems,182,360
+Sigmoid colon,MESH,8: Visceral systems,1716,3432
+Soft palate,MESH,8: Visceral systems,498,992
+Stomach,MESH,8: Visceral systems,827,1586
+Sublingual gland.l,MESH,8: Visceral systems,164,324
+Sublingual gland.r,MESH,8: Visceral systems,164,324
+Submandibular duct.l,CURVE,8: Visceral systems,588,1152
+Submandibular duct.r,CURVE,8: Visceral systems,588,1152
+Submandibular gland.l,MESH,8: Visceral systems,198,392
+Submandibular gland.r,MESH,8: Visceral systems,198,392
+Superior lingular segmental bronchus of left lung (BIV),CURVE,8: Visceral systems,1044,2016
+Superior lobe of left lung,MESH,8: Visceral systems,1141,2265
+Superior lobe of right lung,MESH,8: Visceral systems,968,1910
+Superior parathyroid gland.l,MESH,8: Visceral systems,18,32
+Superior parathyroid gland.r,MESH,8: Visceral systems,18,32
+Superior segmental bronchus of left lung (BVI),CURVE,8: Visceral systems,2232,4320
+Superior segmental bronchus of right lung (BVI),CURVE,8: Visceral systems,4572,8928
+Suprarenal gland.l,MESH,8: Visceral systems,2000,3996
+Suprarenal gland.r,MESH,8: Visceral systems,1149,2294
+Testis.l,MESH,8: Visceral systems,115,226
+Testis.r,MESH,8: Visceral systems,115,226
+Thyroid gland,MESH,8: Visceral systems,316,628
+Tongue,MESH,8: Visceral systems,343,682
+Trachea,MESH,8: Visceral systems,2400,4756
+Transverse colon,MESH,8: Visceral systems,534,1068
+Ureter.l,CURVE,8: Visceral systems,1452,2880
+Ureter.r,CURVE,8: Visceral systems,1596,3168
+Urethra,CURVE,8: Visceral systems,1452,2880
+Urinary bladder,MESH,8: Visceral systems,255,506
+Uvula of palate,MESH,8: Visceral systems,753,1502
+Vermiform appendix,MESH,8: Visceral systems,223,442
+Visceral systems.g,MESH,8: Visceral systems,765,738

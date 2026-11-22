@@ -1,0 +1,165 @@
+object,source_type,collection_path,vertices,triangles
+(Anterior tibial node).l,MESH,6: Lymphoid organs,86,168
+(Anterior tibial node).r,MESH,6: Lymphoid organs,86,168
+(Fibular node).l,MESH,6: Lymphoid organs,86,168
+(Fibular node).r,MESH,6: Lymphoid organs,86,168
+(Intermediate deep inguinal node).l,MESH,6: Lymphoid organs,86,168
+(Intermediate deep inguinal node).r,MESH,6: Lymphoid organs,86,168
+(Intermediate lacunar node).l,MESH,6: Lymphoid organs,86,168
+(Intermediate lacunar node).r,MESH,6: Lymphoid organs,86,168
+(Lateral lacunar node).l,MESH,6: Lymphoid organs,86,168
+(Lateral lacunar node).r,MESH,6: Lymphoid organs,86,168
+(Medial lacunar node).l,MESH,6: Lymphoid organs,86,168
+(Medial lacunar node).r,MESH,6: Lymphoid organs,86,168
+(Posterior tibial node).l,MESH,6: Lymphoid organs,86,168
+(Posterior tibial node).r,MESH,6: Lymphoid organs,86,168
+(Proximal deep inguinal node).l,MESH,6: Lymphoid organs,86,168
+(Proximal deep inguinal node).r,MESH,6: Lymphoid organs,86,168
+(Retropyloric nodes),MESH,6: Lymphoid organs,86,168
+(Subpyloric nodes),MESH,6: Lymphoid organs,121,234
+(Suprapyloric node),MESH,6: Lymphoid organs,86,168
+Anterior axillary nodes.l,MESH,6: Lymphoid organs,364,704
+Anterior axillary nodes.r,MESH,6: Lymphoid organs,364,704
+Anterior inferior jugular nodes.l,MESH,6: Lymphoid organs,364,704
+Anterior inferior jugular nodes.r,MESH,6: Lymphoid organs,364,704
+Apical axillary nodes.l,MESH,6: Lymphoid organs,121,234
+Apical axillary nodes.r,MESH,6: Lymphoid organs,121,234
+Appendicular nodes,MESH,6: Lymphoid organs,182,352
+Brachial nodes.l,MESH,6: Lymphoid organs,304,588
+Brachial nodes.r,MESH,6: Lymphoid organs,304,588
+Brachiocephalic nodes,MESH,6: Lymphoid organs,182,352
+Bucinator node.l,MESH,6: Lymphoid organs,182,352
+Bucinator node.r,MESH,6: Lymphoid organs,182,352
+Central axillary nodes.l,MESH,6: Lymphoid organs,121,234
+Central axillary nodes.r,MESH,6: Lymphoid organs,121,234
+Central superior mesenteric nodes,MESH,6: Lymphoid organs,182,352
+Coeliac nodes,MESH,6: Lymphoid organs,243,470
+Cubital nodes.l,MESH,6: Lymphoid organs,364,704
+Cubital nodes.r,MESH,6: Lymphoid organs,364,704
+Cystic node,MESH,6: Lymphoid organs,86,168
+Deep popliteal nodes.l,MESH,6: Lymphoid organs,121,234
+Deep popliteal nodes.r,MESH,6: Lymphoid organs,121,234
+Ileocolic nodes,MESH,6: Lymphoid organs,121,234
+Inferior deep lateral cervical nodes.l,MESH,6: Lymphoid organs,243,470
+Inferior deep lateral cervical nodes.r,MESH,6: Lymphoid organs,243,470
+Inferior diaphragmatic nodes,MESH,6: Lymphoid organs,364,704
+Inferior epigastric nodes.l,MESH,6: Lymphoid organs,121,234
+Inferior epigastric nodes.r,MESH,6: Lymphoid organs,121,234
+Inferior gluteal nodes.l,MESH,6: Lymphoid organs,243,470
+Inferior gluteal nodes.r,MESH,6: Lymphoid organs,243,470
+Inferior pancreatic nodes,MESH,6: Lymphoid organs,304,588
+Inferior superficial inguinal nodes.l,MESH,6: Lymphoid organs,243,470
+Inferior superficial inguinal nodes.r,MESH,6: Lymphoid organs,243,470
+Inferior tracheobronchial nodes,MESH,6: Lymphoid organs,608,1176
+Infra-auricular nodes.l,MESH,6: Lymphoid organs,121,234
+Infra-auricular nodes.r,MESH,6: Lymphoid organs,121,234
+Infraclavicular nodes.l,MESH,6: Lymphoid organs,304,588
+Infraclavicular nodes.r,MESH,6: Lymphoid organs,304,588
+Intercostal nodes.l,MESH,6: Lymphoid organs,729,1410
+Intercostal nodes.r,MESH,6: Lymphoid organs,729,1410
+Intermediate common iliac nodes,MESH,6: Lymphoid organs,243,470
+Intermediate external iliac nodes.l,MESH,6: Lymphoid organs,425,822
+Intermediate external iliac nodes.r,MESH,6: Lymphoid organs,425,822
+Intermediate lumbar nodes,MESH,6: Lymphoid organs,304,588
+Interpectoral nodes.l,MESH,6: Lymphoid organs,304,588
+Interpectoral nodes.r,MESH,6: Lymphoid organs,304,588
+Intraglandular parotid nodes.l,MESH,6: Lymphoid organs,182,352
+Intraglandular parotid nodes.r,MESH,6: Lymphoid organs,182,352
+Intrapulmonary nodes,MESH,6: Lymphoid organs,1398,2704
+Jugulodigastric node.l,MESH,6: Lymphoid organs,86,168
+Jugulodigastric node.r,MESH,6: Lymphoid organs,86,168
+Juxta-intestinal mesenteric nodes,MESH,6: Lymphoid organs,912,1764
+Juxta-oesophageal nodes,MESH,6: Lymphoid organs,608,1176
+Lateral aortic nodes,MESH,6: Lymphoid organs,243,470
+Lateral axillary nodes.l,MESH,6: Lymphoid organs,121,234
+Lateral axillary nodes.r,MESH,6: Lymphoid organs,121,234
+Lateral caval nodes,MESH,6: Lymphoid organs,304,588
+Lateral common iliac nodes,MESH,6: Lymphoid organs,486,940
+Lateral pericardial nodes,MESH,6: Lymphoid organs,243,470
+Lateral sacral nodes.l,MESH,6: Lymphoid organs,304,588
+Lateral sacral nodes.r,MESH,6: Lymphoid organs,304,588
+Lateral superior jugular node.l,MESH,6: Lymphoid organs,304,588
+Lateral superior jugular node.r,MESH,6: Lymphoid organs,304,588
+Lateral vesical nodes.l,MESH,6: Lymphoid organs,364,704
+Lateral vesical nodes.r,MESH,6: Lymphoid organs,364,704
+Left colic nodes,MESH,6: Lymphoid organs,182,352
+Left lobe of thymus,MESH,6: Lymphoid organs,3217,6430
+Lymphoid organs.g,MESH,6: Lymphoid organs,486,469
+Mandibular node.l,MESH,6: Lymphoid organs,182,352
+Mandibular node.r,MESH,6: Lymphoid organs,182,352
+Mastoid nodes.l,MESH,6: Lymphoid organs,304,588
+Mastoid nodes.r,MESH,6: Lymphoid organs,304,588
+Medial common iliac nodes,MESH,6: Lymphoid organs,364,704
+Medial external iliac nodes.l,MESH,6: Lymphoid organs,486,940
+Medial external iliac nodes.r,MESH,6: Lymphoid organs,486,940
+Median sacral nodes,MESH,6: Lymphoid organs,243,470
+Middle colic nodes,MESH,6: Lymphoid organs,182,352
+Nasolabial node.l,MESH,6: Lymphoid organs,86,168
+Nasolabial node.r,MESH,6: Lymphoid organs,86,168
+Node of arch of azygos vein,MESH,6: Lymphoid organs,86,168
+Node of ligamentum arteriosum,MESH,6: Lymphoid organs,86,168
+Obturator nodes.l,MESH,6: Lymphoid organs,243,470
+Obturator nodes.r,MESH,6: Lymphoid organs,243,470
+Occipital nodes.l,MESH,6: Lymphoid organs,121,234
+Occipital nodes.r,MESH,6: Lymphoid organs,121,234
+Palatine tonsil.l,MESH,6: Lymphoid organs,86,168
+Palatine tonsil.r,MESH,6: Lymphoid organs,86,168
+Paracolic superior mesenteric nodes,MESH,6: Lymphoid organs,1033,1998
+Pararectal nodes,MESH,6: Lymphoid organs,364,704
+Parasternal nodes.l,MESH,6: Lymphoid organs,486,940
+Parasternal nodes.r,MESH,6: Lymphoid organs,486,940
+Paratracheal cervical nodes,MESH,6: Lymphoid organs,364,704
+Paratracheal thoracic nodes,MESH,6: Lymphoid organs,608,1176
+Posterior axillary nodes.l,MESH,6: Lymphoid organs,364,704
+Posterior axillary nodes.r,MESH,6: Lymphoid organs,364,704
+Postvesical nodes,MESH,6: Lymphoid organs,364,704
+Pre-aortic nodes,MESH,6: Lymphoid organs,304,588
+Pre-auricular nodes.l,MESH,6: Lymphoid organs,182,352
+Pre-auricular nodes.r,MESH,6: Lymphoid organs,182,352
+Precaecal nodes,MESH,6: Lymphoid organs,121,234
+Precaval nodes,MESH,6: Lymphoid organs,304,588
+Prepericardial nodes,MESH,6: Lymphoid organs,243,470
+Pretracheal nodes.l,MESH,6: Lymphoid organs,182,352
+Pretracheal nodes.r,MESH,6: Lymphoid organs,182,352
+Prevertebral nodes,MESH,6: Lymphoid organs,608,1176
+Prevesical nodes,MESH,6: Lymphoid organs,182,352
+Retro-aortic nodes,MESH,6: Lymphoid organs,304,588
+Retrocaecal nodes,MESH,6: Lymphoid organs,182,352
+Retrocaval nodes,MESH,6: Lymphoid organs,304,588
+Retropharyngeal nodes.l,MESH,6: Lymphoid organs,121,234
+Retropharyngeal nodes.r,MESH,6: Lymphoid organs,121,234
+Right colic nodes,MESH,6: Lymphoid organs,182,352
+Right gastric nodes,MESH,6: Lymphoid organs,304,588
+Right gastro-omental nodes,MESH,6: Lymphoid organs,425,822
+Right lobe of thymus,MESH,6: Lymphoid organs,2260,4516
+Sigmoid nodes,MESH,6: Lymphoid organs,364,704
+Spleen,MESH,6: Lymphoid organs,467,930
+Splenic nodes,MESH,6: Lymphoid organs,182,352
+Subaortic nodes,MESH,6: Lymphoid organs,182,352
+Submandibular nodes.l,MESH,6: Lymphoid organs,182,352
+Submandibular nodes.r,MESH,6: Lymphoid organs,182,352
+Submental nodes.l,MESH,6: Lymphoid organs,243,470
+Submental nodes.r,MESH,6: Lymphoid organs,243,470
+Superficial anterior cervical nodes,MESH,6: Lymphoid organs,364,704
+Superficial lateral cervical nodes.l,MESH,6: Lymphoid organs,364,704
+Superficial lateral cervical nodes.r,MESH,6: Lymphoid organs,364,704
+Superficial parotid nodes.l,MESH,6: Lymphoid organs,182,352
+Superficial parotid nodes.r,MESH,6: Lymphoid organs,182,352
+Superficial popliteal nodes.l,MESH,6: Lymphoid organs,121,234
+Superficial popliteal nodes.r,MESH,6: Lymphoid organs,121,234
+Superior diaphragmatic nodes,MESH,6: Lymphoid organs,364,704
+Superior gluteal nodes.l,MESH,6: Lymphoid organs,243,470
+Superior gluteal nodes.r,MESH,6: Lymphoid organs,243,470
+Superior pancreatic nodes,MESH,6: Lymphoid organs,243,470
+Superior pancreaticoduodenal nodes,MESH,6: Lymphoid organs,182,352
+Superior tracheobronchial nodes,MESH,6: Lymphoid organs,304,588
+Superolateral superficial inguinal nodes.l,MESH,6: Lymphoid organs,182,352
+Superolateral superficial inguinal nodes.r,MESH,6: Lymphoid organs,182,352
+Superomedial superficial inguinal nodes.l,MESH,6: Lymphoid organs,182,352
+Superomedial superficial inguinal nodes.r,MESH,6: Lymphoid organs,182,352
+Supraclavicular nodes.l,MESH,6: Lymphoid organs,243,470
+Supraclavicular nodes.r,MESH,6: Lymphoid organs,243,470
+Supratrochlear nodes.l,MESH,6: Lymphoid organs,304,588
+Supratrochlear nodes.r,MESH,6: Lymphoid organs,304,588
+Thyroid nodes.l,MESH,6: Lymphoid organs,121,234
+Thyroid nodes.r,MESH,6: Lymphoid organs,121,234

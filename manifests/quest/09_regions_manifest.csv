@@ -1,0 +1,258 @@
+object,source_type,collection_path,vertices,triangles
+Anal region.l,MESH,9: Regions of human body,26,48
+Anal region.r,MESH,9: Regions of human body,26,48
+Angle of mouth.l,MESH,9: Regions of human body,42,80
+Angle of mouth.r,MESH,9: Regions of human body,42,80
+Anterior notch of auricle.l,MESH,9: Regions of human body,38,49
+Anterior notch of auricle.r,MESH,9: Regions of human body,38,49
+Anterior region of ankle.l,MESH,9: Regions of human body,274,544
+Anterior region of ankle.r,MESH,9: Regions of human body,274,544
+Anterior region of arm.l,MESH,9: Regions of human body,514,1028
+Anterior region of arm.r,MESH,9: Regions of human body,514,1028
+Anterior region of elbow.l,MESH,9: Regions of human body,216,428
+Anterior region of elbow.r,MESH,9: Regions of human body,216,428
+Anterior region of forearm.l,MESH,9: Regions of human body,586,1168
+Anterior region of forearm.r,MESH,9: Regions of human body,586,1168
+Anterior region of knee.l,MESH,9: Regions of human body,376,748
+Anterior region of knee.r,MESH,9: Regions of human body,376,748
+Anterior region of leg.l,MESH,9: Regions of human body,628,1252
+Anterior region of leg.r,MESH,9: Regions of human body,628,1252
+Anterior region of thigh.l,MESH,9: Regions of human body,946,1888
+Anterior region of thigh.r,MESH,9: Regions of human body,946,1888
+Anterior region of wrist.l,MESH,9: Regions of human body,108,212
+Anterior region of wrist.r,MESH,9: Regions of human body,108,212
+Antihelix.l,MESH,9: Regions of human body,64,88
+Antihelix.r,MESH,9: Regions of human body,64,88
+Antitragus.l,MESH,9: Regions of human body,29,39
+Antitragus.r,MESH,9: Regions of human body,29,39
+Apex of auricle.l,MESH,9: Regions of human body,27,36
+Apex of auricle.r,MESH,9: Regions of human body,27,36
+Auricular region.l,MESH,9: Regions of human body,148,296
+Auricular region.r,MESH,9: Regions of human body,148,296
+Auricular tubercle.l,MESH,9: Regions of human body,20,26
+Auricular tubercle.r,MESH,9: Regions of human body,20,26
+Buccal region.l,MESH,9: Regions of human body,216,428
+Buccal region.r,MESH,9: Regions of human body,216,428
+Carotid triangle.l,MESH,9: Regions of human body,44,84
+Carotid triangle.r,MESH,9: Regions of human body,44,84
+Cavity of concha.l,MESH,9: Regions of human body,122,215
+Cavity of concha.r,MESH,9: Regions of human body,122,215
+Concha of auricle.l,MESH,9: Regions of human body,51,64
+Concha of auricle.r,MESH,9: Regions of human body,51,64
+Crura of antihelix.l,MESH,9: Regions of human body,69,92
+Crura of antihelix.r,MESH,9: Regions of human body,69,92
+Cubital fossa.l,MESH,9: Regions of human body,70,136
+Cubital fossa.r,MESH,9: Regions of human body,70,136
+Cymba conchae.l,MESH,9: Regions of human body,59,89
+Cymba conchae.r,MESH,9: Regions of human body,59,89
+Deltoid region.l,MESH,9: Regions of human body,314,624
+Deltoid region.r,MESH,9: Regions of human body,314,624
+Deltopectoral triangle.l,MESH,9: Regions of human body,46,88
+Deltopectoral triangle.r,MESH,9: Regions of human body,46,88
+Distal transverse arch of foot.l,MESH,9: Regions of human body,42,80
+Distal transverse arch of foot.r,MESH,9: Regions of human body,42,80
+Dorsal surfaces of digits of foot.l,MESH,9: Regions of human body,648,1157
+Dorsal surfaces of digits of foot.r,MESH,9: Regions of human body,648,1157
+Dorsal surfaces of digits of hand.l,MESH,9: Regions of human body,2144,4260
+Dorsal surfaces of digits of hand.r,MESH,9: Regions of human body,2144,4260
+Dorsum of foot.l,MESH,9: Regions of human body,176,348
+Dorsum of foot.r,MESH,9: Regions of human body,176,348
+Dorsum of hand.l,MESH,9: Regions of human body,358,712
+Dorsum of hand.r,MESH,9: Regions of human body,358,712
+Eminentia conchae.l,MESH,9: Regions of human body,45,61
+Eminentia conchae.r,MESH,9: Regions of human body,45,61
+Eminentia fossae triangularis.l,MESH,9: Regions of human body,39,51
+Eminentia fossae triangularis.r,MESH,9: Regions of human body,39,51
+Eminentia scaphae.l,MESH,9: Regions of human body,72,103
+Eminentia scaphae.r,MESH,9: Regions of human body,72,103
+Epigastric region.l,MESH,9: Regions of human body,94,184
+Epigastric region.r,MESH,9: Regions of human body,94,184
+Eyebrow.l,MESH,9: Regions of human body,28,52
+Eyebrow.r,MESH,9: Regions of human body,28,52
+Eyelashes.l,MESH,9: Regions of human body,90,176
+Eyelashes.r,MESH,9: Regions of human body,90,176
+Femoral triangle.l,MESH,9: Regions of human body,108,212
+Femoral triangle.r,MESH,9: Regions of human body,108,212
+Fossa antihelica.l,MESH,9: Regions of human body,42,61
+Fossa antihelica.r,MESH,9: Regions of human body,42,61
+Frontal region.l,MESH,9: Regions of human body,278,552
+Frontal region.r,MESH,9: Regions of human body,278,552
+Gluteal fold.l,MESH,9: Regions of human body,28,52
+Gluteal fold.r,MESH,9: Regions of human body,28,52
+Gluteal region.l,MESH,9: Regions of human body,418,832
+Gluteal region.r,MESH,9: Regions of human body,418,832
+Greater supraclavicular fossa.l,MESH,9: Regions of human body,102,200
+Greater supraclavicular fossa.r,MESH,9: Regions of human body,102,200
+Hairs of eyebrow.l,MESH,9: Regions of human body,397,794
+Hairs of eyebrow.r,MESH,9: Regions of human body,397,794
+Hairs of head,MESH,9: Regions of human body,8282,16563
+Hallucial eminence.l,MESH,9: Regions of human body,132,260
+Hallucial eminence.r,MESH,9: Regions of human body,132,260
+Heel region.l,MESH,9: Regions of human body,314,624
+Heel region.r,MESH,9: Regions of human body,314,624
+Helix.l,MESH,9: Regions of human body,289,473
+Helix.r,MESH,9: Regions of human body,289,473
+Hypochondriac region.l,MESH,9: Regions of human body,128,252
+Hypochondriac region.r,MESH,9: Regions of human body,128,252
+Hypogastric region.l,MESH,9: Regions of human body,150,296
+Hypogastric region.r,MESH,9: Regions of human body,150,296
+Infra-orbital region.l,MESH,9: Regions of human body,74,136
+Infra-orbital region.r,MESH,9: Regions of human body,74,136
+Infraclavicular fossa.l,MESH,9: Regions of human body,108,212
+Infraclavicular fossa.r,MESH,9: Regions of human body,108,212
+Inframammary region.l,MESH,9: Regions of human body,48,92
+Inframammary region.r,MESH,9: Regions of human body,48,92
+Infrascapular region.l,MESH,9: Regions of human body,242,480
+Infrascapular region.r,MESH,9: Regions of human body,242,480
+Inguinal region.l,MESH,9: Regions of human body,88,172
+Inguinal region.r,MESH,9: Regions of human body,88,172
+Interscapular region.l,MESH,9: Regions of human body,136,268
+Interscapular region.r,MESH,9: Regions of human body,136,268
+Intertragic incisure.l,MESH,9: Regions of human body,46,71
+Intertragic incisure.r,MESH,9: Regions of human body,46,71
+Labial commissure.l,MESH,9: Regions of human body,72,140
+Labial commissure.r,MESH,9: Regions of human body,72,140
+Lateral bicipital groove.l,MESH,9: Regions of human body,52,100
+Lateral bicipital groove.r,MESH,9: Regions of human body,52,100
+Lateral border of foot.l,MESH,9: Regions of human body,154,304
+Lateral border of foot.r,MESH,9: Regions of human body,154,304
+Lateral border of forearm.l,MESH,9: Regions of human body,80,156
+Lateral border of forearm.r,MESH,9: Regions of human body,80,156
+Lateral malleolus.l,MESH,9: Regions of human body,98,192
+Lateral malleolus.r,MESH,9: Regions of human body,98,192
+Lateral region of abdomen.l,MESH,9: Regions of human body,182,360
+Lateral region of abdomen.r,MESH,9: Regions of human body,182,360
+Lateral region of neck.l,MESH,9: Regions of human body,232,460
+Lateral region of neck.r,MESH,9: Regions of human body,232,460
+Lateral region of thorax.l,MESH,9: Regions of human body,396,788
+Lateral region of thorax.r,MESH,9: Regions of human body,396,788
+Lateral retromalleolar region.l,MESH,9: Regions of human body,108,212
+Lateral retromalleolar region.r,MESH,9: Regions of human body,108,212
+Lesser supraclavicular fossa.l,MESH,9: Regions of human body,26,48
+Lesser supraclavicular fossa.r,MESH,9: Regions of human body,26,48
+Lobule of auricle.l,MESH,9: Regions of human body,128,219
+Lobule of auricle.r,MESH,9: Regions of human body,128,219
+Lumbar region.l,MESH,9: Regions of human body,194,384
+Lumbar region.r,MESH,9: Regions of human body,194,384
+Mammary region.l,MESH,9: Regions of human body,162,320
+Mammary region.r,MESH,9: Regions of human body,162,320
+Mastoid region.l,MESH,9: Regions of human body,60,116
+Mastoid region.r,MESH,9: Regions of human body,60,116
+Medial bicipital groove.l,MESH,9: Regions of human body,40,76
+Medial bicipital groove.r,MESH,9: Regions of human body,40,76
+Medial border of foot.l,MESH,9: Regions of human body,156,308
+Medial border of foot.r,MESH,9: Regions of human body,156,308
+Medial malleolus.l,MESH,9: Regions of human body,78,152
+Medial malleolus.r,MESH,9: Regions of human body,78,152
+Medial part of longitudinal arch of foot.l,MESH,9: Regions of human body,56,108
+Medial part of longitudinal arch of foot.r,MESH,9: Regions of human body,56,108
+Medial retromalleolar region.l,MESH,9: Regions of human body,118,232
+Medial retromalleolar region.r,MESH,9: Regions of human body,118,232
+Mental region.l,MESH,9: Regions of human body,106,208
+Mental region.r,MESH,9: Regions of human body,106,208
+Metatarsal region.l,MESH,9: Regions of human body,248,492
+Metatarsal region.r,MESH,9: Regions of human body,248,492
+Muscular triangle.l,MESH,9: Regions of human body,132,260
+Muscular triangle.r,MESH,9: Regions of human body,132,260
+Nail plate (foot).l,MESH,9: Regions of human body,296,572
+Nail plate (foot).r,MESH,9: Regions of human body,296,572
+Nail plate.l,MESH,9: Regions of human body,394,764
+Nail plate.r,MESH,9: Regions of human body,394,764
+Nasal region.l,MESH,9: Regions of human body,304,608
+Nasal region.r,MESH,9: Regions of human body,304,608
+Occipital region.l,MESH,9: Regions of human body,174,344
+Occipital region.r,MESH,9: Regions of human body,174,344
+Oral region.l,MESH,9: Regions of human body,338,672
+Oral region.r,MESH,9: Regions of human body,338,672
+Orbital region.l,MESH,9: Regions of human body,292,584
+Orbital region.r,MESH,9: Regions of human body,292,584
+Palmar surfaces of digits of hand.l,MESH,9: Regions of human body,1922,3836
+Palmar surfaces of digits of hand.r,MESH,9: Regions of human body,1922,3836
+Parietal region.l,MESH,9: Regions of human body,254,504
+Parietal region.r,MESH,9: Regions of human body,254,504
+Parotideomasseteric region.l,MESH,9: Regions of human body,118,232
+Parotideomasseteric region.r,MESH,9: Regions of human body,118,232
+Pectoral region.l,MESH,9: Regions of human body,258,516
+Pectoral region.r,MESH,9: Regions of human body,258,516
+Perionyx (foot).l,MESH,9: Regions of human body,108,196
+Perionyx (foot).r,MESH,9: Regions of human body,108,196
+Perionyx.l,MESH,9: Regions of human body,128,236
+Perionyx.r,MESH,9: Regions of human body,128,236
+Plantar surfaces of digits of foot.l,MESH,9: Regions of human body,1016,2028
+Plantar surfaces of digits of foot.r,MESH,9: Regions of human body,1016,2028
+Popliteal fossa.l,MESH,9: Regions of human body,62,120
+Popliteal fossa.r,MESH,9: Regions of human body,62,120
+Posterior region of arm.l,MESH,9: Regions of human body,458,912
+Posterior region of arm.r,MESH,9: Regions of human body,458,912
+Posterior region of elbow.l,MESH,9: Regions of human body,242,480
+Posterior region of elbow.r,MESH,9: Regions of human body,242,480
+Posterior region of forearm.l,MESH,9: Regions of human body,668,1332
+Posterior region of forearm.r,MESH,9: Regions of human body,668,1332
+Posterior region of knee.l,MESH,9: Regions of human body,324,644
+Posterior region of knee.r,MESH,9: Regions of human body,324,644
+Posterior region of leg.l,MESH,9: Regions of human body,612,1220
+Posterior region of leg.r,MESH,9: Regions of human body,612,1220
+Posterior region of neck.l,MESH,9: Regions of human body,344,684
+Posterior region of neck.r,MESH,9: Regions of human body,344,684
+Posterior region of thigh.l,MESH,9: Regions of human body,502,1000
+Posterior region of thigh.r,MESH,9: Regions of human body,502,1000
+Posterior region of wrist.l,MESH,9: Regions of human body,124,240
+Posterior region of wrist.r,MESH,9: Regions of human body,124,240
+Presternal region.l,MESH,9: Regions of human body,144,284
+Presternal region.r,MESH,9: Regions of human body,144,284
+Proximal transverse arch of foot.l,MESH,9: Regions of human body,46,88
+Proximal transverse arch of foot.r,MESH,9: Regions of human body,46,88
+Radial foveola.l,MESH,9: Regions of human body,30,56
+Radial foveola.r,MESH,9: Regions of human body,30,56
+Hip region.l,MESH,9: Regions of human body,84,164
+Hip region.r,MESH,9: Regions of human body,84,164
+Lateral part of longitudinal arch of foot.l,MESH,9: Regions of human body,80,156
+Lateral part of longitudinal arch of foot.r,MESH,9: Regions of human body,80,156
+Medial border of forearm.l,MESH,9: Regions of human body,80,156
+Medial border of forearm.r,MESH,9: Regions of human body,80,156
+Mentolabial sulcus.l,MESH,9: Regions of human body,56,108
+Mentolabial sulcus.r,MESH,9: Regions of human body,56,108
+Nasolabial sulcus.l,MESH,9: Regions of human body,50,96
+Nasolabial sulcus.r,MESH,9: Regions of human body,50,96
+Palm.l,MESH,9: Regions of human body,298,592
+Palm.r,MESH,9: Regions of human body,298,592
+Philtrum.l,MESH,9: Regions of human body,30,56
+Philtrum.r,MESH,9: Regions of human body,30,56
+Posterior auricular groove.l,MESH,9: Regions of human body,94,184
+Posterior auricular groove.r,MESH,9: Regions of human body,94,184
+Pubic hairs,MESH,9: Regions of human body,820,1491
+Regions of human body.g,MESH,9: Regions of human body,939,917
+Sacral region.l,MESH,9: Regions of human body,88,172
+Sacral region.r,MESH,9: Regions of human body,88,172
+Scapha.l,MESH,9: Regions of human body,47,69
+Scapha.r,MESH,9: Regions of human body,47,69
+Scapular region.l,MESH,9: Regions of human body,344,676
+Scapular region.r,MESH,9: Regions of human body,344,676
+Sole.l,MESH,9: Regions of human body,90,176
+Sole.r,MESH,9: Regions of human body,90,176
+Sternocleidomastoid region.l,MESH,9: Regions of human body,274,544
+Sternocleidomastoid region.r,MESH,9: Regions of human body,274,544
+Submandibular triangle.l,MESH,9: Regions of human body,80,156
+Submandibular triangle.r,MESH,9: Regions of human body,80,156
+Submental triangle.l,MESH,9: Regions of human body,64,124
+Submental triangle.r,MESH,9: Regions of human body,64,124
+Temporal region.l,MESH,9: Regions of human body,220,436
+Temporal region.r,MESH,9: Regions of human body,220,436
+Tragus.l,MESH,9: Regions of human body,50,76
+Tragus.r,MESH,9: Regions of human body,50,76
+Triangle of auscultation.l,MESH,9: Regions of human body,12,20
+Triangle of auscultation.r,MESH,9: Regions of human body,12,20
+Triangular fossa.l,MESH,9: Regions of human body,41,58
+Triangular fossa.r,MESH,9: Regions of human body,41,58
+Tubercle of upper lip.l,MESH,9: Regions of human body,12,20
+Tubercle of upper lip.r,MESH,9: Regions of human body,12,20
+Umbilical region.l,MESH,9: Regions of human body,118,232
+Umbilical region.r,MESH,9: Regions of human body,118,232
+Umbilicus.l,MESH,9: Regions of human body,22,40
+Umbilicus.r,MESH,9: Regions of human body,22,40
+Urogenital region.l,MESH,9: Regions of human body,646,1284
+Urogenital region.r,MESH,9: Regions of human body,646,1284
+Vertebral region.l,MESH,9: Regions of human body,292,580
+Vertebral region.r,MESH,9: Regions of human body,292,580
+Zygomatic region.l,MESH,9: Regions of human body,108,212
+Zygomatic region.r,MESH,9: Regions of human body,108,212

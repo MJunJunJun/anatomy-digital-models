@@ -1,0 +1,415 @@
+object,source_type,collection_path,vertices,triangles
+Acetabular labrum.l,MESH,3: Joints,105,210
+Acetabular labrum.r,MESH,3: Joints,105,210
+Acromioclavicular ligament.l,MESH,3: Joints,18,32
+Acromioclavicular ligament.r,MESH,3: Joints,18,32
+Annular ligament of radius.l,MESH,3: Joints,60,116
+Annular ligament of radius.r,MESH,3: Joints,60,116
+Anterior cruciate ligament.l,MESH,3: Joints,524,944
+Anterior cruciate ligament.r,MESH,3: Joints,524,944
+Anterior ligament of fibular head.l,MESH,3: Joints,20,36
+Anterior ligament of fibular head.r,MESH,3: Joints,20,36
+Anterior longitudinal ligament,MESH,3: Joints,405,806
+Anterior meniscotibial ligament (Lateral meniscus).l,MESH,3: Joints,40,76
+Anterior meniscotibial ligament (Lateral meniscus).r,MESH,3: Joints,40,76
+Anterior meniscotibial ligament (Medial meniscus).l,MESH,3: Joints,20,36
+Anterior meniscotibial ligament (Medial meniscus).r,MESH,3: Joints,20,36
+Anterior sacro-iliac ligament.l,MESH,3: Joints,72,140
+Anterior sacro-iliac ligament.r,MESH,3: Joints,72,140
+Anterior sternoclavicular ligament.l,MESH,3: Joints,18,32
+Anterior sternoclavicular ligament.r,MESH,3: Joints,18,32
+Anterior talocalcaneal ligament.l,MESH,3: Joints,20,36
+Anterior talocalcaneal ligament.r,MESH,3: Joints,20,36
+Anterior talofibular ligament.l,MESH,3: Joints,8,12
+Anterior talofibular ligament.r,MESH,3: Joints,8,12
+Anterior tibiofibular ligament.l,MESH,3: Joints,40,76
+Anterior tibiofibular ligament.r,MESH,3: Joints,40,76
+Arcuate popliteal ligament.l,MESH,3: Joints,66,124
+Arcuate popliteal ligament.r,MESH,3: Joints,66,124
+Articular capsule of acromioclavicular joint.l,MESH,3: Joints,48,96
+Articular capsule of acromioclavicular joint.r,MESH,3: Joints,48,96
+Articular capsule of elbow joint.l,MESH,3: Joints,518,1036
+Articular capsule of elbow joint.r,MESH,3: Joints,518,1036
+Articular capsule of glenohumeral joint.l,MESH,3: Joints,262,524
+Articular capsule of glenohumeral joint.r,MESH,3: Joints,262,524
+Articular capsule of hip joint.l,MESH,3: Joints,175,280
+Articular capsule of hip joint.r,MESH,3: Joints,175,280
+Articular capsule of interphalangeal joint of great toe.l,MESH,3: Joints,60,96
+Articular capsule of interphalangeal joint of great toe.r,MESH,3: Joints,60,96
+Articular capsule of knee joint.l,MESH,3: Joints,303,435
+Articular capsule of knee joint.r,MESH,3: Joints,304,435
+Articular capsule of radiocarpal joint.l,MESH,3: Joints,132,198
+Articular capsule of radiocarpal joint.r,MESH,3: Joints,131,197
+Articular capsule of sternoclavicular joint.l,MESH,3: Joints,42,84
+Articular capsule of sternoclavicular joint.r,MESH,3: Joints,42,84
+Articular capsule of superior tibiofibular joint.l,MESH,3: Joints,84,168
+Articular capsule of superior tibiofibular joint.r,MESH,3: Joints,84,168
+Articular capsule of temporomandibular joint.l,MESH,3: Joints,150,300
+Articular capsule of temporomandibular joint.r,MESH,3: Joints,150,300
+Articular capsules of distal interphalangeal joints of foot.l,MESH,3: Joints,144,213
+Articular capsules of distal interphalangeal joints of foot.r,MESH,3: Joints,144,213
+Articular capsules of distal interphalangeal joints.l,MESH,3: Joints,149,225
+Articular capsules of distal interphalangeal joints.r,MESH,3: Joints,149,225
+Articular capsules of metacarpophalangeal joints.l,MESH,3: Joints,154,234
+Articular capsules of metacarpophalangeal joints.r,MESH,3: Joints,154,234
+Articular capsules of metatarsophalangeal joints.l,MESH,3: Joints,176,262
+Articular capsules of metatarsophalangeal joints.r,MESH,3: Joints,177,261
+Articular capsules of proximal interphalangeal joints of foot.l,MESH,3: Joints,147,218
+Articular capsules of proximal interphalangeal joints of foot.r,MESH,3: Joints,148,219
+Articular capsules of proximal interphalangeal joints.l,MESH,3: Joints,135,207
+Articular capsules of proximal interphalangeal joints.r,MESH,3: Joints,136,208
+Articular disc of acromioclavicular joint.l,MESH,3: Joints,12,20
+Articular disc of acromioclavicular joint.r,MESH,3: Joints,12,20
+Articular disc of distal radio-ulnar joint.l,MESH,3: Joints,16,28
+Articular disc of distal radio-ulnar joint.r,MESH,3: Joints,16,28
+Articular disc of sternoclavicular joint.l,MESH,3: Joints,12,20
+Articular disc of sternoclavicular joint.r,MESH,3: Joints,12,20
+Articular disc of temporomandibular joint.l,MESH,3: Joints,146,288
+Articular disc of temporomandibular joint.r,MESH,3: Joints,146,288
+Calcaneocuboid ligament.l,MESH,3: Joints,18,32
+Calcaneocuboid ligament.r,MESH,3: Joints,18,32
+Calcaneofibular ligament.l,MESH,3: Joints,8,12
+Calcaneofibular ligament.r,MESH,3: Joints,8,12
+Calcaneonavicular ligament.l,MESH,3: Joints,18,32
+Calcaneonavicular ligament.r,MESH,3: Joints,18,32
+Capitohamate interosseous ligament.l,MESH,3: Joints,8,12
+Capitohamate interosseous ligament.r,MESH,3: Joints,8,12
+Collateral interphalangeal ligaments of foot.l,MESH,3: Joints,300,528
+Collateral interphalangeal ligaments of foot.r,MESH,3: Joints,300,528
+Collateral interphalangeal ligaments of hand.l,MESH,3: Joints,240,408
+Collateral interphalangeal ligaments of hand.r,MESH,3: Joints,240,408
+Collateral metacarpophalangeal ligaments.l,MESH,3: Joints,128,216
+Collateral metacarpophalangeal ligaments.r,MESH,3: Joints,128,216
+Collateral metatarsophalangeal ligaments.l,MESH,3: Joints,176,312
+Collateral metatarsophalangeal ligaments.r,MESH,3: Joints,176,312
+Conoid ligament.l,MESH,3: Joints,12,20
+Conoid ligament.r,MESH,3: Joints,12,20
+Coraco-acromial ligament.l,MESH,3: Joints,8,12
+Coraco-acromial ligament.r,MESH,3: Joints,8,12
+Coracohumeral ligament.l,MESH,3: Joints,36,68
+Coracohumeral ligament.r,MESH,3: Joints,36,68
+Costoclavicular ligament.l,MESH,3: Joints,8,12
+Costoclavicular ligament.r,MESH,3: Joints,8,12
+Costotransverse ligament.l,MESH,3: Joints,140,236
+Costotransverse ligament.r,MESH,3: Joints,140,236
+Cricopharyngeal ligament.l,MESH,3: Joints,916,1871
+Cricopharyngeal ligament.r,MESH,3: Joints,916,1871
+Cuneocuboid interosseous ligament.l,MESH,3: Joints,12,20
+Cuneocuboid interosseous ligament.r,MESH,3: Joints,12,20
+Cuneometatarsal interosseous ligaments.l,MESH,3: Joints,24,36
+Cuneometatarsal interosseous ligaments.r,MESH,3: Joints,24,36
+Deep part of tibial collateral ligament.l,MESH,3: Joints,48,88
+Deep part of tibial collateral ligament.r,MESH,3: Joints,48,88
+Deep transverse metacarpal ligament.l,MESH,3: Joints,36,60
+Deep transverse metacarpal ligament.r,MESH,3: Joints,36,60
+Deep transverse metatarsal ligament.l,MESH,3: Joints,36,56
+Deep transverse metatarsal ligament.r,MESH,3: Joints,36,56
+Descending part of iliofemoral ligament.l,MESH,3: Joints,90,176
+Descending part of iliofemoral ligament.r,MESH,3: Joints,90,176
+Dorsal calcaneocuboid ligament.l,MESH,3: Joints,8,12
+Dorsal calcaneocuboid ligament.r,MESH,3: Joints,8,12
+Dorsal carpometacarpal ligaments.l,MESH,3: Joints,86,148
+Dorsal carpometacarpal ligaments.r,MESH,3: Joints,86,148
+Dorsal cuboideonavicular ligament.l,MESH,3: Joints,8,12
+Dorsal cuboideonavicular ligament.r,MESH,3: Joints,8,12
+Dorsal cuneocuboid ligament.l,MESH,3: Joints,8,12
+Dorsal cuneocuboid ligament.r,MESH,3: Joints,8,12
+Dorsal cuneonavicular ligaments.l,MESH,3: Joints,36,60
+Dorsal cuneonavicular ligaments.r,MESH,3: Joints,36,60
+Dorsal intercarpal ligaments.l,MESH,3: Joints,66,128
+Dorsal intercarpal ligaments.r,MESH,3: Joints,66,128
+Dorsal intercuneiform ligaments.l,MESH,3: Joints,16,24
+Dorsal intercuneiform ligaments.r,MESH,3: Joints,16,24
+Dorsal metacarpal ligaments.l,MESH,3: Joints,32,48
+Dorsal metacarpal ligaments.r,MESH,3: Joints,32,48
+Dorsal metatarsal ligaments.l,MESH,3: Joints,36,56
+Dorsal metatarsal ligaments.r,MESH,3: Joints,36,56
+Dorsal radio-ulnar ligament.l,MESH,3: Joints,8,12
+Dorsal radio-ulnar ligament.r,MESH,3: Joints,8,12
+Dorsal radiocarpal ligament.l,MESH,3: Joints,44,84
+Dorsal radiocarpal ligament.r,MESH,3: Joints,44,84
+Dorsal scaphotriquetral ligament.l,MESH,3: Joints,20,36
+Dorsal scaphotriquetral ligament.r,MESH,3: Joints,20,36
+Dorsal tarsometatarsal ligaments.l,MESH,3: Joints,78,140
+Dorsal tarsometatarsal ligaments.r,MESH,3: Joints,78,140
+Dorsal ulnocarpal ligament.l,MESH,3: Joints,26,44
+Dorsal ulnocarpal ligament.r,MESH,3: Joints,26,44
+External intercostal membrane.l,MESH,3: Joints,577,1122
+External intercostal membrane.r,MESH,3: Joints,577,1122
+Fibular collateral ligament.l,MESH,3: Joints,16,28
+Fibular collateral ligament.r,MESH,3: Joints,16,28
+Frenula capsulae.l,MESH,3: Joints,140,216
+Frenula capsulae.r,MESH,3: Joints,140,216
+Glenoid labrum.l,MESH,3: Joints,107,214
+Glenoid labrum.r,MESH,3: Joints,107,214
+Iliolumbar ligament.l,MESH,3: Joints,24,40
+Iliolumbar ligament.r,MESH,3: Joints,24,40
+Inferior glenohumeral ligament.l,MESH,3: Joints,50,96
+Inferior glenohumeral ligament.r,MESH,3: Joints,50,96
+Inferior pubic ligament,MESH,3: Joints,18,32
+Inferior transverse scapular ligament.l,MESH,3: Joints,8,12
+Inferior transverse scapular ligament.r,MESH,3: Joints,8,12
+Infrapatellar fat pad.l,MESH,3: Joints,26,48
+Infrapatellar fat pad.r,MESH,3: Joints,26,48
+Interclavicular ligament.l,MESH,3: Joints,16,28
+Interclavicular ligament.r,MESH,3: Joints,16,28
+Intercornual ligament.l,MESH,3: Joints,12,20
+Intercornual ligament.r,MESH,3: Joints,12,20
+Intercuneiform interosseous ligaments.l,MESH,3: Joints,16,24
+Intercuneiform interosseous ligaments.r,MESH,3: Joints,16,24
+Internal intercostal membrane.l,MESH,3: Joints,418,796
+Internal intercostal membrane.r,MESH,3: Joints,418,796
+Interosseous membrane of leg.l,MESH,3: Joints,3792,7584
+Interosseous membrane of leg.r,MESH,3: Joints,3792,7584
+Interosseous metacarpal ligaments.l,MESH,3: Joints,32,48
+Interosseous metacarpal ligaments.r,MESH,3: Joints,32,48
+Interosseous sacro-iliac ligament.l,MESH,3: Joints,36,68
+Interosseous sacro-iliac ligament.r,MESH,3: Joints,36,68
+Interosseous membrane of forearm.l,MESH,3: Joints,831,1658
+Interosseous membrane of forearm.r,MESH,3: Joints,831,1658
+Interpubic disc,MESH,3: Joints,54,104
+Intersesamoid ligament.l,MESH,3: Joints,30,56
+Intersesamoid ligament.r,MESH,3: Joints,30,56
+Interspinous ligaments,MESH,3: Joints,100,196
+Intertransverse ligaments.l,MESH,3: Joints,843,1682
+Intertransverse ligaments.r,MESH,3: Joints,843,1682
+Intervertebral disc C2-C3,MESH,3: Joints,256,508
+Intervertebral disc C3-C4,MESH,3: Joints,208,412
+Intervertebral disc C4-C5,MESH,3: Joints,258,512
+Intervertebral disc C5-C6,MESH,3: Joints,292,580
+Intervertebral disc C6-C7,MESH,3: Joints,248,500
+Intervertebral disc C7-T1,MESH,3: Joints,352,700
+Intervertebral disc L1-L2,MESH,3: Joints,941,1878
+Intervertebral disc L2-L3,MESH,3: Joints,1018,2032
+Intervertebral disc L3-L4,MESH,3: Joints,936,1868
+Intervertebral disc L4-L5,MESH,3: Joints,987,1970
+Intervertebral disc L5-S1,MESH,3: Joints,1077,2150
+Intervertebral disc T1-T2,MESH,3: Joints,377,750
+Intervertebral disc T10-T11,MESH,3: Joints,863,1722
+Intervertebral disc T11-T12,MESH,3: Joints,1019,2034
+Intervertebral disc T12-L1,MESH,3: Joints,1000,1996
+Intervertebral disc T2-T3,MESH,3: Joints,399,794
+Intervertebral disc T3-T4,MESH,3: Joints,410,816
+Intervertebral disc T4-T5,MESH,3: Joints,491,978
+Intervertebral disc T5-T6,MESH,3: Joints,523,1042
+Intervertebral disc T6-T7,MESH,3: Joints,718,1432
+Intervertebral disc T7-T8,MESH,3: Joints,799,1594
+Intervertebral disc T8-T9,MESH,3: Joints,869,1734
+Intervertebral disc T9-T10,MESH,3: Joints,376,748
+Intra-articular ligament of head of rib,MESH,3: Joints,72,108
+Intra-articular ligament of head of rib.r,MESH,3: Joints,72,108
+Ischiofemoral ligament.l,MESH,3: Joints,98,192
+Ischiofemoral ligament.r,MESH,3: Joints,98,192
+Joints.g,MESH,3: Joints,282,271
+Lateral meniscus.l,MESH,3: Joints,60,116
+Lateral meniscus.r,MESH,3: Joints,60,116
+Lateral talocalcaneal ligament.l,MESH,3: Joints,12,20
+Lateral talocalcaneal ligament.r,MESH,3: Joints,12,20
+Lateral temporomandibular ligament.l,MESH,3: Joints,40,76
+Lateral temporomandibular ligament.r,MESH,3: Joints,40,76
+Lateral thyrohyoid ligament.l,MESH,3: Joints,275,546
+Lateral thyrohyoid ligament.r,MESH,3: Joints,275,546
+Ligament of head of femur.l,MESH,3: Joints,114,192
+Ligament of head of femur.r,MESH,3: Joints,114,192
+Ligamenta flava,MESH,3: Joints,387,770
+Long plantar ligament.l,MESH,3: Joints,1043,2090
+Long plantar ligament.r,MESH,3: Joints,1043,2090
+Lunotriquetral interosseous ligament.l,MESH,3: Joints,8,12
+Lunotriquetral interosseous ligament.r,MESH,3: Joints,8,12
+Medial meniscus.l,MESH,3: Joints,36,68
+Medial meniscus.r,MESH,3: Joints,36,68
+Medial talocalcaneal ligament.l,MESH,3: Joints,24,44
+Medial talocalcaneal ligament.r,MESH,3: Joints,24,44
+Median cricothyroid ligament,MESH,3: Joints,629,1174
+Median thyrohyoid ligament,MESH,3: Joints,833,1661
+Meniscopatellar ligament.l,MESH,3: Joints,30,52
+Meniscopatellar ligament.r,MESH,3: Joints,30,52
+Metatarsal interosseous ligaments.l,MESH,3: Joints,32,48
+Metatarsal interosseous ligaments.r,MESH,3: Joints,32,48
+Middle glenohumeral ligament.l,MESH,3: Joints,48,88
+Middle glenohumeral ligament.r,MESH,3: Joints,48,88
+Nuchal ligament,MESH,3: Joints,98,192
+Nucleus pulposus C2-C3,MESH,3: Joints,290,576
+Nucleus pulposus C3-C4,MESH,3: Joints,290,576
+Nucleus pulposus C4-C5,MESH,3: Joints,290,576
+Nucleus pulposus C5-C6,MESH,3: Joints,290,576
+Nucleus pulposus C6-C7,MESH,3: Joints,290,576
+Nucleus pulposus C7-T1,MESH,3: Joints,290,576
+Nucleus pulposus L1-L2,MESH,3: Joints,290,576
+Nucleus pulposus L2-L3,MESH,3: Joints,290,576
+Nucleus pulposus L3-L4,MESH,3: Joints,290,576
+Nucleus pulposus L4-L5,MESH,3: Joints,290,576
+Nucleus pulposus L5-S1,MESH,3: Joints,290,576
+Nucleus pulposus T1-T2,MESH,3: Joints,290,576
+Nucleus pulposus T10-T11,MESH,3: Joints,290,576
+Nucleus pulposus T11-T12,MESH,3: Joints,290,576
+Nucleus pulposus T12-L1,MESH,3: Joints,290,576
+Nucleus pulposus T2-T3,MESH,3: Joints,290,576
+Nucleus pulposus T3-T4,MESH,3: Joints,290,576
+Nucleus pulposus T4-T5,MESH,3: Joints,290,576
+Nucleus pulposus T5-T6,MESH,3: Joints,290,576
+Nucleus pulposus T6-T7,MESH,3: Joints,290,576
+Nucleus pulposus T7-T8,MESH,3: Joints,290,576
+Nucleus pulposus T8-T9,MESH,3: Joints,290,576
+Nucleus pulposus T9-T10,MESH,3: Joints,290,576
+Oblique cord.l,MESH,3: Joints,8,12
+Oblique cord.r,MESH,3: Joints,8,12
+Oblique popliteal ligament.l,MESH,3: Joints,58,112
+Oblique popliteal ligament.r,MESH,3: Joints,58,112
+Obturator membrane.l,MESH,3: Joints,140,276
+Obturator membrane.r,MESH,3: Joints,140,276
+Palmar capitohamate ligament.l,MESH,3: Joints,8,12
+Palmar capitohamate ligament.r,MESH,3: Joints,8,12
+Palmar carpometacarpal ligaments.l,MESH,3: Joints,86,148
+Palmar carpometacarpal ligaments.r,MESH,3: Joints,86,148
+Palmar interphalangeal ligaments.l,MESH,3: Joints,162,288
+Palmar interphalangeal ligaments.r,MESH,3: Joints,162,288
+Palmar lunotriquetral ligament.l,MESH,3: Joints,8,12
+Palmar lunotriquetral ligament.r,MESH,3: Joints,8,12
+Palmar metacarpal ligaments.l,MESH,3: Joints,32,48
+Palmar metacarpal ligaments.r,MESH,3: Joints,32,48
+Palmar radio-ulnar ligament.l,MESH,3: Joints,16,28
+Palmar radio-ulnar ligament.r,MESH,3: Joints,16,28
+Palmar scaphotriquetral ligament.l,MESH,3: Joints,16,28
+Palmar scaphotriquetral ligament.r,MESH,3: Joints,16,28
+Palmar trapezoideocapitate ligament.l,MESH,3: Joints,8,12
+Palmar trapezoideocapitate ligament.r,MESH,3: Joints,8,12
+Pisohamate ligament.l,MESH,3: Joints,8,12
+Pisohamate ligament.r,MESH,3: Joints,8,12
+Pisometacarpal ligament.l,MESH,3: Joints,8,12
+Pisometacarpal ligament.r,MESH,3: Joints,8,12
+Pisotriquetral ligament.l,MESH,3: Joints,54,92
+Pisotriquetral ligament.r,MESH,3: Joints,54,92
+Plantar calcaneocuboid ligament.l,MESH,3: Joints,24,44
+Plantar calcaneocuboid ligament.r,MESH,3: Joints,24,44
+Plantar cuneocuboid ligament.l,MESH,3: Joints,18,32
+Plantar cuneocuboid ligament.r,MESH,3: Joints,18,32
+Plantar cuneonavicular ligaments.l,MESH,3: Joints,32,52
+Plantar cuneonavicular ligaments.r,MESH,3: Joints,32,52
+Plantar intercuneiform ligaments.l,MESH,3: Joints,16,24
+Plantar intercuneiform ligaments.r,MESH,3: Joints,16,24
+Plantar interphalangeal ligaments.l,MESH,3: Joints,171,306
+Plantar interphalangeal ligaments.r,MESH,3: Joints,171,306
+Plantar metatarsal ligaments.l,MESH,3: Joints,32,48
+Plantar metatarsal ligaments.r,MESH,3: Joints,32,48
+Plantar metatarsophalangeal ligaments.l,MESH,3: Joints,150,280
+Plantar metatarsophalangeal ligaments.r,MESH,3: Joints,150,280
+Plantar tarsometatarsal ligaments.l,MESH,3: Joints,60,100
+Plantar tarsometatarsal ligaments.r,MESH,3: Joints,60,100
+Popliteofibular ligament.l,MESH,3: Joints,48,92
+Popliteofibular ligament.r,MESH,3: Joints,48,92
+Posterior cruciate ligament.l,MESH,3: Joints,238,472
+Posterior cruciate ligament.r,MESH,3: Joints,238,472
+Posterior ligament of fibular head.l,MESH,3: Joints,30,56
+Posterior ligament of fibular head.r,MESH,3: Joints,30,56
+Posterior longitudinal ligament,MESH,3: Joints,614,1224
+Posterior sacro-iliac ligament.l,MESH,3: Joints,106,266
+Posterior sacro-iliac ligament.r,MESH,3: Joints,106,266
+Posterior sternoclavicular ligament.l,MESH,3: Joints,24,44
+Posterior sternoclavicular ligament.r,MESH,3: Joints,24,44
+Posterior talocalcaneal ligament.l,MESH,3: Joints,16,28
+Posterior talocalcaneal ligament.r,MESH,3: Joints,16,28
+Posterior talofibular ligament.l,MESH,3: Joints,8,12
+Posterior talofibular ligament.r,MESH,3: Joints,8,12
+Posterior tibiofibular ligament.l,MESH,3: Joints,40,76
+Posterior tibiofibular ligament.r,MESH,3: Joints,40,76
+Pterygospinous ligament.l,MESH,3: Joints,8,12
+Pterygospinous ligament.r,MESH,3: Joints,8,12
+Pubic symphysis,MESH,3: Joints,54,104
+Pubofemoral ligament.l,MESH,3: Joints,60,116
+Pubofemoral ligament.r,MESH,3: Joints,60,116
+Quadrangular membrane.l,MESH,3: Joints,1377,2754
+Quadrangular membrane.r,MESH,3: Joints,1377,2754
+Quadrate ligament.l,MESH,3: Joints,8,12
+Quadrate ligament.r,MESH,3: Joints,8,12
+Radial collateral ligament of wrist joint.l,MESH,3: Joints,24,48
+Radial collateral ligament of wrist joint.r,MESH,3: Joints,24,48
+Radial collateral ligament.l,MESH,3: Joints,18,32
+Radial collateral ligament.r,MESH,3: Joints,18,32
+Radiate carpal ligament.l,MESH,3: Joints,66,128
+Radiate carpal ligament.r,MESH,3: Joints,66,128
+Radioscaphocapitate ligament.l,MESH,3: Joints,12,20
+Radioscaphocapitate ligament.r,MESH,3: Joints,12,20
+Sacrospinous ligament.l,MESH,3: Joints,38,72
+Sacrospinous ligament.r,MESH,3: Joints,38,72
+Sacrotuberous ligament.l,MESH,3: Joints,72,140
+Sacrotuberous ligament.r,MESH,3: Joints,72,140
+Scaphocapitate ligament.l,MESH,3: Joints,8,12
+Scaphocapitate ligament.r,MESH,3: Joints,8,12
+Scaphotrapeziotrapezoidal ligament.l,MESH,3: Joints,26,48
+Scaphotrapeziotrapezoidal ligament.r,MESH,3: Joints,26,48
+Sphenomandibular ligament.l,MESH,3: Joints,48,92
+Sphenomandibular ligament.r,MESH,3: Joints,48,92
+Plantar calcaneonavicular ligament.l,MESH,3: Joints,8,12
+Plantar calcaneonavicular ligament.r,MESH,3: Joints,8,12
+Plantar cuboideonavicular ligament.l,MESH,3: Joints,8,12
+Plantar cuboideonavicular ligament.r,MESH,3: Joints,8,12
+Posterior meniscotibial ligament (Lateral meniscus).l,MESH,3: Joints,32,60
+Posterior meniscotibial ligament (Lateral meniscus).r,MESH,3: Joints,32,60
+Posterior meniscotibial ligament (Medial meniscus).l,MESH,3: Joints,48,92
+Posterior meniscotibial ligament (Medial meniscus).r,MESH,3: Joints,48,92
+Posterior tibiotalar ligament.l,MESH,3: Joints,12,20
+Posterior tibiotalar ligament.r,MESH,3: Joints,12,20
+Radiate ligament of head of rib.l,MESH,3: Joints,369,690
+Radiate ligament of head of rib.r,MESH,3: Joints,369,690
+Radiocapitate ligament.l,MESH,3: Joints,8,12
+Radiocapitate ligament.r,MESH,3: Joints,8,12
+Sacrococcygeal symphysis,MESH,3: Joints,96,188
+Scapholunate interosseous ligament.l,MESH,3: Joints,8,12
+Scapholunate interosseous ligament.r,MESH,3: Joints,8,12
+Stylohyoid ligament.l,MESH,3: Joints,80,156
+Stylohyoid ligament.r,MESH,3: Joints,80,156
+Stylomandibular ligament.l,MESH,3: Joints,24,44
+Stylomandibular ligament.r,MESH,3: Joints,24,44
+Superficial part of tibial collateral ligament.l,MESH,3: Joints,28,52
+Superficial part of tibial collateral ligament.r,MESH,3: Joints,28,52
+Superior glenohumeral ligament.l,MESH,3: Joints,34,64
+Superior glenohumeral ligament.r,MESH,3: Joints,34,64
+Superior pubic ligament,MESH,3: Joints,18,32
+Superior transverse scapular ligament.l,MESH,3: Joints,8,12
+Superior transverse scapular ligament.r,MESH,3: Joints,8,12
+Supraspinous ligament,MESH,3: Joints,134,268
+Talocalcaneal interosseous ligament.l,MESH,3: Joints,70,132
+Talocalcaneal interosseous ligament.r,MESH,3: Joints,70,132
+Talonavicular ligament.l,MESH,3: Joints,24,44
+Talonavicular ligament.r,MESH,3: Joints,24,44
+Tibiocalcaneal ligament.l,MESH,3: Joints,12,20
+Tibiocalcaneal ligament.r,MESH,3: Joints,12,20
+Tibionavicular ligament.l,MESH,3: Joints,42,76
+Tibionavicular ligament.r,MESH,3: Joints,42,76
+Transverse acetabular ligament.l,MESH,3: Joints,84,164
+Transverse acetabular ligament.r,MESH,3: Joints,84,164
+Transverse humeral ligament.l,MESH,3: Joints,24,44
+Transverse humeral ligament.r,MESH,3: Joints,24,44
+Transverse ligament of knee.l,MESH,3: Joints,62,120
+Transverse ligament of knee.r,MESH,3: Joints,62,120
+Transverse part of iliofemoral ligament.l,MESH,3: Joints,70,136
+Transverse part of iliofemoral ligament.r,MESH,3: Joints,70,136
+Transverse tibiofibular ligament.l,MESH,3: Joints,20,36
+Transverse tibiofibular ligament.r,MESH,3: Joints,20,36
+Trapeziotrapezoidal interosseous ligament.l,MESH,3: Joints,8,12
+Trapeziotrapezoidal interosseous ligament.r,MESH,3: Joints,8,12
+Trapezoid ligament.l,MESH,3: Joints,12,20
+Trapezoid ligament.r,MESH,3: Joints,12,20
+Trapezoideocapitate interosseous ligament.l,MESH,3: Joints,8,12
+Trapezoideocapitate interosseous ligament.r,MESH,3: Joints,8,12
+Triquetrocapitate ligament.l,MESH,3: Joints,12,20
+Triquetrocapitate ligament.r,MESH,3: Joints,12,20
+Triquetrohamate ligament.l,MESH,3: Joints,8,12
+Triquetrohamate ligament.r,MESH,3: Joints,8,12
+Triradiate cartilage.l,MESH,3: Joints,97,192
+Triradiate cartilage.r,MESH,3: Joints,97,192
+Ulnar collateral ligament of wrist joint.l,MESH,3: Joints,24,44
+Ulnar collateral ligament of wrist joint.r,MESH,3: Joints,24,44
+Ulnar collateral ligament.l,MESH,3: Joints,28,52
+Ulnar collateral ligament.r,MESH,3: Joints,28,52
+Ulnocapitate ligament.l,MESH,3: Joints,24,44
+Ulnocapitate ligament.r,MESH,3: Joints,24,44
+Ulnolunate ligament.l,MESH,3: Joints,20,36
+Ulnolunate ligament.r,MESH,3: Joints,20,36
+Ulnopisiform ligament,MESH,3: Joints,8,12
+Ulnopisiform ligament.l,MESH,3: Joints,8,12
+Ulnotriquetral ligament.l,MESH,3: Joints,12,20
+Ulnotriquetral ligament.r,MESH,3: Joints,12,20
+Zona orbicularis.l,MESH,3: Joints,355,710
+Zona orbicularis.r,MESH,3: Joints,355,710

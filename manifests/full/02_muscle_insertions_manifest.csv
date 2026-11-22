@@ -1,0 +1,706 @@
+object,source_type,collection_path,vertices,triangles
+(Abdominal part of pectoralis major muscle).ol,MESH,2: Muscular insertions,124,244
+(Abdominal part of pectoralis major muscle).or,MESH,2: Muscular insertions,124,244
+(Opponens digiti minimi muscle of foot).ol,MESH,2: Muscular insertions,62,120
+(Opponens digiti minimi muscle of foot).or,MESH,2: Muscular insertions,62,120
+Abductor digiti minimi of foot.el,MESH,2: Muscular insertions,66,128
+Abductor digiti minimi of foot.er,MESH,2: Muscular insertions,66,128
+Abductor digiti minimi of hand.el,MESH,2: Muscular insertions,116,228
+Abductor digiti minimi of hand.er,MESH,2: Muscular insertions,116,228
+Abductor digiti minimi of hand.ol,MESH,2: Muscular insertions,76,148
+Abductor digiti minimi of hand.or,MESH,2: Muscular insertions,76,148
+Abductor hallucis.el,MESH,2: Muscular insertions,26,48
+Abductor hallucis.er,MESH,2: Muscular insertions,26,48
+Abductor hallucis.ol,MESH,2: Muscular insertions,64,124
+Abductor hallucis.or,MESH,2: Muscular insertions,64,124
+Abductor pollicis longus.el,MESH,2: Muscular insertions,30,56
+Abductor pollicis longus.er,MESH,2: Muscular insertions,30,56
+Abductor pollicis longus.ol,MESH,2: Muscular insertions,148,292
+Abductor pollicis longus.or,MESH,2: Muscular insertions,148,292
+Acromial part of deltoid muscle.ol,MESH,2: Muscular insertions,610,1216
+Acromial part of deltoid muscle.or,MESH,2: Muscular insertions,610,1216
+Adductor longus.el,MESH,2: Muscular insertions,64,116
+Adductor longus.er,MESH,2: Muscular insertions,64,116
+Adductor longus.ol,MESH,2: Muscular insertions,40,76
+Adductor longus.or,MESH,2: Muscular insertions,40,76
+Adductor magnus.el,MESH,2: Muscular insertions,224,440
+Adductor magnus.er,MESH,2: Muscular insertions,224,440
+Adductor magnus.ol,MESH,2: Muscular insertions,98,192
+Adductor magnus.or,MESH,2: Muscular insertions,98,192
+Adductor pollicis.e1l,MESH,2: Muscular insertions,30,56
+Adductor pollicis.e1r,MESH,2: Muscular insertions,30,56
+Adductor pollicis.el,MESH,2: Muscular insertions,56,104
+Adductor pollicis.er,MESH,2: Muscular insertions,56,104
+Anconeus muscle.el,MESH,2: Muscular insertions,44,84
+Anconeus muscle.er,MESH,2: Muscular insertions,44,84
+Anconeus muscle.ol,MESH,2: Muscular insertions,52,100
+Anconeus muscle.or,MESH,2: Muscular insertions,52,100
+Anterior belly of digastric muscle.el,MESH,2: Muscular insertions,34,64
+Anterior belly of digastric muscle.er,MESH,2: Muscular insertions,34,64
+Articularis genus muscle.ol,MESH,2: Muscular insertions,42,80
+Articularis genus muscle.or,MESH,2: Muscular insertions,42,80
+Ascending part of trapezius muscle.el,MESH,2: Muscular insertions,46,88
+Ascending part of trapezius muscle.er,MESH,2: Muscular insertions,46,88
+Ascending part of trapezius muscle.ol,MESH,2: Muscular insertions,96,188
+Ascending part of trapezius muscle.or,MESH,2: Muscular insertions,96,188
+Biceps brachii muscle.el,MESH,2: Muscular insertions,42,80
+Biceps brachii muscle.er,MESH,2: Muscular insertions,42,80
+Biceps femoris muscle.el,MESH,2: Muscular insertions,84,164
+Biceps femoris muscle.er,MESH,2: Muscular insertions,84,164
+Brachialis muscle.el,MESH,2: Muscular insertions,96,188
+Brachialis muscle.er,MESH,2: Muscular insertions,96,188
+Brachialis muscle.ol,MESH,2: Muscular insertions,268,532
+Brachialis muscle.or,MESH,2: Muscular insertions,268,532
+Brachioradialis muscle.el,MESH,2: Muscular insertions,50,96
+Brachioradialis muscle.er,MESH,2: Muscular insertions,50,96
+Brachioradialis muscle.ol,MESH,2: Muscular insertions,50,96
+Brachioradialis muscle.or,MESH,2: Muscular insertions,50,96
+Bucinator.o1r,MESH,2: Muscular insertions,46,88
+Bucinator.o1l,MESH,2: Muscular insertions,46,88
+Bucinator.ol,MESH,2: Muscular insertions,52,100
+Bucinator.or,MESH,2: Muscular insertions,52,100
+Clavicular part of deltoid muscle.ol,MESH,2: Muscular insertions,180,356
+Clavicular part of deltoid muscle.or,MESH,2: Muscular insertions,180,356
+Common extensor tendon.ol,MESH,2: Muscular insertions,64,124
+Common extensor tendon.or,MESH,2: Muscular insertions,64,124
+Common flexor tendon.ol,MESH,2: Muscular insertions,66,128
+Common flexor tendon.or,MESH,2: Muscular insertions,66,128
+Coracobrachialis muscle.ol,MESH,2: Muscular insertions,260,516
+Coracobrachialis muscle.or,MESH,2: Muscular insertions,260,516
+Deep head of flexor pollicis brevis.o1l,MESH,2: Muscular insertions,56,108
+Deep head of flexor pollicis brevis.o1r,MESH,2: Muscular insertions,56,108
+Deep head of flexor pollicis brevis.ol,MESH,2: Muscular insertions,90,176
+Deep head of flexor pollicis brevis.or,MESH,2: Muscular insertions,90,176
+Deltoid muscle.el,MESH,2: Muscular insertions,58,112
+Deltoid muscle.er,MESH,2: Muscular insertions,58,112
+Depressor anguli oris.ol,MESH,2: Muscular insertions,36,68
+Depressor anguli oris.or,MESH,2: Muscular insertions,36,68
+Depressor labii inferioris.ol,MESH,2: Muscular insertions,48,92
+Depressor labii inferioris.or,MESH,2: Muscular insertions,48,92
+Depressor septi nasi.ol,MESH,2: Muscular insertions,50,96
+Depressor septi nasi.or,MESH,2: Muscular insertions,50,96
+Descending part of trapezius muscle.ol,MESH,2: Muscular insertions,336,668
+Descending part of trapezius muscle.or,MESH,2: Muscular insertions,336,668
+Diaphragm.o1l,MESH,2: Muscular insertions,140,276
+Diaphragm.o1r,MESH,2: Muscular insertions,140,276
+Diaphragm.o2l,MESH,2: Muscular insertions,86,168
+Diaphragm.o2r,MESH,2: Muscular insertions,86,168
+Diaphragm.o3l,MESH,2: Muscular insertions,50,96
+Diaphragm.o3r,MESH,2: Muscular insertions,50,96
+Diaphragm.o4l,MESH,2: Muscular insertions,612,1220
+Diaphragm.o4r,MESH,2: Muscular insertions,612,1220
+Diaphragm.o5l,MESH,2: Muscular insertions,122,240
+Diaphragm.o5r,MESH,2: Muscular insertions,122,240
+Diaphragm.ol,MESH,2: Muscular insertions,400,792
+Diaphragm.or,MESH,2: Muscular insertions,400,792
+Dorsal interossei muscles of hand.o1l,MESH,2: Muscular insertions,112,216
+Dorsal interossei muscles of hand.o1r,MESH,2: Muscular insertions,112,216
+Dorsal interossei muscles of hand.o2l,MESH,2: Muscular insertions,96,184
+Dorsal interossei muscles of hand.o2r,MESH,2: Muscular insertions,96,184
+Dorsal interossei muscles of hand.o3l,MESH,2: Muscular insertions,96,184
+Dorsal interossei muscles of hand.o3r,MESH,2: Muscular insertions,96,184
+Dorsal interossei muscles of hand.o4l,MESH,2: Muscular insertions,34,64
+Dorsal interossei muscles of hand.o4r,MESH,2: Muscular insertions,34,64
+Dorsal interossei muscles of hand.ol,MESH,2: Muscular insertions,42,80
+Dorsal interossei muscles of hand.or,MESH,2: Muscular insertions,42,80
+Erector spinae.ol,MESH,2: Muscular insertions,104,200
+Erector spinae.or,MESH,2: Muscular insertions,104,200
+Extensor carpi radialis brevis.el,MESH,2: Muscular insertions,28,52
+Extensor carpi radialis brevis.er,MESH,2: Muscular insertions,28,52
+Extensor carpi radialis longus.el,MESH,2: Muscular insertions,26,48
+Extensor carpi radialis longus.er,MESH,2: Muscular insertions,26,48
+Extensor carpi radialis longus.ol,MESH,2: Muscular insertions,98,192
+Extensor carpi radialis longus.or,MESH,2: Muscular insertions,98,192
+Extensor carpi ulnaris.el,MESH,2: Muscular insertions,14,24
+Extensor carpi ulnaris.er,MESH,2: Muscular insertions,14,24
+Extensor carpi ulnaris.ol,MESH,2: Muscular insertions,22,40
+Extensor carpi ulnaris.or,MESH,2: Muscular insertions,22,40
+Extensor digitorum brevis.e1l,MESH,2: Muscular insertions,42,80
+Extensor digitorum brevis.e1r,MESH,2: Muscular insertions,42,80
+Extensor digitorum brevis.e2l,MESH,2: Muscular insertions,32,60
+Extensor digitorum brevis.e2r,MESH,2: Muscular insertions,32,60
+Extensor digitorum brevis.el,MESH,2: Muscular insertions,32,60
+Extensor digitorum brevis.er,MESH,2: Muscular insertions,32,60
+Extensor digitorum longus.e1l,MESH,2: Muscular insertions,28,52
+Extensor digitorum longus.e1r,MESH,2: Muscular insertions,28,52
+Extensor digitorum longus.e2l,MESH,2: Muscular insertions,32,60
+Extensor digitorum longus.e2r,MESH,2: Muscular insertions,32,60
+Extensor digitorum longus.e3l,MESH,2: Muscular insertions,16,28
+Extensor digitorum longus.e3r,MESH,2: Muscular insertions,16,28
+Extensor digitorum longus.e4l,MESH,2: Muscular insertions,28,52
+Extensor digitorum longus.e4r,MESH,2: Muscular insertions,28,52
+Extensor digitorum longus.el,MESH,2: Muscular insertions,28,52
+Extensor digitorum longus.er,MESH,2: Muscular insertions,28,52
+Extensor digitorum longus.o1l,MESH,2: Muscular insertions,330,656
+Extensor digitorum longus.o1r,MESH,2: Muscular insertions,330,656
+Extensor digitorum longus.ol,MESH,2: Muscular insertions,32,60
+Extensor digitorum longus.or,MESH,2: Muscular insertions,32,60
+Extensor digitorum.e1l,MESH,2: Muscular insertions,30,56
+Extensor digitorum.e1r,MESH,2: Muscular insertions,30,56
+Extensor digitorum.e2l,MESH,2: Muscular insertions,46,88
+Extensor digitorum.e2r,MESH,2: Muscular insertions,46,88
+Extensor digitorum.e3l,MESH,2: Muscular insertions,36,68
+Extensor digitorum.e3r,MESH,2: Muscular insertions,36,68
+Extensor digitorum.e4l,MESH,2: Muscular insertions,20,36
+Extensor digitorum.e4r,MESH,2: Muscular insertions,20,36
+Extensor digitorum.e5l,MESH,2: Muscular insertions,24,44
+Extensor digitorum.e5r,MESH,2: Muscular insertions,24,44
+Extensor digitorum.e6l,MESH,2: Muscular insertions,16,28
+Extensor digitorum.e6r,MESH,2: Muscular insertions,16,28
+Extensor digitorum.e7l,MESH,2: Muscular insertions,30,56
+Extensor digitorum.e7r,MESH,2: Muscular insertions,30,56
+Extensor digitorum.el,MESH,2: Muscular insertions,38,72
+Extensor digitorum.er,MESH,2: Muscular insertions,38,72
+Extensor hallucis brevis.ol,MESH,2: Muscular insertions,50,96
+Extensor hallucis brevis.or,MESH,2: Muscular insertions,50,96
+Extensor hallucis longus.el,MESH,2: Muscular insertions,36,68
+Extensor hallucis longus.er,MESH,2: Muscular insertions,36,68
+Extensor hallucis longus.ol,MESH,2: Muscular insertions,444,884
+Extensor hallucis longus.or,MESH,2: Muscular insertions,444,884
+Extensor indicis.el,MESH,2: Muscular insertions,24,44
+Extensor indicis.er,MESH,2: Muscular insertions,24,44
+Extensor indicis.ol,MESH,2: Muscular insertions,76,148
+Extensor indicis.or,MESH,2: Muscular insertions,76,148
+Extensor pollicis brevis.el,MESH,2: Muscular insertions,32,60
+Extensor pollicis brevis.er,MESH,2: Muscular insertions,32,60
+Extensor pollicis brevis.ol,MESH,2: Muscular insertions,94,184
+Extensor pollicis brevis.or,MESH,2: Muscular insertions,94,184
+Extensor pollicis longus.el,MESH,2: Muscular insertions,28,52
+Extensor pollicis longus.er,MESH,2: Muscular insertions,28,52
+Extensor pollicis longus.ol,MESH,2: Muscular insertions,100,196
+Extensor pollicis longus.or,MESH,2: Muscular insertions,100,196
+External abdominal oblique muscle.o1l,MESH,2: Muscular insertions,210,416
+External abdominal oblique muscle.o1r,MESH,2: Muscular insertions,210,416
+External abdominal oblique muscle.o2l,MESH,2: Muscular insertions,166,328
+External abdominal oblique muscle.o2r,MESH,2: Muscular insertions,166,328
+External abdominal oblique muscle.o3l,MESH,2: Muscular insertions,294,584
+External abdominal oblique muscle.o4l,MESH,2: Muscular insertions,138,264
+External abdominal oblique muscle.o4r,MESH,2: Muscular insertions,138,264
+External abdominal oblique muscle.o5l,MESH,2: Muscular insertions,288,572
+External abdominal oblique muscle.o5r,MESH,2: Muscular insertions,288,572
+External abdominal oblique muscle.ol,MESH,2: Muscular insertions,196,388
+External abdominal oblique muscle.or,MESH,2: Muscular insertions,196,388
+External abdominal oblique muscle.o3r,MESH,2: Muscular insertions,294,584
+Fibularis brevis muscle.el,MESH,2: Muscular insertions,74,144
+Fibularis brevis muscle.er,MESH,2: Muscular insertions,74,144
+Fibularis brevis muscle.ol,MESH,2: Muscular insertions,82,160
+Fibularis brevis muscle.or,MESH,2: Muscular insertions,82,160
+Fibularis longus muscle.ol,MESH,2: Muscular insertions,156,308
+Fibularis longus muscle.or,MESH,2: Muscular insertions,156,308
+Fibularis tertius muscle.el,MESH,2: Muscular insertions,42,80
+Fibularis tertius muscle.er,MESH,2: Muscular insertions,42,80
+Fibularis tertius muscle.ol,MESH,2: Muscular insertions,20,36
+Fibularis tertius muscle.or,MESH,2: Muscular insertions,20,36
+Flexor carpi ulnaris.el,MESH,2: Muscular insertions,86,168
+Flexor carpi ulnaris.er,MESH,2: Muscular insertions,86,168
+Flexor digiti minimi of foot.el,MESH,2: Muscular insertions,58,112
+Flexor digiti minimi of foot.er,MESH,2: Muscular insertions,58,112
+Flexor digiti minimi of hand.el,MESH,2: Muscular insertions,112,220
+Flexor digiti minimi of hand.er,MESH,2: Muscular insertions,112,220
+Flexor digiti minimi of hand.ol,MESH,2: Muscular insertions,26,48
+Flexor digiti minimi of hand.or,MESH,2: Muscular insertions,26,48
+Flexor digitorum brevis.e1l,MESH,2: Muscular insertions,100,192
+Flexor digitorum brevis.e1r,MESH,2: Muscular insertions,100,192
+Flexor digitorum brevis.e2l,MESH,2: Muscular insertions,54,100
+Flexor digitorum brevis.e2r,MESH,2: Muscular insertions,54,100
+Flexor digitorum brevis.el,MESH,2: Muscular insertions,76,144
+Flexor digitorum brevis.er,MESH,2: Muscular insertions,76,144
+Flexor digitorum brevis.ol,MESH,2: Muscular insertions,74,144
+Flexor digitorum brevis.or,MESH,2: Muscular insertions,74,144
+Flexor digitorum longus.e1l,MESH,2: Muscular insertions,34,64
+Flexor digitorum longus.e1r,MESH,2: Muscular insertions,34,64
+Flexor digitorum longus.e2l,MESH,2: Muscular insertions,22,40
+Flexor digitorum longus.e2r,MESH,2: Muscular insertions,22,40
+Flexor digitorum longus.e3l,MESH,2: Muscular insertions,34,64
+Flexor digitorum longus.e3r,MESH,2: Muscular insertions,34,64
+Flexor digitorum longus.el,MESH,2: Muscular insertions,32,60
+Flexor digitorum longus.er,MESH,2: Muscular insertions,32,60
+Flexor digitorum longus.ol,MESH,2: Muscular insertions,50,96
+Flexor digitorum longus.or,MESH,2: Muscular insertions,50,96
+Flexor digitorum profundus.e1l,MESH,2: Muscular insertions,24,44
+Flexor digitorum profundus.e1r,MESH,2: Muscular insertions,24,44
+Flexor digitorum profundus.e2l,MESH,2: Muscular insertions,18,32
+Flexor digitorum profundus.e2r,MESH,2: Muscular insertions,18,32
+Flexor digitorum profundus.e3l,MESH,2: Muscular insertions,28,52
+Flexor digitorum profundus.e3r,MESH,2: Muscular insertions,28,52
+Flexor digitorum profundus.el,MESH,2: Muscular insertions,18,32
+Flexor digitorum profundus.er,MESH,2: Muscular insertions,18,32
+Flexor digitorum superficialis.e1l,MESH,2: Muscular insertions,54,100
+Flexor digitorum superficialis.e1r,MESH,2: Muscular insertions,54,100
+Flexor digitorum superficialis.e2l,MESH,2: Muscular insertions,58,108
+Flexor digitorum superficialis.e2r,MESH,2: Muscular insertions,58,108
+Flexor digitorum superficialis.e3l,MESH,2: Muscular insertions,56,104
+Flexor digitorum superficialis.e3r,MESH,2: Muscular insertions,56,104
+Flexor digitorum superficialis.el,MESH,2: Muscular insertions,52,96
+Flexor digitorum superficialis.er,MESH,2: Muscular insertions,52,96
+Flexor digitorum superficialis.ol,MESH,2: Muscular insertions,82,160
+Flexor digitorum superficialis.or,MESH,2: Muscular insertions,82,160
+Flexor hallucis longus.el,MESH,2: Muscular insertions,32,60
+Flexor hallucis longus.er,MESH,2: Muscular insertions,32,60
+Flexor hallucis longus.ol,MESH,2: Muscular insertions,358,710
+Flexor hallucis longus.or,MESH,2: Muscular insertions,358,710
+Flexor pollicis longus.el,MESH,2: Muscular insertions,16,28
+Flexor pollicis longus.er,MESH,2: Muscular insertions,16,28
+Flexor pollicis longus.o1l,MESH,2: Muscular insertions,170,336
+Flexor pollicis longus.o1r,MESH,2: Muscular insertions,170,336
+Flexor pollicis longus.ol,MESH,2: Muscular insertions,24,44
+Flexor pollicis longus.or,MESH,2: Muscular insertions,24,44
+Frontalis muscle.or,MESH,2: Muscular insertions,132,260
+Frontalis muscle.ol,MESH,2: Muscular insertions,132,260
+Geniohyoid muscle.el,MESH,2: Muscular insertions,68,132
+Geniohyoid muscle.er,MESH,2: Muscular insertions,68,132
+Geniohyoid muscle.or,MESH,2: Muscular insertions,18,32
+Geniohyoid muscle.ol,MESH,2: Muscular insertions,18,32
+Gluteus maximus muscle.el,MESH,2: Muscular insertions,94,184
+Gluteus maximus muscle.er,MESH,2: Muscular insertions,94,184
+Gluteus maximus muscle.ol,MESH,2: Muscular insertions,128,244
+Gluteus maximus muscle.or,MESH,2: Muscular insertions,128,244
+Gluteus medius muscle.el,MESH,2: Muscular insertions,64,124
+Gluteus medius muscle.er,MESH,2: Muscular insertions,64,124
+Gluteus medius muscle.ol,MESH,2: Muscular insertions,106,208
+Gluteus medius muscle.or,MESH,2: Muscular insertions,106,208
+Gluteus minimus muscle.ol,MESH,2: Muscular insertions,142,280
+Gluteus minimus muscle.or,MESH,2: Muscular insertions,142,280
+Gracilis muscle.el,MESH,2: Muscular insertions,30,56
+Gracilis muscle.er,MESH,2: Muscular insertions,30,56
+Gracilis muscle.ol,MESH,2: Muscular insertions,98,192
+Gracilis muscle.or,MESH,2: Muscular insertions,98,192
+Iliacus muscle.ol,MESH,2: Muscular insertions,126,248
+Iliacus muscle.or,MESH,2: Muscular insertions,126,248
+Iliocostalis colli muscle.el,MESH,2: Muscular insertions,40,76
+Iliocostalis colli muscle.er,MESH,2: Muscular insertions,40,76
+Iliopsoas muscle.el,MESH,2: Muscular insertions,142,280
+Iliopsoas muscle.er,MESH,2: Muscular insertions,142,280
+Inferior gemellus muscle.ol,MESH,2: Muscular insertions,40,76
+Inferior gemellus muscle.or,MESH,2: Muscular insertions,40,76
+Infraspinatus muscle.el,MESH,2: Muscular insertions,118,232
+Infraspinatus muscle.er,MESH,2: Muscular insertions,118,232
+Infraspinatus muscle.ol,MESH,2: Muscular insertions,1170,2336
+Infraspinatus muscle.or,MESH,2: Muscular insertions,1170,2336
+Internal abdominal oblique muscle.o1l,MESH,2: Muscular insertions,192,376
+Internal abdominal oblique muscle.o1r,MESH,2: Muscular insertions,192,376
+Internal abdominal oblique muscle.o2l,MESH,2: Muscular insertions,128,252
+Internal abdominal oblique muscle.o3l,MESH,2: Muscular insertions,136,268
+Internal abdominal oblique muscle.o3r,MESH,2: Muscular insertions,136,268
+Internal abdominal oblique muscle.o4l,MESH,2: Muscular insertions,586,1168
+Internal abdominal oblique muscle.o4r,MESH,2: Muscular insertions,586,1168
+Internal abdominal oblique muscle.ol,MESH,2: Muscular insertions,446,888
+Internal abdominal oblique muscle.or,MESH,2: Muscular insertions,446,888
+Internal abdominal oblique muscle.o2r,MESH,2: Muscular insertions,128,252
+Lateral head of flexor hallucis brevis.el,MESH,2: Muscular insertions,30,56
+Lateral head of flexor hallucis brevis.er,MESH,2: Muscular insertions,30,56
+Lateral head of flexor hallucis brevis.o1l,MESH,2: Muscular insertions,40,76
+Lateral head of flexor hallucis brevis.o1r,MESH,2: Muscular insertions,40,76
+Lateral head of flexor hallucis brevis.ol,MESH,2: Muscular insertions,122,240
+Lateral head of flexor hallucis brevis.or,MESH,2: Muscular insertions,122,240
+Lateral head of gastrocnemius.ol,MESH,2: Muscular insertions,38,72
+Lateral head of gastrocnemius.or,MESH,2: Muscular insertions,38,72
+Lateral head of triceps brachii.ol,MESH,2: Muscular insertions,110,216
+Lateral head of triceps brachii.or,MESH,2: Muscular insertions,110,216
+Lateral pterygoid muscle.o1l,MESH,2: Muscular insertions,46,88
+Lateral pterygoid muscle.o1r,MESH,2: Muscular insertions,46,88
+Lateral pterygoid muscle.ol,MESH,2: Muscular insertions,88,172
+Lateral pterygoid muscle.or,MESH,2: Muscular insertions,88,172
+Latissimus dorsi muscle.el,MESH,2: Muscular insertions,300,596
+Latissimus dorsi muscle.er,MESH,2: Muscular insertions,300,596
+Latissimus dorsi muscle.ol,MESH,2: Muscular insertions,116,228
+Latissimus dorsi muscle.or,MESH,2: Muscular insertions,116,228
+Levator anguli oris.ol,MESH,2: Muscular insertions,42,80
+Levator anguli oris.or,MESH,2: Muscular insertions,42,80
+Levator ani.ol,MESH,2: Muscular insertions,80,152
+Levator ani.or,MESH,2: Muscular insertions,80,152
+Levator labii superioris.ol,MESH,2: Muscular insertions,114,224
+Levator labii superioris.or,MESH,2: Muscular insertions,114,224
+Levator nasolabialis.ol,MESH,2: Muscular insertions,44,84
+Levator nasolabialis.or,MESH,2: Muscular insertions,44,84
+Levator scapulae.el,MESH,2: Muscular insertions,970,1936
+Levator scapulae.er,MESH,2: Muscular insertions,970,1936
+Levator scapulae.o1l,MESH,2: Muscular insertions,20,36
+Levator scapulae.o1r,MESH,2: Muscular insertions,20,36
+Levator scapulae.o2l,MESH,2: Muscular insertions,48,92
+Levator scapulae.o2r,MESH,2: Muscular insertions,48,92
+Levator scapulae.o3l,MESH,2: Muscular insertions,50,96
+Levator scapulae.o3r,MESH,2: Muscular insertions,50,96
+Levator scapulae.ol,MESH,2: Muscular insertions,30,56
+Levator scapulae.or,MESH,2: Muscular insertions,30,56
+Levatores longi costarum.e10l,MESH,2: Muscular insertions,60,116
+Levatores longi costarum.e10r,MESH,2: Muscular insertions,60,116
+Levatores longi costarum.e1l,MESH,2: Muscular insertions,140,276
+Levatores longi costarum.e1r,MESH,2: Muscular insertions,140,276
+Levatores longi costarum.e2l,MESH,2: Muscular insertions,138,272
+Levatores longi costarum.e2r,MESH,2: Muscular insertions,138,272
+Levatores longi costarum.e3l,MESH,2: Muscular insertions,114,224
+Levatores longi costarum.e3r,MESH,2: Muscular insertions,114,224
+Levatores longi costarum.e4l,MESH,2: Muscular insertions,112,220
+Levatores longi costarum.e4r,MESH,2: Muscular insertions,112,220
+Levatores longi costarum.e5l,MESH,2: Muscular insertions,80,156
+Levatores longi costarum.e5r,MESH,2: Muscular insertions,80,156
+Levatores longi costarum.e6l,MESH,2: Muscular insertions,104,204
+Levatores longi costarum.e6r,MESH,2: Muscular insertions,104,204
+Levatores longi costarum.e7l,MESH,2: Muscular insertions,222,440
+Levatores longi costarum.e7r,MESH,2: Muscular insertions,222,440
+Levatores longi costarum.e8l,MESH,2: Muscular insertions,176,348
+Levatores longi costarum.e8r,MESH,2: Muscular insertions,176,348
+Levatores longi costarum.e9l,MESH,2: Muscular insertions,202,400
+Levatores longi costarum.e9r,MESH,2: Muscular insertions,202,400
+Levatores longi costarum.el,MESH,2: Muscular insertions,96,188
+Levatores longi costarum.er,MESH,2: Muscular insertions,96,188
+Long head of biceps brachii.ol,MESH,2: Muscular insertions,114,224
+Long head of biceps brachii.or,MESH,2: Muscular insertions,114,224
+Long head of biceps femoris.ol,MESH,2: Muscular insertions,44,84
+Long head of biceps femoris.or,MESH,2: Muscular insertions,44,84
+Long head of triceps brachii.ol,MESH,2: Muscular insertions,136,268
+Long head of triceps brachii.or,MESH,2: Muscular insertions,136,268
+Long plantar ligament.o1l,MESH,2: Muscular insertions,62,120
+Long plantar ligament.o1r,MESH,2: Muscular insertions,62,120
+Long plantar ligament.o2l,MESH,2: Muscular insertions,46,88
+Long plantar ligament.o2r,MESH,2: Muscular insertions,46,88
+Long plantar ligament.o3l,MESH,2: Muscular insertions,20,36
+Long plantar ligament.o3r,MESH,2: Muscular insertions,20,36
+Long plantar ligament.o4l,MESH,2: Muscular insertions,44,84
+Long plantar ligament.o4r,MESH,2: Muscular insertions,44,84
+Long plantar ligament.ol,MESH,2: Muscular insertions,84,164
+Long plantar ligament.or,MESH,2: Muscular insertions,84,164
+Longissimus thoracis muscle.e10l,MESH,2: Muscular insertions,74,144
+Longissimus thoracis muscle.e10r,MESH,2: Muscular insertions,74,144
+Longissimus thoracis muscle.e11l,MESH,2: Muscular insertions,28,52
+Longissimus thoracis muscle.e11r,MESH,2: Muscular insertions,28,52
+Longissimus thoracis muscle.e12l,MESH,2: Muscular insertions,56,108
+Longissimus thoracis muscle.e12r,MESH,2: Muscular insertions,56,108
+Longissimus thoracis muscle.e13l,MESH,2: Muscular insertions,44,84
+Longissimus thoracis muscle.e13r,MESH,2: Muscular insertions,44,84
+Longissimus thoracis muscle.e14l,MESH,2: Muscular insertions,56,108
+Longissimus thoracis muscle.e14r,MESH,2: Muscular insertions,56,108
+Longissimus thoracis muscle.e15l,MESH,2: Muscular insertions,20,36
+Longissimus thoracis muscle.e15r,MESH,2: Muscular insertions,20,36
+Longissimus thoracis muscle.e16l,MESH,2: Muscular insertions,40,76
+Longissimus thoracis muscle.e16r,MESH,2: Muscular insertions,40,76
+Longissimus thoracis muscle.e17l,MESH,2: Muscular insertions,34,64
+Longissimus thoracis muscle.e17r,MESH,2: Muscular insertions,34,64
+Longissimus thoracis muscle.e18l,MESH,2: Muscular insertions,68,132
+Longissimus thoracis muscle.e18r,MESH,2: Muscular insertions,68,132
+Longissimus thoracis muscle.e19l,MESH,2: Muscular insertions,34,64
+Longissimus thoracis muscle.e19r,MESH,2: Muscular insertions,34,64
+Longissimus thoracis muscle.e1l,MESH,2: Muscular insertions,108,208
+Longissimus thoracis muscle.e1r,MESH,2: Muscular insertions,108,208
+Longissimus thoracis muscle.e20l,MESH,2: Muscular insertions,66,128
+Longissimus thoracis muscle.e20r,MESH,2: Muscular insertions,66,128
+Longissimus thoracis muscle.e21l,MESH,2: Muscular insertions,50,96
+Longissimus thoracis muscle.e21r,MESH,2: Muscular insertions,50,96
+Longissimus thoracis muscle.e22l,MESH,2: Muscular insertions,38,72
+Longissimus thoracis muscle.e22r,MESH,2: Muscular insertions,38,72
+Longissimus thoracis muscle.e23l,MESH,2: Muscular insertions,36,68
+Longissimus thoracis muscle.e23r,MESH,2: Muscular insertions,36,68
+Longissimus thoracis muscle.e24l,MESH,2: Muscular insertions,54,104
+Longissimus thoracis muscle.e24r,MESH,2: Muscular insertions,54,104
+Longissimus thoracis muscle.e25l,MESH,2: Muscular insertions,40,76
+Longissimus thoracis muscle.e25r,MESH,2: Muscular insertions,40,76
+Longissimus thoracis muscle.e26l,MESH,2: Muscular insertions,66,128
+Longissimus thoracis muscle.e26r,MESH,2: Muscular insertions,66,128
+Longissimus thoracis muscle.e2l,MESH,2: Muscular insertions,84,160
+Longissimus thoracis muscle.e2r,MESH,2: Muscular insertions,84,160
+Longissimus thoracis muscle.e3r,MESH,2: Muscular insertions,60,116
+Longissimus thoracis muscle.e3l,MESH,2: Muscular insertions,60,116
+Longissimus thoracis muscle.e4l,MESH,2: Muscular insertions,78,152
+Longissimus thoracis muscle.e4r,MESH,2: Muscular insertions,78,152
+Longissimus thoracis muscle.e5l,MESH,2: Muscular insertions,44,84
+Longissimus thoracis muscle.e5r,MESH,2: Muscular insertions,44,84
+Longissimus thoracis muscle.e6l,MESH,2: Muscular insertions,94,184
+Longissimus thoracis muscle.e6r,MESH,2: Muscular insertions,94,184
+Longissimus thoracis muscle.e7l,MESH,2: Muscular insertions,68,132
+Longissimus thoracis muscle.e7r,MESH,2: Muscular insertions,68,132
+Longissimus thoracis muscle.e8l,MESH,2: Muscular insertions,58,112
+Longissimus thoracis muscle.e8r,MESH,2: Muscular insertions,58,112
+Longissimus thoracis muscle.e9l,MESH,2: Muscular insertions,44,84
+Longissimus thoracis muscle.e9r,MESH,2: Muscular insertions,44,84
+Longissimus thoracis muscle.el,MESH,2: Muscular insertions,44,84
+Longissimus thoracis muscle.er,MESH,2: Muscular insertions,44,84
+Longus capitis muscle.or,MESH,2: Muscular insertions,20,36
+Longus capitis muscle.ol,MESH,2: Muscular insertions,20,36
+Masseter.el,MESH,2: Muscular insertions,72,140
+Masseter.er,MESH,2: Muscular insertions,72,140
+Masseter.o1l,MESH,2: Muscular insertions,110,216
+Masseter.o1r,MESH,2: Muscular insertions,110,216
+Masseter.ol,MESH,2: Muscular insertions,134,268
+Masseter.or,MESH,2: Muscular insertions,134,268
+Medial head of flexor hallucis brevis.el,MESH,2: Muscular insertions,38,72
+Medial head of flexor hallucis brevis.er,MESH,2: Muscular insertions,38,72
+Medial head of gastrocnemius.ol,MESH,2: Muscular insertions,102,200
+Medial head of gastrocnemius.or,MESH,2: Muscular insertions,102,200
+Medial head of triceps brachii.ol,MESH,2: Muscular insertions,146,288
+Medial head of triceps brachii.or,MESH,2: Muscular insertions,146,288
+Medial pterygoid muscle.el,MESH,2: Muscular insertions,40,76
+Medial pterygoid muscle.er,MESH,2: Muscular insertions,40,76
+Medial pterygoid muscle.ol,MESH,2: Muscular insertions,76,148
+Medial pterygoid muscle.or,MESH,2: Muscular insertions,76,148
+Mentalis muscle.ol,MESH,2: Muscular insertions,12,20
+Mentalis muscle.or,MESH,2: Muscular insertions,12,20
+Mylohyoid muscle.or,MESH,2: Muscular insertions,50,96
+Mylohyoid muscle.ol,MESH,2: Muscular insertions,50,96
+Nasalis muscle.ol,MESH,2: Muscular insertions,64,124
+Nasalis muscle.or,MESH,2: Muscular insertions,64,124
+Oblique head of adductor hallucis.el,MESH,2: Muscular insertions,28,52
+Oblique head of adductor hallucis.er,MESH,2: Muscular insertions,28,52
+Oblique head of adductor hallucis.o1l,MESH,2: Muscular insertions,118,232
+Oblique head of adductor hallucis.o1r,MESH,2: Muscular insertions,118,232
+Oblique head of adductor hallucis.ol,MESH,2: Muscular insertions,56,108
+Oblique head of adductor hallucis.or,MESH,2: Muscular insertions,56,108
+Obliquus inferior capitis muscle.el,MESH,2: Muscular insertions,42,80
+Obliquus inferior capitis muscle.er,MESH,2: Muscular insertions,42,80
+Obliquus inferior capitis muscle.ol,MESH,2: Muscular insertions,28,52
+Obliquus inferior capitis muscle.or,MESH,2: Muscular insertions,28,52
+Obliquus superior capitis muscle.ol,MESH,2: Muscular insertions,70,136
+Obliquus superior capitis muscle.or,MESH,2: Muscular insertions,70,136
+Obturator externus.ol,MESH,2: Muscular insertions,240,476
+Obturator externus.or,MESH,2: Muscular insertions,240,476
+Obturator internus.ol,MESH,2: Muscular insertions,182,364
+Obturator internus.or,MESH,2: Muscular insertions,182,364
+Occipitalis muscle.ol,MESH,2: Muscular insertions,60,116
+Occipitalis muscle.or,MESH,2: Muscular insertions,60,116
+Omohyoid muscle.el,MESH,2: Muscular insertions,30,56
+Omohyoid muscle.er,MESH,2: Muscular insertions,30,56
+Omohyoid muscle.ol,MESH,2: Muscular insertions,104,204
+Omohyoid muscle.or,MESH,2: Muscular insertions,104,204
+Opponens digiti minimi muscle of hand.ol,MESH,2: Muscular insertions,32,60
+Opponens digiti minimi muscle of hand.or,MESH,2: Muscular insertions,32,60
+Orbicularis oris muscle.ol,MESH,2: Muscular insertions,22,40
+Orbicularis oris muscle.or,MESH,2: Muscular insertions,22,40
+Orbital part of orbicularis oculi.ol,MESH,2: Muscular insertions,32,60
+Orbital part of orbicularis oculi.or,MESH,2: Muscular insertions,32,60
+Patellar ligament.el,MESH,2: Muscular insertions,66,128
+Patellar ligament.er,MESH,2: Muscular insertions,66,128
+Patellar ligament.ol,MESH,2: Muscular insertions,70,136
+Patellar ligament.or,MESH,2: Muscular insertions,70,136
+Pectineus muscle.el,MESH,2: Muscular insertions,36,68
+Pectineus muscle.ol,MESH,2: Muscular insertions,94,184
+Pectineus muscle.or,MESH,2: Muscular insertions,94,184
+Pectoralis major muscle.el,MESH,2: Muscular insertions,70,136
+Pectoralis major muscle.er,MESH,2: Muscular insertions,70,136
+Pectoralis major muscle.ol,MESH,2: Muscular insertions,150,296
+Pectoralis major muscle.or,MESH,2: Muscular insertions,150,296
+Pectoralis minor muscle.e1l,MESH,2: Muscular insertions,234,464
+Pectoralis minor muscle.e1r,MESH,2: Muscular insertions,234,464
+Pectoralis minor muscle.e2l,MESH,2: Muscular insertions,176,348
+Pectoralis minor muscle.e2r,MESH,2: Muscular insertions,176,348
+Pectoralis minor muscle.el,MESH,2: Muscular insertions,152,300
+Pectoralis minor muscle.er,MESH,2: Muscular insertions,152,300
+Pectoralis minor muscle.ol,MESH,2: Muscular insertions,420,836
+Pectoralis minor muscle.or,MESH,2: Muscular insertions,420,836
+Plantar interossei muscles.e1l,MESH,2: Muscular insertions,34,64
+Plantaris muscle.ol,MESH,2: Muscular insertions,66,128
+Plantaris muscle.or,MESH,2: Muscular insertions,66,128
+Popliteus muscle.el,MESH,2: Muscular insertions,90,176
+Popliteus muscle.er,MESH,2: Muscular insertions,90,176
+Popliteus muscle.ol,MESH,2: Muscular insertions,48,92
+Popliteus muscle.or,MESH,2: Muscular insertions,48,92
+Pronator teres.er,MESH,2: Muscular insertions,32,60
+Pronator teres.ol,MESH,2: Muscular insertions,34,64
+Piriformis muscle.el,MESH,2: Muscular insertions,40,76
+Piriformis muscle.ol,MESH,2: Muscular insertions,212,420
+Piriformis muscle.or,MESH,2: Muscular insertions,212,420
+Plantar interossei muscles.e2l,MESH,2: Muscular insertions,32,60
+Plantar interossei muscles.el,MESH,2: Muscular insertions,30,56
+Plantar interossei muscles.o1l,MESH,2: Muscular insertions,52,100
+Plantar interossei muscles.o2l,MESH,2: Muscular insertions,68,132
+Plantar interossei muscles.ol,MESH,2: Muscular insertions,48,92
+Procerus muscle.el,MESH,2: Muscular insertions,32,60
+Procerus muscle.ol,MESH,2: Muscular insertions,34,64
+Procerus muscle.or,MESH,2: Muscular insertions,34,64
+Pronator quadratus.el,MESH,2: Muscular insertions,62,120
+Pronator quadratus.ol,MESH,2: Muscular insertions,28,52
+Pronator teres.el,MESH,2: Muscular insertions,32,60
+Pronator teres.or,MESH,2: Muscular insertions,34,64
+Quadratus femoris muscle.el,MESH,2: Muscular insertions,68,132
+Quadratus femoris muscle.er,MESH,2: Muscular insertions,68,132
+Quadratus femoris muscle.ol,MESH,2: Muscular insertions,52,100
+Quadratus femoris muscle.or,MESH,2: Muscular insertions,52,100
+Quadriceps femoris muscle.el,MESH,2: Muscular insertions,70,136
+Quadriceps femoris muscle.er,MESH,2: Muscular insertions,70,136
+Rectus abdominis muscle.el,MESH,2: Muscular insertions,96,188
+Rectus abdominis muscle.er,MESH,2: Muscular insertions,96,188
+Rectus abdominis muscle.ol,MESH,2: Muscular insertions,450,888
+Rectus abdominis muscle.or,MESH,2: Muscular insertions,450,888
+Rectus anterior capitis muscle.el,MESH,2: Muscular insertions,42,80
+Rectus anterior capitis muscle.er,MESH,2: Muscular insertions,42,80
+Rectus anterior capitis muscle.ol,MESH,2: Muscular insertions,18,32
+Rectus anterior capitis muscle.or,MESH,2: Muscular insertions,18,32
+Rectus femoris muscle.ol,MESH,2: Muscular insertions,60,112
+Rectus femoris muscle.or,MESH,2: Muscular insertions,60,112
+Rectus lateralis capitis muscle.ol,MESH,2: Muscular insertions,60,116
+Rectus lateralis capitis muscle.or,MESH,2: Muscular insertions,60,116
+Rectus posterior major capitis muscle.el,MESH,2: Muscular insertions,40,72
+Rectus posterior major capitis muscle.er,MESH,2: Muscular insertions,40,72
+Rectus posterior major capitis muscle.ol,MESH,2: Muscular insertions,36,68
+Rectus posterior major capitis muscle.or,MESH,2: Muscular insertions,36,68
+Rectus posterior minor capitis muscle.el,MESH,2: Muscular insertions,58,112
+Rectus posterior minor capitis muscle.er,MESH,2: Muscular insertions,58,112
+Rectus posterior minor capitis muscle.ol,MESH,2: Muscular insertions,34,64
+Rectus posterior minor capitis muscle.or,MESH,2: Muscular insertions,34,64
+Rhomboid major muscle.el,MESH,2: Muscular insertions,1370,2736
+Rhomboid major muscle.er,MESH,2: Muscular insertions,1370,2736
+Rhomboid minor muscle.el,MESH,2: Muscular insertions,412,820
+Rhomboid minor muscle.er,MESH,2: Muscular insertions,412,820
+Sartorius muscle.el,MESH,2: Muscular insertions,20,36
+Sartorius muscle.er,MESH,2: Muscular insertions,20,36
+Sartorius muscle.ol,MESH,2: Muscular insertions,124,244
+Sartorius muscle.or,MESH,2: Muscular insertions,124,244
+Scalenus anterior muscle.e1l,MESH,2: Muscular insertions,34,64
+Scalenus anterior muscle.e1r,MESH,2: Muscular insertions,34,64
+Scalenus anterior muscle.e2l,MESH,2: Muscular insertions,22,40
+Scalenus anterior muscle.e2r,MESH,2: Muscular insertions,22,40
+Scalenus anterior muscle.el,MESH,2: Muscular insertions,44,84
+Scalenus anterior muscle.er,MESH,2: Muscular insertions,44,84
+Scalenus anterior muscle.ol,MESH,2: Muscular insertions,104,204
+Scalenus anterior muscle.or,MESH,2: Muscular insertions,104,204
+Scalenus medius muscle.e1l,MESH,2: Muscular insertions,46,88
+Scalenus medius muscle.e1r,MESH,2: Muscular insertions,46,88
+Scalenus medius muscle.el,MESH,2: Muscular insertions,64,124
+Scalenus medius muscle.er,MESH,2: Muscular insertions,64,124
+Scalenus medius muscle.ol,MESH,2: Muscular insertions,140,276
+Scalenus medius muscle.or,MESH,2: Muscular insertions,140,276
+Scalenus posterior muscle.el,MESH,2: Muscular insertions,64,124
+Scalenus posterior muscle.er,MESH,2: Muscular insertions,64,124
+Scapular spinal part of deltoid muscle.ol,MESH,2: Muscular insertions,1032,2060
+Scapular spinal part of deltoid muscle.or,MESH,2: Muscular insertions,1032,2060
+Semimembranosus muscle.el,MESH,2: Muscular insertions,72,136
+Semimembranosus muscle.er,MESH,2: Muscular insertions,72,136
+Semimembranosus muscle.ol,MESH,2: Muscular insertions,58,112
+Semimembranosus muscle.or,MESH,2: Muscular insertions,58,112
+Semitendinosus muscle.el,MESH,2: Muscular insertions,52,100
+Semitendinosus muscle.er,MESH,2: Muscular insertions,52,100
+Semitendinosus muscle.ol,MESH,2: Muscular insertions,84,164
+Semitendinosus muscle.or,MESH,2: Muscular insertions,84,164
+Serratus anterior muscle.e1l,MESH,2: Muscular insertions,196,388
+Serratus anterior muscle.e2l,MESH,2: Muscular insertions,250,496
+Serratus anterior muscle.e2r,MESH,2: Muscular insertions,250,496
+Serratus anterior muscle.e3l,MESH,2: Muscular insertions,374,744
+Serratus anterior muscle.e3r,MESH,2: Muscular insertions,374,744
+Serratus anterior muscle.e4l,MESH,2: Muscular insertions,168,332
+Serratus anterior muscle.e4r,MESH,2: Muscular insertions,168,332
+Serratus anterior muscle.e5l,MESH,2: Muscular insertions,188,372
+Serratus anterior muscle.e5r,MESH,2: Muscular insertions,188,372
+Serratus anterior muscle.e6l,MESH,2: Muscular insertions,268,532
+Serratus anterior muscle.e6r,MESH,2: Muscular insertions,268,532
+Serratus anterior muscle.e7l,MESH,2: Muscular insertions,176,348
+Serratus anterior muscle.e7r,MESH,2: Muscular insertions,176,348
+Serratus anterior muscle.e8l,MESH,2: Muscular insertions,136,268
+Serratus anterior muscle.el,MESH,2: Muscular insertions,172,340
+Serratus anterior muscle.er,MESH,2: Muscular insertions,172,340
+Serratus anterior muscle.ol,MESH,2: Muscular insertions,478,952
+Serratus anterior muscle.or,MESH,2: Muscular insertions,478,952
+Serratus posterior inferior muscle.e1l,MESH,2: Muscular insertions,140,276
+Serratus posterior inferior muscle.e2l,MESH,2: Muscular insertions,74,144
+Serratus posterior inferior muscle.e3l,MESH,2: Muscular insertions,90,176
+Serratus posterior inferior muscle.el,MESH,2: Muscular insertions,140,276
+Serratus posterior superior muscle.e1l,MESH,2: Muscular insertions,190,376
+Serratus posterior superior muscle.e2l,MESH,2: Muscular insertions,462,920
+Serratus posterior superior muscle.e3l,MESH,2: Muscular insertions,360,716
+Serratus posterior superior muscle.el,MESH,2: Muscular insertions,212,420
+Short head of biceps brachii.ol,MESH,2: Muscular insertions,250,496
+Short head of biceps femoris.el,MESH,2: Muscular insertions,118,232
+Soleus muscle.o1l,MESH,2: Muscular insertions,92,180
+Soleus muscle.o1r,MESH,2: Muscular insertions,92,180
+Soleus muscle.ol,MESH,2: Muscular insertions,82,160
+Soleus muscle.or,MESH,2: Muscular insertions,82,160
+Spinalis capitis muscle.el,MESH,2: Muscular insertions,54,104
+Spinalis capitis muscle.er,MESH,2: Muscular insertions,54,104
+Splenius colli muscle.e1l,MESH,2: Muscular insertions,72,140
+Splenius colli muscle.e1r,MESH,2: Muscular insertions,72,140
+Splenius colli muscle.el,MESH,2: Muscular insertions,32,60
+Splenius colli muscle.er,MESH,2: Muscular insertions,32,60
+Sternocleidomastoid muscle.el,MESH,2: Muscular insertions,302,600
+Sternocleidomastoid muscle.er,MESH,2: Muscular insertions,302,600
+Sternocleidomastoid muscle.o1l,MESH,2: Muscular insertions,52,100
+Sternocleidomastoid muscle.o1r,MESH,2: Muscular insertions,52,100
+Sternocleidomastoid muscle.or,MESH,2: Muscular insertions,122,240
+Sternocleidomastoid muscle.ol,MESH,2: Muscular insertions,122,240
+Sternocostal head of pectoralis major muscle.e1r,MESH,2: Muscular insertions,452,896
+Sternocostal head of pectoralis major muscle.e1l,MESH,2: Muscular insertions,452,896
+Sternocostal head of pectoralis major muscle.e2r,MESH,2: Muscular insertions,218,432
+Sternocostal head of pectoralis major muscle.e2l,MESH,2: Muscular insertions,218,432
+Sternocostal head of pectoralis major muscle.el,MESH,2: Muscular insertions,572,1140
+Sternocostal head of pectoralis major muscle.er,MESH,2: Muscular insertions,572,1140
+Sternohyoid muscle.el,MESH,2: Muscular insertions,52,100
+Sternohyoid muscle.er,MESH,2: Muscular insertions,52,100
+Sternohyoid muscle.or,MESH,2: Muscular insertions,152,300
+Sternohyoid muscle.ol,MESH,2: Muscular insertions,152,300
+Subclavius muscle.ol,MESH,2: Muscular insertions,82,160
+Subclavius muscle.or,MESH,2: Muscular insertions,82,160
+Subscapularis muscle.el,MESH,2: Muscular insertions,50,96
+Subscapularis muscle.er,MESH,2: Muscular insertions,50,96
+Subscapularis muscle.ol,MESH,2: Muscular insertions,1470,2936
+Subscapularis muscle.or,MESH,2: Muscular insertions,1470,2936
+Superior gemellus muscle.ol,MESH,2: Muscular insertions,60,116
+Superior gemellus muscle.or,MESH,2: Muscular insertions,60,116
+Supinator.el,MESH,2: Muscular insertions,122,240
+Supinator.er,MESH,2: Muscular insertions,122,240
+Supinator.ol,MESH,2: Muscular insertions,48,92
+Supinator.or,MESH,2: Muscular insertions,48,92
+Supraspinatus muscle.el,MESH,2: Muscular insertions,126,248
+Supraspinatus muscle.er,MESH,2: Muscular insertions,126,248
+Supraspinatus muscle.ol,MESH,2: Muscular insertions,702,1400
+Supraspinatus muscle.or,MESH,2: Muscular insertions,702,1400
+Temporalis muscle.er,MESH,2: Muscular insertions,180,356
+Temporalis muscle.el,MESH,2: Muscular insertions,180,356
+Temporalis muscle.o1r,MESH,2: Muscular insertions,142,280
+Temporalis muscle.o1l,MESH,2: Muscular insertions,142,280
+Temporalis muscle.o2l,MESH,2: Muscular insertions,320,636
+Temporalis muscle.o2r,MESH,2: Muscular insertions,320,636
+Temporalis muscle.o3l,MESH,2: Muscular insertions,124,248
+Temporalis muscle.o3r,MESH,2: Muscular insertions,124,248
+Temporalis muscle.o4l,MESH,2: Muscular insertions,478,952
+Temporalis muscle.o4r,MESH,2: Muscular insertions,478,952
+Tensor fasciae latae.ol,MESH,2: Muscular insertions,42,80
+Tensor fasciae latae.or,MESH,2: Muscular insertions,42,80
+Teres major muscle.ol,MESH,2: Muscular insertions,450,896
+Teres major muscle.or,MESH,2: Muscular insertions,450,896
+Teres minor muscle.el,MESH,2: Muscular insertions,166,328
+Teres minor muscle.er,MESH,2: Muscular insertions,166,328
+Teres minor muscle.ol,MESH,2: Muscular insertions,504,1004
+Teres minor muscle.or,MESH,2: Muscular insertions,504,1004
+Thyrohyoid muscle.el,MESH,2: Muscular insertions,126,248
+Thyrohyoid muscle.er,MESH,2: Muscular insertions,126,248
+Thyrohyoid muscle.ol,MESH,2: Muscular insertions,56,108
+Thyrohyoid muscle.or,MESH,2: Muscular insertions,56,108
+Tibialis anterior muscle.e1l,MESH,2: Muscular insertions,56,108
+Tibialis anterior muscle.e1r,MESH,2: Muscular insertions,56,108
+Tibialis anterior muscle.el,MESH,2: Muscular insertions,122,240
+Tibialis anterior muscle.er,MESH,2: Muscular insertions,122,240
+Tibialis anterior muscle.ol,MESH,2: Muscular insertions,490,976
+Tibialis anterior muscle.or,MESH,2: Muscular insertions,490,976
+Tibialis posterior muscle.ol,MESH,2: Muscular insertions,746,1492
+Tibialis posterior muscle.or,MESH,2: Muscular insertions,746,1492
+Transverse head of adductor hallucis.e1l,MESH,2: Muscular insertions,26,48
+Transverse head of adductor hallucis.e1r,MESH,2: Muscular insertions,26,48
+Transverse head of adductor hallucis.e2l,MESH,2: Muscular insertions,110,216
+Transverse head of adductor hallucis.e2r,MESH,2: Muscular insertions,110,216
+Transverse head of adductor hallucis.e3l,MESH,2: Muscular insertions,60,116
+Transverse head of adductor hallucis.e3r,MESH,2: Muscular insertions,60,116
+Transverse head of adductor hallucis.ol,MESH,2: Muscular insertions,16,28
+Transverse head of adductor hallucis.or,MESH,2: Muscular insertions,16,28
+Transverse part of trapezius muscle.ol,MESH,2: Muscular insertions,276,548
+Transverse part of trapezius muscle.or,MESH,2: Muscular insertions,276,548
+Transversus abdominis muscle.ol,MESH,2: Muscular insertions,138,272
+Transversus abdominis muscle.or,MESH,2: Muscular insertions,138,272
+Transversus thoracis muscle.o1r,MESH,2: Muscular insertions,100,192
+Transversus thoracis muscle.o1l,MESH,2: Muscular insertions,100,192
+Transversus thoracis muscle.or,MESH,2: Muscular insertions,362,720
+Transversus thoracis muscle.ol,MESH,2: Muscular insertions,362,720
+Triceps brachii muscle.el,MESH,2: Muscular insertions,88,172
+Triceps brachii muscle.er,MESH,2: Muscular insertions,88,172
+Triceps surae muscle.el,MESH,2: Muscular insertions,90,176
+Triceps surae muscle.er,MESH,2: Muscular insertions,90,176
+Trochanteric insertion.el,MESH,2: Muscular insertions,50,96
+Trochanteric insertion.er,MESH,2: Muscular insertions,50,96
+Ulnar head of flexor carpi ulnaris.ol,MESH,2: Muscular insertions,316,628
+Ulnar head of flexor carpi ulnaris.or,MESH,2: Muscular insertions,316,628
+Vastus intermedius muscle.ol,MESH,2: Muscular insertions,164,324
+Vastus intermedius muscle.or,MESH,2: Muscular insertions,164,324
+Vastus lateralis muscle.ol,MESH,2: Muscular insertions,196,388
+Vastus lateralis muscle.or,MESH,2: Muscular insertions,196,388
+Vastus medialis muscle.ol,MESH,2: Muscular insertions,182,360
+Vastus medialis muscle.or,MESH,2: Muscular insertions,182,360
+Zygomaticus major muscle.ol,MESH,2: Muscular insertions,20,36
+Zygomaticus major muscle.or,MESH,2: Muscular insertions,20,36
+Zygomaticus minor muscle.ol,MESH,2: Muscular insertions,22,40
+Zygomaticus minor muscle.or,MESH,2: Muscular insertions,22,40

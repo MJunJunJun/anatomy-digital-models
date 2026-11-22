@@ -1,0 +1,392 @@
+{
+ "removed": [
+  "Cochlea.l",
+  "Cochlea.r",
+  "Vestibule.l",
+  "Vestibule.r",
+  "Tympanic membrane.l",
+  "Tympanic membrane.r",
+  "Cochlear nerve",
+  "Kidney.l",
+  "Kidney.r",
+  "Renal pelvis.l",
+  "Renal pelvis.r"
+ ],
+ "systems": [
+  {
+   "system": "1: Skeletal system",
+   "file": "01_skeletal",
+   "objects": 278,
+   "vertices": 301103,
+   "triangles": 600409
+  },
+  {
+   "system": "2: Muscular insertions",
+   "file": "02_muscle_insertions",
+   "objects": 705,
+   "vertices": 88750,
+   "triangles": 174460
+  },
+  {
+   "system": "3: Joints",
+   "file": "03_joints",
+   "objects": 414,
+   "vertices": 101688,
+   "triangles": 198020
+  },
+  {
+   "system": "4: Muscular system",
+   "file": "04_muscles",
+   "objects": 684,
+   "vertices": 1079829,
+   "triangles": 2149677
+  },
+  {
+   "system": "5: Cardiovascular system",
+   "file": "05_cardiovascular",
+   "objects": 676,
+   "vertices": 1863012,
+   "triangles": 3680826
+  },
+  {
+   "system": "6: Lymphoid organs",
+   "file": "06_lymphoid",
+   "objects": 164,
+   "vertices": 65853,
+   "triangles": 128353
+  },
+  {
+   "system": "7: Nervous system & Sense organs",
+   "file": "07_nervous_sense",
+   "objects": 576,
+   "vertices": 1099190,
+   "triangles": 2162450
+  },
+  {
+   "system": "8: Visceral systems",
+   "file": "08_visceral",
+   "objects": 117,
+   "vertices": 168889,
+   "triangles": 333653
+  },
+  {
+   "system": "9: Regions of human body",
+   "file": "09_regions",
+   "objects": 257,
+   "vertices": 64467,
+   "triangles": 125265
+  }
+ ],
+ "skipped": [
+  [
+   "Abduction",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Movements"
+  ],
+  [
+   "Adduction",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Movements"
+  ],
+  [
+   "Anterior axillary line.l",
+   "MESH",
+   "Reference lines, reference planes, movements"
+  ],
+  [
+   "Anterior axillary line.r",
+   "MESH",
+   "Reference lines, reference planes, movements"
+  ],
+  [
+   "Anterior median line",
+   "MESH",
+   "Reference lines, reference planes, movements"
+  ],
+  [
+   "BezierCircle'",
+   "CURVE",
+   "Bonus collection/Regions of human body/Integument/Skin appendages/Hairs"
+  ],
+  [
+   "Caudal",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/General terms;Bonus collection/Reference lines, planes & movements'/Orientations"
+  ],
+  [
+   "Circumduction",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Movements"
+  ],
+  [
+   "Coronal planes",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Reference planes/Longitudinal planes/Sagittal planes"
+  ],
+  [
+   "Cranial",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/General terms;Bonus collection/Reference lines, planes & movements'/Orientations"
+  ],
+  [
+   "Cross Section X",
+   "MESH",
+   "Cross section planes"
+  ],
+  [
+   "Cross Section Y",
+   "MESH",
+   "Cross section planes"
+  ],
+  [
+   "Cross Section Z",
+   "MESH",
+   "Cross section planes"
+  ],
+  [
+   "Distal",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/General terms;Bonus collection/Reference lines, planes & movements'/Orientations"
+  ],
+  [
+   "Dorsal",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/General terms;Bonus collection/Reference lines, planes & movements'/Orientations"
+  ],
+  [
+   "Dorsiflexion",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Movements"
+  ],
+  [
+   "Eversion",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Movements"
+  ],
+  [
+   "Fibular",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/General terms;Bonus collection/Reference lines, planes & movements'/Orientations"
+  ],
+  [
+   "Frontal",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/General terms;Bonus collection/Reference lines, planes & movements'/Orientations"
+  ],
+  [
+   "General terms.g",
+   "MESH",
+   "Reference lines, reference planes, movements"
+  ],
+  [
+   "HOW TO ...",
+   "MESH",
+   "<not in scene>"
+  ],
+  [
+   "Inversion",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Movements"
+  ],
+  [
+   "Lateral rotation",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Movements"
+  ],
+  [
+   "Lymph node",
+   "MESH",
+   "<not in scene>"
+  ],
+  [
+   "Mamillary line.l",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Reference lines"
+  ],
+  [
+   "Mamillary line.r",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Reference lines"
+  ],
+  [
+   "Medial rotation",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Movements"
+  ],
+  [
+   "Median plane",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Reference planes/Longitudinal planes/Sagittal planes"
+  ],
+  [
+   "Medulla-path",
+   "CURVE",
+   "Bonus collection/Nervous system"
+  ],
+  [
+   "Midclavicular line.l",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Reference lines"
+  ],
+  [
+   "Midclavicular line.r",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Reference lines"
+  ],
+  [
+   "Movements.g",
+   "MESH",
+   "Reference lines, reference planes, movements"
+  ],
+  [
+   "Occipital",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/General terms;Bonus collection/Reference lines, planes & movements'/Orientations"
+  ],
+  [
+   "Oesophagus-profile",
+   "CURVE",
+   "Bonus collection/Visceral systems/Digestive system/Digestive canal/Oesophagus"
+  ],
+  [
+   "Palmar",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/General terms;Bonus collection/Reference lines, planes & movements'/Orientations"
+  ],
+  [
+   "Paramedian plane",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Reference planes/Longitudinal planes/Sagittal planes"
+  ],
+  [
+   "Parasternal line.l",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Reference lines"
+  ],
+  [
+   "Parasternal line.r",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Reference lines"
+  ],
+  [
+   "Paravertebral line.l",
+   "MESH",
+   "Reference lines, reference planes, movements"
+  ],
+  [
+   "Paravertebral line.r",
+   "MESH",
+   "Reference lines, reference planes, movements"
+  ],
+  [
+   "Plantar flexion",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Movements"
+  ],
+  [
+   "Posterior axillary line.l",
+   "MESH",
+   "Reference lines, reference planes, movements"
+  ],
+  [
+   "Posterior axillary line.r",
+   "MESH",
+   "Reference lines, reference planes, movements"
+  ],
+  [
+   "Posterior median line",
+   "MESH",
+   "Reference lines, reference planes, movements"
+  ],
+  [
+   "Reference lines.g",
+   "MESH",
+   "Reference lines, reference planes, movements"
+  ],
+  [
+   "Sagittal planes.j",
+   "MESH",
+   "Reference lines, reference planes, movements"
+  ],
+  [
+   "Scapular line.l",
+   "MESH",
+   "Reference lines, reference planes, movements"
+  ],
+  [
+   "Scapular line.r",
+   "MESH",
+   "Reference lines, reference planes, movements"
+  ],
+  [
+   "Plantar",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/General terms;Bonus collection/Reference lines, planes & movements'/Orientations"
+  ],
+  [
+   "Pronation",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Movements"
+  ],
+  [
+   "Proximal",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/General terms;Bonus collection/Reference lines, planes & movements'/Orientations"
+  ],
+  [
+   "Radial",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/General terms;Bonus collection/Reference lines, planes & movements'/Orientations"
+  ],
+  [
+   "Reference planes.g",
+   "MESH",
+   "Reference lines, reference planes, movements"
+  ],
+  [
+   "Sternal line.l",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Reference lines"
+  ],
+  [
+   "Sternal line.r",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Reference lines"
+  ],
+  [
+   "Supination",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Movements"
+  ],
+  [
+   "Take a picture",
+   "MESH",
+   "<not in scene>"
+  ],
+  [
+   "Tibial",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/General terms;Bonus collection/Reference lines, planes & movements'/Orientations"
+  ],
+  [
+   "Transverse planes",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/Reference planes/Transverse planes"
+  ],
+  [
+   "Ulnar",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/General terms;Bonus collection/Reference lines, planes & movements'/Orientations"
+  ],
+  [
+   "Ventral",
+   "MESH",
+   "Reference lines, reference planes, movements;Bonus collection/Reference lines, planes & movements'/General terms;Bonus collection/Reference lines, planes & movements'/Orientations"
+  ],
+  [
+   "Zonular fibers-curve.r",
+   "CURVE",
+   "Bonus collection/Nervous system/Sense organs/Eye*/Eyeball/Anterior segment of eyeball/Ciliary zonule"
+  ]
+ ]
+}

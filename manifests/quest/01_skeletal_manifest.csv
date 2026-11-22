@@ -1,0 +1,279 @@
+object,source_type,collection_path,vertices,triangles
+Anterior cells of ethmoid bone.l,MESH,1: Skeletal system,72,136
+Anterior cells of ethmoid bone.r,MESH,1: Skeletal system,72,136
+Arytenoid cartilage.r,MESH,1: Skeletal system,162,320
+Arytenoid cartilage.l,MESH,1: Skeletal system,162,320
+Atlas (C1),MESH,1: Skeletal system,557,1096
+Axis (C2),MESH,1: Skeletal system,584,1166
+Body of sternum,MESH,1: Skeletal system,1123,2232
+Calcaneus.l,MESH,1: Skeletal system,364,724
+Calcaneus.r,MESH,1: Skeletal system,364,724
+Capitate bone.l,MESH,1: Skeletal system,120,236
+Capitate bone.r,MESH,1: Skeletal system,120,236
+Clavicle.l,MESH,1: Skeletal system,401,774
+Clavicle.r,MESH,1: Skeletal system,401,774
+Coccyx,MESH,1: Skeletal system,297,582
+Corniculate cartilage.r,MESH,1: Skeletal system,70,136
+Corniculate cartilage.l,MESH,1: Skeletal system,70,136
+Costal cartilage of eighth rib.l,MESH,1: Skeletal system,165,326
+Costal cartilage of eighth rib.r,MESH,1: Skeletal system,165,326
+Costal cartilage of fifth rib.l,MESH,1: Skeletal system,272,540
+Costal cartilage of fifth rib.r,MESH,1: Skeletal system,272,540
+Costal cartilage of first rib.l,MESH,1: Skeletal system,117,230
+Costal cartilage of first rib.r,MESH,1: Skeletal system,117,230
+Costal cartilage of fourth rib.l,MESH,1: Skeletal system,188,372
+Costal cartilage of fourth rib.r,MESH,1: Skeletal system,188,372
+Costal cartilage of ninth rib.l,MESH,1: Skeletal system,124,244
+Costal cartilage of ninth rib.r,MESH,1: Skeletal system,124,244
+Costal cartilage of second rib.l,MESH,1: Skeletal system,144,284
+Costal cartilage of second rib.r,MESH,1: Skeletal system,144,284
+Costal cartilage of seventh rib.l,MESH,1: Skeletal system,575,1146
+Costal cartilage of seventh rib.r,MESH,1: Skeletal system,575,1146
+Costal cartilage of sixth rib.l,MESH,1: Skeletal system,340,676
+Costal cartilage of sixth rib.r,MESH,1: Skeletal system,340,676
+Costal cartilage of tenth rib.l,MESH,1: Skeletal system,96,188
+Costal cartilage of tenth rib.r,MESH,1: Skeletal system,96,188
+Costal cartilage of third rib.l,MESH,1: Skeletal system,152,300
+Costal cartilage of third rib.r,MESH,1: Skeletal system,152,300
+Cricoid cartilage,MESH,1: Skeletal system,470,940
+Cuboid bone.l,MESH,1: Skeletal system,251,498
+Cuboid bone.r,MESH,1: Skeletal system,251,498
+Distal phalanx of fifth finger of foot.l,MESH,1: Skeletal system,120,236
+Distal phalanx of fifth finger of foot.r,MESH,1: Skeletal system,120,236
+Distal phalanx of fifth finger of hand.l,MESH,1: Skeletal system,98,192
+Distal phalanx of fifth finger of hand.r,MESH,1: Skeletal system,98,192
+Distal phalanx of first finger of foot.l,MESH,1: Skeletal system,118,232
+Distal phalanx of first finger of foot.r,MESH,1: Skeletal system,118,232
+Distal phalanx of first finger of hand.l,MESH,1: Skeletal system,113,222
+Distal phalanx of first finger of hand.r,MESH,1: Skeletal system,113,222
+Distal phalanx of fourth finger of foot.l,MESH,1: Skeletal system,141,278
+Distal phalanx of fourth finger of foot.r,MESH,1: Skeletal system,141,278
+Distal phalanx of fourth finger of hand.l,MESH,1: Skeletal system,69,134
+Distal phalanx of fourth finger of hand.r,MESH,1: Skeletal system,69,134
+Distal phalanx of second finger of foot.l,MESH,1: Skeletal system,120,236
+Distal phalanx of second finger of foot.r,MESH,1: Skeletal system,120,236
+Distal phalanx of second finger of hand.l,MESH,1: Skeletal system,127,250
+Distal phalanx of second finger of hand.r,MESH,1: Skeletal system,127,250
+Distal phalanx of third finger of foot.l,MESH,1: Skeletal system,81,158
+Distal phalanx of third finger of foot.r,MESH,1: Skeletal system,81,158
+Distal phalanx of third finger of hand.l,MESH,1: Skeletal system,98,192
+Distal phalanx of third finger of hand.r,MESH,1: Skeletal system,98,192
+Eighth rib.l,MESH,1: Skeletal system,2069,4134
+Eighth rib.r,MESH,1: Skeletal system,2069,4134
+Eleventh rib.l,MESH,1: Skeletal system,1260,2516
+Eleventh rib.r,MESH,1: Skeletal system,1260,2516
+Ethmoid bone,MESH,1: Skeletal system,1398,2822
+Femur.l,MESH,1: Skeletal system,950,1896
+Femur.r,MESH,1: Skeletal system,950,1896
+Fibula.l,MESH,1: Skeletal system,337,632
+Fibula.r,MESH,1: Skeletal system,337,632
+Fifth metacarpal bone.l,MESH,1: Skeletal system,130,256
+Fifth metacarpal bone.r,MESH,1: Skeletal system,130,256
+Fifth metatarsal bone.l,MESH,1: Skeletal system,225,446
+Fifth metatarsal bone.r,MESH,1: Skeletal system,225,446
+Fifth rib.l,MESH,1: Skeletal system,2346,4688
+Fifth rib.r,MESH,1: Skeletal system,2346,4688
+First metacarpal bone.l,MESH,1: Skeletal system,172,340
+First metacarpal bone.r,MESH,1: Skeletal system,172,340
+First metatarsal bone.l,MESH,1: Skeletal system,274,544
+First metatarsal bone.r,MESH,1: Skeletal system,274,544
+First rib.l,MESH,1: Skeletal system,804,1604
+First rib.r,MESH,1: Skeletal system,804,1604
+Fourth metacarpal bone.l,MESH,1: Skeletal system,162,320
+Fourth metacarpal bone.r,MESH,1: Skeletal system,162,320
+Fourth metatarsal bone.l,MESH,1: Skeletal system,210,416
+Fourth metatarsal bone.r,MESH,1: Skeletal system,210,416
+Fourth rib.l,MESH,1: Skeletal system,2163,4322
+Fourth rib.r,MESH,1: Skeletal system,2163,4322
+Frontal bone,MESH,1: Skeletal system,1957,3888
+Hamate bone.l,MESH,1: Skeletal system,136,268
+Hamate bone.r,MESH,1: Skeletal system,136,268
+Hip bone.l,MESH,1: Skeletal system,947,1894
+Hip bone.r,MESH,1: Skeletal system,947,1894
+Humerus.l,MESH,1: Skeletal system,1073,2140
+Humerus.r,MESH,1: Skeletal system,1073,2140
+Hyoid bone,MESH,1: Skeletal system,333,662
+Incus.l,MESH,1: Skeletal system,635,1266
+Incus.r,MESH,1: Skeletal system,635,1266
+Inferior nasal concha bone.l,MESH,1: Skeletal system,119,238
+Inferior nasal concha bone.r,MESH,1: Skeletal system,119,238
+Intermediate cuneiform bone.l,MESH,1: Skeletal system,113,222
+Intermediate cuneiform bone.r,MESH,1: Skeletal system,113,222
+Lacrimal bone.l,MESH,1: Skeletal system,149,294
+Lacrimal bone.r,MESH,1: Skeletal system,149,294
+Lateral cuneiform bone.l,MESH,1: Skeletal system,161,318
+Lateral cuneiform bone.r,MESH,1: Skeletal system,161,318
+Lateral process of nasal septal cartilage.l,MESH,1: Skeletal system,87,173
+Lateral process of nasal septal cartilage.r,MESH,1: Skeletal system,87,173
+Lower canine.l,MESH,1: Skeletal system,321,638
+Lower canine.r,MESH,1: Skeletal system,321,638
+Lower first molar tooth.l,MESH,1: Skeletal system,1133,2254
+Lower first molar tooth.r,MESH,1: Skeletal system,1133,2254
+Lower first premolar.l,MESH,1: Skeletal system,307,610
+Lower first premolar.r,MESH,1: Skeletal system,307,610
+Lower lateral incisor.l,MESH,1: Skeletal system,262,520
+Lower lateral incisor.r,MESH,1: Skeletal system,262,520
+Lower medial incisor.r,MESH,1: Skeletal system,248,492
+Lower medial incisor.l,MESH,1: Skeletal system,248,492
+Lower second molar tooth.l,MESH,1: Skeletal system,421,838
+Lower second molar tooth.r,MESH,1: Skeletal system,421,838
+Lower second premolar.l,MESH,1: Skeletal system,297,590
+Lower second premolar.r,MESH,1: Skeletal system,297,590
+Lunate bone.l,MESH,1: Skeletal system,89,174
+Lunate bone.r,MESH,1: Skeletal system,89,174
+Major alar cartilage.l,MESH,1: Skeletal system,88,172
+Major alar cartilage.r,MESH,1: Skeletal system,88,172
+Malleus.l,MESH,1: Skeletal system,997,1990
+Malleus.r,MESH,1: Skeletal system,997,1990
+Mandible,MESH,1: Skeletal system,4678,9418
+Manubrium of sternum,MESH,1: Skeletal system,670,1330
+Maxilla.l,MESH,1: Skeletal system,1199,2398
+Maxilla.r,MESH,1: Skeletal system,1199,2398
+Medial cuneiform bone.l,MESH,1: Skeletal system,250,496
+Medial cuneiform bone.r,MESH,1: Skeletal system,250,496
+Middle cells of ethmoid bone.l,MESH,1: Skeletal system,84,160
+Middle cells of ethmoid bone.r,MESH,1: Skeletal system,84,160
+Middle phalanx of fifth finger of foot.l,MESH,1: Skeletal system,110,216
+Middle phalanx of fifth finger of foot.r,MESH,1: Skeletal system,110,216
+Middle phalanx of fifth finger of hand.l,MESH,1: Skeletal system,148,292
+Middle phalanx of fifth finger of hand.r,MESH,1: Skeletal system,148,292
+Middle phalanx of fourth finger of foot.l,MESH,1: Skeletal system,114,224
+Middle phalanx of fourth finger of foot.r,MESH,1: Skeletal system,114,224
+Middle phalanx of fourth finger of hand.l,MESH,1: Skeletal system,113,222
+Middle phalanx of fourth finger of hand.r,MESH,1: Skeletal system,113,222
+Middle phalanx of second finger of foot.l,MESH,1: Skeletal system,97,190
+Middle phalanx of second finger of foot.r,MESH,1: Skeletal system,97,190
+Middle phalanx of second finger of hand.l,MESH,1: Skeletal system,80,156
+Middle phalanx of second finger of hand.r,MESH,1: Skeletal system,80,156
+Middle phalanx of third finger of foot.l,MESH,1: Skeletal system,102,200
+Middle phalanx of third finger of foot.r,MESH,1: Skeletal system,102,200
+Middle phalanx of third finger of hand.l,MESH,1: Skeletal system,92,180
+Middle phalanx of third finger of hand.r,MESH,1: Skeletal system,92,180
+Nasal bone.l,MESH,1: Skeletal system,148,292
+Nasal bone.r,MESH,1: Skeletal system,148,292
+Nasal septal cartilage,MESH,1: Skeletal system,92,180
+Navicular bone.l,MESH,1: Skeletal system,185,366
+Navicular bone.r,MESH,1: Skeletal system,185,366
+Ninth rib.l,MESH,1: Skeletal system,1946,3888
+Ninth rib.r,MESH,1: Skeletal system,1946,3888
+Occipital bone,MESH,1: Skeletal system,1874,3765
+Palatine bone.l,MESH,1: Skeletal system,367,730
+Palatine bone.r,MESH,1: Skeletal system,367,730
+Parietal bone.l,MESH,1: Skeletal system,1721,3442
+Parietal bone.r,MESH,1: Skeletal system,1691,3390
+Patella.l,MESH,1: Skeletal system,140,276
+Pisiform bone.l,MESH,1: Skeletal system,141,278
+Pisiform bone.r,MESH,1: Skeletal system,141,278
+Posterior cells of ethmoid bone.l,MESH,1: Skeletal system,114,216
+Posterior cells of ethmoid bone.r,MESH,1: Skeletal system,114,216
+Proximal phalanx of fifth finger of foot.l,MESH,1: Skeletal system,131,258
+Scaphoid bone.r,MESH,1: Skeletal system,99,194
+Second metatarsal bone.r,MESH,1: Skeletal system,174,344
+Second rib.r,MESH,1: Skeletal system,1343,2682
+Sesamoid bones of foot.r,MESH,1: Skeletal system,149,290
+Sphenoid bone,MESH,1: Skeletal system,1819,3654
+Patella.r,MESH,1: Skeletal system,140,276
+Proximal phalanx of fifth finger of foot.r,MESH,1: Skeletal system,131,258
+Proximal phalanx of fifth finger of hand.l,MESH,1: Skeletal system,142,280
+Proximal phalanx of fifth finger of hand.r,MESH,1: Skeletal system,142,280
+Proximal phalanx of first finger of foot.l,MESH,1: Skeletal system,135,266
+Proximal phalanx of first finger of foot.r,MESH,1: Skeletal system,135,266
+Proximal phalanx of first finger of hand.l,MESH,1: Skeletal system,84,164
+Proximal phalanx of first finger of hand.r,MESH,1: Skeletal system,84,164
+Proximal phalanx of fourth finger of foot.l,MESH,1: Skeletal system,117,230
+Proximal phalanx of fourth finger of foot.r,MESH,1: Skeletal system,117,230
+Proximal phalanx of fourth finger of hand.l,MESH,1: Skeletal system,94,184
+Proximal phalanx of fourth finger of hand.r,MESH,1: Skeletal system,94,184
+Proximal phalanx of second finger of foot.l,MESH,1: Skeletal system,108,212
+Proximal phalanx of second finger of foot.r,MESH,1: Skeletal system,108,212
+Proximal phalanx of second finger of hand.l,MESH,1: Skeletal system,105,206
+Proximal phalanx of second finger of hand.r,MESH,1: Skeletal system,105,206
+Proximal phalanx of third finger of foot.l,MESH,1: Skeletal system,117,230
+Proximal phalanx of third finger of foot.r,MESH,1: Skeletal system,117,230
+Proximal phalanx of third finger of hand.l,MESH,1: Skeletal system,112,220
+Proximal phalanx of third finger of hand.r,MESH,1: Skeletal system,112,220
+Radius.l,MESH,1: Skeletal system,198,392
+Radius.r,MESH,1: Skeletal system,198,392
+Sacrum,MESH,1: Skeletal system,2912,5837
+Scaphoid bone.l,MESH,1: Skeletal system,99,194
+Scapula.l,MESH,1: Skeletal system,6358,12662
+Scapula.r,MESH,1: Skeletal system,6358,12662
+Second metacarpal bone.l,MESH,1: Skeletal system,193,382
+Second metacarpal bone.r,MESH,1: Skeletal system,193,382
+Second metatarsal bone.l,MESH,1: Skeletal system,174,344
+Second rib.l,MESH,1: Skeletal system,1343,2682
+Sesamoid bones of foot.l,MESH,1: Skeletal system,149,290
+Seventh rib.l,MESH,1: Skeletal system,2446,4888
+Seventh rib.r,MESH,1: Skeletal system,2446,4888
+Sinus of frontal bone,MESH,1: Skeletal system,393,752
+Sinus of sphenoid bone,MESH,1: Skeletal system,109,192
+Sixth rib.l,MESH,1: Skeletal system,2545,5066
+Sixth rib.r,MESH,1: Skeletal system,2545,5066
+Skeletal system.g,MESH,1: Skeletal system,252,225
+Stapes.l,MESH,1: Skeletal system,1085,2170
+Stapes.r,MESH,1: Skeletal system,1085,2170
+Talus.l,MESH,1: Skeletal system,339,674
+Talus.r,MESH,1: Skeletal system,339,674
+Temporal bone.l,MESH,1: Skeletal system,3527,7046
+Temporal bone.r,MESH,1: Skeletal system,3527,7046
+Tenth rib.l,MESH,1: Skeletal system,1758,3512
+Tenth rib.r,MESH,1: Skeletal system,1758,3512
+Third metacarpal bone.l,MESH,1: Skeletal system,179,354
+Third metacarpal bone.r,MESH,1: Skeletal system,179,354
+Third metatarsal bone.l,MESH,1: Skeletal system,205,406
+Third metatarsal bone.r,MESH,1: Skeletal system,205,406
+Third rib.l,MESH,1: Skeletal system,1747,3490
+Third rib.r,MESH,1: Skeletal system,1747,3490
+Thyroid cartilage,MESH,1: Skeletal system,1125,2244
+Tibia.l,MESH,1: Skeletal system,419,834
+Tibia.r,MESH,1: Skeletal system,419,834
+Trapezium bone.l,MESH,1: Skeletal system,127,250
+Trapezium bone.r,MESH,1: Skeletal system,127,250
+Trapezoid bone.l,MESH,1: Skeletal system,93,182
+Trapezoid bone.r,MESH,1: Skeletal system,93,182
+Triquetrum bone.l,MESH,1: Skeletal system,90,176
+Triquetrum bone.r,MESH,1: Skeletal system,90,176
+Twelfth rib.l,MESH,1: Skeletal system,752,1500
+Twelfth rib.r,MESH,1: Skeletal system,752,1500
+Ulna.l,MESH,1: Skeletal system,228,452
+Ulna.r,MESH,1: Skeletal system,228,452
+Upper canine.l,MESH,1: Skeletal system,369,734
+Upper canine.r,MESH,1: Skeletal system,369,734
+Upper first molar tooth.l,MESH,1: Skeletal system,546,1088
+Upper first molar tooth.r,MESH,1: Skeletal system,546,1088
+Upper first premolar.l,MESH,1: Skeletal system,423,842
+Upper first premolar.r,MESH,1: Skeletal system,423,842
+Upper lateral incisor.l,MESH,1: Skeletal system,365,726
+Upper lateral incisor.r,MESH,1: Skeletal system,365,726
+Upper medial incisor.l,MESH,1: Skeletal system,344,684
+Upper medial incisor.r,MESH,1: Skeletal system,344,684
+Upper second molar tooth.l,MESH,1: Skeletal system,463,922
+Upper second molar tooth.r,MESH,1: Skeletal system,463,922
+Upper second premolar.l,MESH,1: Skeletal system,390,776
+Upper second premolar.r,MESH,1: Skeletal system,390,776
+Vertebra C3,MESH,1: Skeletal system,606,1220
+Vertebra C4,MESH,1: Skeletal system,487,970
+Vertebra C5,MESH,1: Skeletal system,580,1168
+Vertebra C6,MESH,1: Skeletal system,572,1152
+Vertebra C7,MESH,1: Skeletal system,537,1082
+Vertebra L1,MESH,1: Skeletal system,790,1580
+Vertebra L2,MESH,1: Skeletal system,672,1344
+Vertebra L3,MESH,1: Skeletal system,810,1580
+Vertebra L4,MESH,1: Skeletal system,951,1902
+Vertebra L5,MESH,1: Skeletal system,1008,2016
+Vertebra T1,MESH,1: Skeletal system,486,972
+Vertebra T10,MESH,1: Skeletal system,764,1528
+Vertebra T11,MESH,1: Skeletal system,449,898
+Vertebra T12,MESH,1: Skeletal system,646,1292
+Vertebra T2,MESH,1: Skeletal system,535,1070
+Vertebra T3,MESH,1: Skeletal system,586,1172
+Vertebra T4,MESH,1: Skeletal system,554,1108
+Vertebra T5,MESH,1: Skeletal system,538,1076
+Vertebra T6,MESH,1: Skeletal system,445,890
+Vertebra T7,MESH,1: Skeletal system,698,1396
+Vertebra T8,MESH,1: Skeletal system,434,866
+Vertebra T9,MESH,1: Skeletal system,744,1488
+Vomer,MESH,1: Skeletal system,258,510
+Xiphoid process,MESH,1: Skeletal system,230,456
+Zygomatic bone.l,MESH,1: Skeletal system,334,664
+Zygomatic bone.r,MESH,1: Skeletal system,334,664
